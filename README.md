@@ -121,6 +121,8 @@ Conflict Urbanism Puerto Rico Now [Page](http://puerto-rico-now.c4sr.columbia.ed
 
 Methods for Spatial Research tutorials [Page](https://github.com/CenterForSpatialResearch/methods-in-spatial-research-sp2020)
 
+Conflict Urbanism 2022 [Page](https://centerforspatialresearch.github.io/conflict_urbanism_sp2022/)
+
 ## Office Hours: 
 
 Lucia Rebolino -- lucia.rebolino@columbia.edu
