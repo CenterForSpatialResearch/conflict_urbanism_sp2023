@@ -76,7 +76,7 @@ This tutorial accomplishes two things:
     4. After dragging the image file you have chosen into the uploader, enter a descriptive caption for your commit, and select `Commit Changes`
     5. Check the folder to verify that the image was uploaded
 **Now we'll embed the image in to the body of your post.**
-    1. You'll use the following syntax:  `![description of image](/conflict_urbanism_sp2020/images/lastname_description.jpg)` replace `your-site-name` with the name of the repository for the site, and replace `lastname_description.jpg` with the file name of the image you just uploaded
+    1. You'll use the following syntax:  `![description of image](/conflict_urbanism_sp2020/projectname_images/projectname_description.jpg)` replace `your-site-name` with the name of the repository for the site, and replace `projectname_description.jpg` with the file name of the image you just uploaded
     - note: the information between the [ ] contains a description of the image that gets used by screen readers to make your website more accessible
     - the information in the () contains the path to the image within our website
       **Note** the file path must start with a `/` i.e. it must be something like `/your-site-name/images/` if you do not include the `/` then the link will not work.
@@ -87,12 +87,12 @@ This tutorial accomplishes two things:
 
     2. just like you did in step 13 above upload this image to the `images` folder
 
-    3. update the yaml header of your post, replace the path in the `image` field to match the repository name and file name of the square image you just uploaded to github. Just like above, replace `your-project-name` with the name of your site's repository, and replace `lastname_description2.png` with the name of the square image you just uploaded:
+    3. update the yaml header of your post, replace the path in the `image` field to match the repository name and file name of the square image you just uploaded to github. Just like above, replace `your-project-name` with the name of your site's repository, and replace `projectname_coverimage.jpg` with the name of the square image you just uploaded:
     ```
     ---
     layout: post
     date:   2019-03-20
-    image: "/conflict_urbanism_sp2020/images/lastname_description2.png"
+    image: "/conflict_urbanism_sp2023/projectname_images/projectname_coverimage.jpg"
     title:  "Provisional Title of Your Final Project"
     author: "Names Of Everyone In Your Group"
     ---
