@@ -70,7 +70,7 @@ This tutorial accomplishes two things:
 **Step two:** you must link to that image from within your post.
 
     1. find an image that is in the [public domain](https://en.wikipedia.org/wiki/Public_domain) or for which you have image rights.  
-    2. save the image with a reasonable file name (you might as a class want to decide on a convention here like `lastname_description.jpg`)
+    2. save the image with a reasonable file name (you might as a class want to decide on a convention here like `projectname_description.jpg`- save it  inside a folder called `projectname_images` )
     3. upload the image to the `images` folder in the Github repository for your site
     ![image upload]
     4. After dragging the image file you have chosen into the uploader, enter a descriptive caption for your commit, and select `Commit Changes`
