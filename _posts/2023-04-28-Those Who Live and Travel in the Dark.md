@@ -5,14 +5,24 @@ image: "/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark I
 title:  "Those Who Live and Travel in the Dark"
 author: "Kelly Shining Hong, Candice Siyun Ji, Alan Ren, Wei Xiao"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+#### INTRODUCTION  
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+Previous studies have commonly correlated night light as a proxy of population density and economic activity indicators (Liu et al., 2021, Elvidge et al., 2007, Elvidge et al., 2012, Zhao et al., 2019). However, relying on nighttime satellite imagery to analyze human activities can overlook areas that are populated but lack infrastructure. Our project seeks to counter this approach by examining the "dark" spots on the nighttime light map and identifying anomalies in population distribution. Specifically, we will compare nighttime light satellite imagery with building footprint datasets, informal mobility network datasets, and census grid counts produced by governments and researchers worldwide. This comparison will enable us to reveal global patterns and stories of places with people but a lack of infrastructural lights at night, with a focus on cities in Africa.
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
+![Nighttime Light Satellite Imagery)](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Nighttime Data_Recolored.PNG)
+
+Remote sensing of nighttime light emissions offers a unique perspective for investigations into human behaviors.
+
+**Dominant Narrative of Nighttime Light Satellite Imagery**
+
+Previous studies have commonly correlated night light as a proxy of population density and economic activity indicators.
+
+- “(N)ightlight intensities as a proxy of **economic activity** degrees to estimate **county-level GDP**” -Liu et al., 2021
+- “Remotely-sensed anthropogenic lighting signals and their spatial variations at night provide us with an efficient proxy **measure of the demographic** and **economic related activities** during urbanization and regional development” -Zhao et al., 2019
+- “This data can reveal **local context** and quantify **relative economic performance** - especially in places where official information is unavailable, unreliable, or out-of-date.” -Foster and Lechler 2022
+- “Multi-spectral low-light imaging data would be … potentially a stronger predictor of variables such as ambient **population density** and **economic activity**.” -Elvidge et al., 2007
+
 
 Write **words in bold** like this.  
 
