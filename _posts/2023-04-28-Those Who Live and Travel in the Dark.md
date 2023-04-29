@@ -6,20 +6,18 @@ title:  "Those Who Live and Travel in the Dark"
 author: "Kelly Shining Hong, Candice Siyun Ji, Alan Ren, Wei Xiao"
 ---
 
-#### INTRODUCTION  
+## INTRODUCTION  
 
 Previous studies have commonly correlated night light as a proxy of population density and economic activity indicators (Liu et al., 2021, Elvidge et al., 2007, Elvidge et al., 2012, Zhao et al., 2019). However, relying on nighttime satellite imagery to analyze human activities can overlook areas that are populated but lack infrastructure. Our project seeks to counter this approach by examining the "dark" spots on the nighttime light map and identifying anomalies in population distribution. Specifically, we will compare nighttime light satellite imagery with building footprint datasets, informal mobility network datasets, and census grid counts produced by governments and researchers worldwide. This comparison will enable us to reveal global patterns and stories of places with people but a lack of infrastructural lights at night, with a focus on cities in Africa.
 
 
-**Nighttime Light Satellite Imagery**
+#### Nighttime Light Satellite Imagery  
 
 ![Nighttime Light Satellite Imagery](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Nighttime Data_Recolored.PNG)
-
 Remote sensing of nighttime light emissions offers a unique perspective for investigations into human behaviors.
 
 
-**Dominant Narrative of Night-time Light Satellite Imagery**
-
+#### Dominant Narrative of Night-time Light Satellite Imagery  
 Previous studies have commonly correlated night light as a proxy of population density and economic activity indicators.
 
 - “(N)ightlight intensities as a proxy of **economic activity** degrees to estimate **county-level GDP**” -Liu et al., 2021
@@ -28,10 +26,9 @@ Previous studies have commonly correlated night light as a proxy of population d
 - “Multi-spectral low-light imaging data would be … potentially a stronger predictor of variables such as ambient **population density** and **economic activity**.” -Elvidge et al., 2007
 
 
-**Countering the Dominant Narrative by Layering Datasets**
+#### Countering the Dominant Narrative by Layering Datasets  
 
 ![Methodology diagram](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology_Diagram.PNG)
-
 This project layers sources of datasets other than the Night-time Lights to tell a new story of the lives behind the night-time infrastructure. 
 
 *Layer 1: Night-time Light Satellite Imagery* as mentioned above
@@ -45,30 +42,33 @@ This project layers sources of datasets other than the Night-time Lights to tell
 *Layer 4: Building Footprints*
 ![Building Footprint](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Building Footprint.PNG)
 
-**Areas of Focus**
+
+#### Areas of Focus  
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Continent Map-01.png)
 
 
 
-#### Methodology  
+## Methodology  
 
 ![methodology chart overview](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology_Overview.PNG)
 
 As mentioned earlier in the first section, four main datasets, with the addition of city/town administrative boundaries used to locate the study area, are utilized in this study. The datasets that require image processing are night-time light and gridded population data, which come as in tif format with geo-referencing system. For the nighttime light data, we utilized the threshold of 13 digital number as the indicator of urban zone, as suggested by Columbia Climate School. For the gridded population, a threshold of 300 people per square kilometer is taken as the indicator of urban cluster, following the suggestions by European Union. For urban clusters that are identified, a further classification system was applied to all studied cities to visualize population density, which will be shown later in the mapping. The rest of the datasets in general requires less pre-processing, as shown in this diagram. The purpose of this diagram is to also show that with datasets available, this study can be re-produced for any cities across the globe as an universal methodology.
 
 
-**Nairobi Demo: Image Processing**
+
+#### Nairobi Demo: Image Processing  
 ![image processing nairobi demo](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology 1.gif)
 Here is a quick demo of Nairobi showing how nighttime light data, comes in as a raster image, were reclassified based on the threshold and vectorized through QGIS to generate urban zone footprint shapefile. Similar actions is applied to the gridded population data, with an additional step of clipping which enabled the dataset to remain in raster format while maintaining its cell values for density mapping.
 
 
-**Nairobi Demo: Layering Datasets**
+
+#### Nairobi Demo: Layering Datasets  
 ![layering Datasets nairobi demo](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology 2.gif)
 After all datasets are pre-processed into the ideal format, they can be layered together in helping us identify the area where human habitation is presented but lacking infrastructure light, while informal bus routes reach those areas, indicating human and potential capital flows. As shown here, areas in nairobi such as misiri village and kiserian fulfill the conditions mentioned earlier. 
 
 
 
-#### Case Study Site Selection Results  
+## Case Study Site Selection Results  
 
 
 
