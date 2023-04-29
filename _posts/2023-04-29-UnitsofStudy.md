@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-04-29
-image: "/conflict_urbanism_sp2023/images/UnitsofStudy_Images/COVER_IMAGE-01.PNG"
+image: "/conflict_urbanism_sp2023/images/UnitsofStudy_Images/COVER_IMAGE-01.png"
 title:  "Units of Study: The Complex Landscape of a New York City Reading Curriculum"
 author: "Eliza Dekker, Karolina Dohnalkova, Margaret Hanson"
 ---
@@ -21,13 +21,13 @@ Despite varied efforts to improve literacy rates in the United States, two-third
 
 In recent years, opinion pieces have pointed towards one particular literacy program, Units of Study, as the root cause of this deeply concerning American failure. Developed in 2002 by Lucy Calkins, a founding director of Columbia’s Teachers College Reading and Writing Project, Units of Study rests on the assumption that children are natural readers, using a balanced literacy approach of teacher-led reading and writing instruction and independent learning. It’s been estimated that around a quarter of the country’s 67,000 elementary schools use the curriculum (Goldstein, 2022).
 
-![Negative Media Coverage of Units of Study](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/collage.PNG)
+![Negative Media Coverage of Units of Study](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/collage.png)
 
 Parents and teachers who support the “science of reading” approach have criticized the program, instead advocating for a reading comprehension curriculum that better incorporates phonics and linguistic comprehension. Fifty years of research has revealed the effectiveness of phonics, those sound it out exercises that are purposefully sequenced, in literacy instruction (Ibid). While Units of Study includes some phonics instruction, critics argue that it is not enough to help struggling readers. The inflexibility of the program has also been cited as a key concern, as it is designed to be used with all students in a classroom, regardless of their reading level or ability. Some have argued that this one-size-fits-all approach is not effective for all students, and struggling readers may require more individualized instruction and support to help them catch up with their peers.
 
 To better understand this ongoing debate, this research focused on New York City, where balanced literacy gained momentum in 2003 under Mayor Bloomberg and led to implementation of the program in a majority of the city’s elementary schools under Chancellor of Education Joel Klien. Balanced literacy proponents from Teachers College were well-represented in the higher ranks of the D.O.E. at the time, furthering the curriculum’s support. However, by 2008, the influence of the curriculum began to wane, as Klein lost interest following unchanged reading scores (Winter, 2022). But in many of the schools that already invested their massive amounts of time and money into the program, the curriculum has continued. In 2019, 49% of New York City elementary schools were using Units of Study in some capacity, as shown through the map below.
 
-![Where was Units of Study implemented?](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/SCHOOLS_USING_UOS.PNG)
+![Where was Units of Study implemented?](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/SCHOOLS_USING_UOS.png)
 
 The program is pricey, from 2016 to 2022 NYC paid $31 million for services from the Teachers College Reading and Writing Project (Goldstein, 2022). The question thus remains: Why keep running an expensive curriculum that may, at best, be neutral in terms of affecting early literacy rates, and at worst, be harming young students who aren’t fit for the program?
 
@@ -51,7 +51,7 @@ In the geographically weighted-regression, our dependent variable was school-lev
 
 As shown in the map below, the regression looked at each school’s ELA performance as a function of its unique demographic, funding and curriculum conditions, denoting which schools over- or under- performed with a standardized residual. A standardized residual is just the difference between observed and predicted values based on the statistical model. Negative residual values (in purple) indicate schools that underperformed on ELA tests based on their conditions, while positive residual values (in green) indicate schools that overperformed on ELA tests based on their conditions. 
 
-![Geographically-Weighted Regression Residual Map](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/GWR_RESIDUAL_MAP.PNG)
+![Geographically-Weighted Regression Residual Map](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/GWR_RESIDUAL_MAP.png)
 
 In terms of our research question, the geographically-weighted regression also allowed us to analyze relationships between variables to understand which dependent variables had the strongest relationship with ELA results. It’s also important to note that the measurement of literacy via ELA results is imperfect as many teachers are instructed to “teach to the test,” so the test results do not reflect true reading ability.
 
@@ -59,13 +59,13 @@ In terms of our research question, the geographically-weighted regression also a
 
 Reading curriculum exhibits no correlation with ELA results, leading us to question the alarm with which the media is linking Units of Study to failed literacy. In this case, the most significant correlation with ELA results was economic need index (which estimates the percentage of students facing economic hardship). Other strong relationships were between percent of students in poverty, percent of minority students and school funding per pupil. This graphic shows each variable relationship as Pearson’s R correlation coefficient which is a measure of relationship strength. Pearson’s R values range on a scale between -1 and 1 – values with an absolute value of 0.7 or greater typically representing a significant positive or negative correlation. 
 
-![Geographically-Weighted Regression: Relationships between Variables](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/GWR_DIAGRAM.PNG)
+![Geographically-Weighted Regression: Relationships between Variables](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/GWR_DIAGRAM.png)
 
 To go a step further, we wanted to control for demographics, and look at how literacy rates compare between New York City schools that have and have not employed Units of Study as a reading instruction tool?
 
 To do this, we zoomed into the Morningside Heights area of School District 5 as shown below.
 
-![Case Study: Morningside Heights](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/CASE_STUDY_MAP.PNG)
+![Case Study: Morningside Heights](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/CASE_STUDY_MAP.png)
 
 This case study area, right near Columbia’s campus, includes 6 elementary schools:
 
@@ -87,7 +87,7 @@ Using these case studies as a framework, it’s not apparent that reading curric
 
 Through this research, we sought to make an argument about the geography of literacy education in New York City. Initially, we believed there might be a connection between reading curriculums and literacy rates. Upon finding an insignificant relationship, we returned to the question that sparked our attention: What’s all the alarm about if our data shows that the program has a neutral effect at worst? We wanted to dig deeper and see if this negative media correlated with anything else.
 
-![The Politics of Reading: A Timeline](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/UOS_TIMELINE.PNG)
+![The Politics of Reading: A Timeline](/conflict_urbanism_sp2023/images/UnitsofStudy_Images/UOS_TIMELINE.png)
 
 Looking at a timeline of Units of Study’s popularity, we see a direct correlation with the Mayoral and School Chancellor changes. 2014’s schools chancellor Carmen Farina pushed for a sweeping wave of implementation at low performing schools to try and raise them up to standard criteria. But, by 2022 scores hadn’t shifted enough, and current Chancellor David Banks has become a strong critic of Units of Study.
 
