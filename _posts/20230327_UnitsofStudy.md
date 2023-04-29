@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-03-27
-image: "/template_site/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2023/images/UnitsofStudy_Images/COVER_IMAGE-01.png"
 title:  "Units of Study: The Complex Landscape of a New York City Reading Curriculum"
 author: "Eliza Dekker, Karolina Dohnalkova, Margaret Hanson"
 ---
