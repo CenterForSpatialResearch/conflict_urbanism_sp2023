@@ -6,7 +6,7 @@ title:  "Those Who Live and Travel in the Dark"
 author: "Kelly Shining Hong, Candice Siyun Ji, Alan Ren, Wei Xiao"
 ---
 
-## INTRODUCTION  
+### INTRODUCTION  
 
 Previous studies have commonly correlated night light as a proxy of population density and economic activity indicators (Liu et al., 2021, Elvidge et al., 2007, Elvidge et al., 2012, Zhao et al., 2019). However, relying on nighttime satellite imagery to analyze human activities can overlook areas that are populated but lack infrastructure. Our project seeks to counter this approach by examining the "dark" spots on the nighttime light map and identifying anomalies in population distribution. Specifically, we will compare nighttime light satellite imagery with building footprint datasets, informal mobility network datasets, and census grid counts produced by governments and researchers worldwide. This comparison will enable us to reveal global patterns and stories of places with people but a lack of infrastructural lights at night, with a focus on cities in Africa.
 
@@ -48,7 +48,7 @@ This project layers sources of datasets other than the Night-time Lights to tell
 
 
 
-## Methodology  
+### Methodology  
 
 ![methodology chart overview](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology_Overview.PNG)
 
@@ -68,9 +68,36 @@ After all datasets are pre-processed into the ideal format, they can be layered 
 
 
 
-## Case Study Site Selection Results  
+### Case Study Site Selection Results  
 
 
+#### Accra, Ghana  
+![Accra map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Accra_final.gif)
+
+As a coastal city, Accra's population is mainly concentrated in the southern part of the city, and the informal bus routes are predominantly distributed along the coastline. The uncovered areas are three newly emerging, fast-growing new towns located near the NASA nighttime light image boundary, with a relatively low building footprint density. 
+
+
+
+#### Addis Ababa, Ethiopia  
+![Accra map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Addis_final.gif)
+
+Addis Ababa's city center exhibits a smaller population compared to other regions. Informal bus stops can be found along both sides of the city's primary roads, mainly in suburban areas that fall short of the urban density standard of 300 people per square kilometer. Notably, the two adjacent satellite towns lack informal bus stop points. The NASA nighttime light image is considerably smaller than the areas with the lowest population density boundary, suggesting that many self-built houses are without nighttime electricity supply.
+<sub>Data limitations allowed us to obtain only stop points rather than complete stop trips.</sub>
+
+
+
+#### Harare, Zimbabwe  
+![Accra map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Harare_final.gif)
+
+
+
+#### Nairobi, Kenya  
+![Accra map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Nairobi_final.gif)
+
+
+
+#### Cairo, Egypt  
+![Accra map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Cairo_final.gif)
 
 
 
