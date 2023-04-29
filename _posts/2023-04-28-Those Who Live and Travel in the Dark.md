@@ -62,7 +62,7 @@ The above diagram illustrates a detailed step-by-step methodology breakdown of t
 ![Building Footprint](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Building Footprint.PNG)
 
 - *Layer 5: City Administrative Boundries*
-Varies based on each city. 
+   Varies based on each city. 
 
 
 2. **Data Processing**: This step requires raster (image) and vector manipulation with geoprocessing software, including QGIS and ArcGIS. The datasets that require raster processing are V.2 VIIRS Nighttime Lights and UN WPP-Adjusted Population Density, which come in tif format with geo-referencing systems. For the nighttime light data, a threshold of 13DN (Columbia Climate School) is used as the light intensity indicator for urban zones. For the gridded population, a threshold of 300 people per square kilometer (European Union) is taken as the population density indicator for urban clusters. For identified urban clusters, a classification system was applied to all studied cities to visualize population density. The rest of the vector dataset generally requires less processing, as shown in the methodology breakdown diagram. 
@@ -94,6 +94,7 @@ As a coastal city, Accra's population is mainly concentrated in the southern par
 ![Addis Ababa map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Addis_final.gif)
 
 Addis Ababa's city center exhibits a smaller population compared to other regions. Informal bus stops can be found along both sides of the city's primary roads, mainly in suburban areas that fall short of the urban density standard of 300 people per square kilometer. Notably, the two adjacent satellite towns lack informal bus stop points. The NASA nighttime light image is considerably smaller than the areas with the lowest population density boundary, suggesting that many self-built houses are without nighttime electricity supply.
+
 <sub>Data limitations allowed us to obtain only stop points rather than complete stop trips.</sub>
 
 
@@ -125,26 +126,134 @@ The informal bus system connects numerous surrounding villages and new towns, th
 
 
 
-
-
-
-
 ### Findings  
 
 By analyzing the layers of datasets, a few key themes emerged highlighting the urban fabric patterns, the percentage of earth, the availability of transportation options, and the informal mobility conditions experienced by residents living in areas with low levels of night light.
 
+#### **Built Environment Findings on the Satellite Scale**  
+
+
+#### Urban Fabric   
+
+*How does the urban fabric manifest in areas lacking formal transportation infrastructure and reliant on informal modes of transportation, and how does it compare to the urban fabric in their respective city centers?*
+
+The findings from the machine learning classification models reveal that towns located at the end of informal bus routes generally have lower levels of built features compared to their respective city centers. For example, in Nairobi, the four towns of Githunguri, Karen Hardy, Kiserian, and Misiri Village at the end of the informal bus route exhibit an average of only 7.9% of built features, while the central coordinate of Nairobi has an 83.2% built area. Similarly, in Addis Ababa, the four towns of Akaki, Alem Gena, Menagesha, and VFAC at the end of the informal bus route exhibit an average of 62.0% of built features compared to the central coordinates’ 89.3% built area. These results indicate a possible relationship between the absence of formal transportation infrastructure and the built environment and urban fabric in these regions.
+
+However, an outlier to this trend was observed in Harare, Zimbabwe, where the towns at the periphery of the city exhibited a higher level of built features (66.9% built area) compared to the city center (34.3%). This anomaly could be attributed to the "infrastructural degeneration" of Harare in recent decades, as the city's infrastructure and services have failed to keep pace with population growth, resulting in physical infrastructure decline (Atwood 2016; Ndlovu and Narayanan 2023). The machine learning of the satellite images further support this claim, as the towns located at the end of informal transit routes have a higher level of built features compared to the geographic center of Harare.
+
+
+#### Recognition of Earth   
+
+*How much percent of earth is exhibited in areas lacking formal transportation infrastructure and reliant on informal modes of transportation, and how does it compare to the urban fabric in their respective city centers?*
+
+
+#### **Transportation Findings on the Town Scale**  
+
+*What are the available transportation options for people living and working in these areas?*
+The residents of the sites selected near the capital cities often lack access to affordable and convenient methods of transportation. Owning a car might be a far dream, calling a taxi costs more than a day’s wage, and buses are time consuming. When the need to travel persists, informal transportation usually becomes the best option.  
+
+#### Transportation Options  
 
 ![transportation options comparison](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/forms of transportation comparison.jpg)
+
+For this catalog, options of transportation from the neighboring towns to their capital cities are shown, and for reference, the median monthly income for each capital city is provided. We can see that taking buses is time consuming, driving is not feasible, and taxis are very expensive. No matter how the residents of the neighboring towns travel, there are always limitations.
+
+<sub>Gas means the amount of gas money required to make such a trip. Buses and Taxis are either formal or informal. All info is extracted from the Rome2Rio website.</sub>
+
 
 
 ![Epworth transportation](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/transportation comparison examples_Epworth.jpg)
 
-![Alem Gena transportation](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/transportation comparison examples_Alem Gena.jpg)
+For traveling from Epworth to Harare, the informal bus (shown as taxi here) only costs 1 dollar, but the official taxi (shown as taxi via Epworth) costs 25-30 dollars. In addition, the informal bus stops on the edge of the town, requiring people to walk a significant distance before they can get to the minibus stop, whereas the official taxi goes directly into the town. This is common across many towns. 
 
+
+
+![Alem Gena transportation](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/transportation comparison examples_Alem Gena.jpg)
+For traveling from Alem Gena to Addis Ababa, driving with a car only takes 19 minutes, while taking the bus requires 5 hours, an astonishingly long trip.
+
+
+
+#### Informal Transit Conditions  
 
 ![informal transportation images](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/informal transportation example.jpg)
 
+Informal buses constitute a significant part of the transportation systems in and around these capital cities, and all of them are being referred to differently. 
 
+- Accra, Ghana: Trotro
+- Addis Ababa, Ethiopia: Minibus Taxi
+- Cairo, Egypt: Microbus
+- Harare, Zimbabwe: Mushikashika (Pirate Taxis)
+- Nairobi, Keyna: Matatus
+
+
+
+### Project Limitations & Call for Further Research  
+
+This study offers a glimpse into the built environment and transportation conditions in areas with urban clusters lacking infrastructural light and reliant on informal buses. While the methodology and findings provide an initial basis for further research, the limitations of this project suggest several directions for future investigation.
+
+#### Distanced Perspective  
+
+One significant limitation of this study is the distanced perspective adopted in examining cities and their urban patterns. While this approach enables research on a larger scale, it may overlook essential details only visible through close examination. For instance, this project uses identical filtering thresholds for nighttime light and population data for all selected case study areas, which has advantages and limitations. While the consistent thresholds enable the identification of urban clusters and comparison of different cities at a continental level, they may lead to the loss of granularity of city characteristics. For example, Kibera, an area in Nairobi, was classified as "well-lighted" in this study, despite lacking fundamental infrastructure. Future research could consider varying filtering thresholds to reflect cities' unique demographics and conditions, enabling a more accurate depiction of urban patterns and findings.This limitation also highlights the need for qualitative research and firsthand experience in overlooked areas to obtain a more comprehensive understanding of these regions' population characteristics and infrastructure.
+
+
+
+
+#### Data Availability
+
+The availability of data also impacted this project's case study selection. Some countries lack existing datasets for certain variables, such as informal bus routes maps and population data, which limits the project's scope and case study selections. Moreover, the limited availability of qualitative data for selected towns and cities in Africa suggests the need to gather more qualitative data in under-studied areas to provide a more robust evidence base for future research. Overall, this study calls for more data and research to deepen our understanding of complex urban environments that remain under-researched.
+
+
+
+### Conclusion  
+
+This project is a tapestry woven with threads of discovery, striving to reveal the hidden stories that lay beyond the surface of existing datasets. While the nightlight satellite imagery taken at 1am may typically reflect population density and economic activity, it often overshadows the realities of those who are excluded from basic amenities–those who live and travel in the dark. By layering this imagery with global gridded population density, informal bus routes, and building footprints in five African cities and their surroundings, we witness the tenacious, mobile, and adaptive spirit of humanity, and shed light on the stories of lives and the inequitable access to fundamental resources in these areas. Our aim is to empower new voices, provoke new research, and catalyze action towards designing and developing cities that provide equitable access to infrastructure for all.
+
+
+### Bibliography
+
+#### Literature  
+Atwood, Atwood. 2016. “Zimbabwe’s Unstable Infrastructure.” Sphere Journal for Digital Cultures #3 Unstable Infrastructures (June). https://spheres-journal.org/contribution/zimbabwes-unstable-infrastructure/.
+Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko. 2018. Center for Spatial Research. In Plain Sight. Video, 12:24. https://vimeo.com/290575503. 
+Elvidge, Christopher D., Jeffrey Safran, Benjamin Tuttle, Paul Sutton, Pierantonio Cinzano, Donald Pettit, John Arvesen, and Christopher Small. 2007. “Potential for Global Mapping of Development via a Nightsat Mission.” GeoJournal 69 (1/2): 45–53.
+Foster, Hugo, and Lechler Marie. 2022. “How Nighttime Lights Illuminate Economic Activity.” S&P Global (blog). November 7, 2022. https://www.spglobal.com/marketintelligence/en/mi/research-analysis/how-nighttime-lights-illuminate-economic-activity.html. 
+Liu, Haoyu, Xianwen He, Yanbing Bai, Xing Liu, Yilin Wu, Yanyun Zhao, and Hanfang Yang. 2021. “Nightlight as a Proxy of Economic Indicators: Fine-Grained GDP Inference around Chinese Mainland via Attention-Augmented CNN from Daytime Satellite Imagery.” Remote Sensing 13 (11): 2067. https://doi.org/10.3390/rs13112067. 
+Ndlovu, Ray, and Archana Narayanan. 2023. “Zimbabwe Plans a New City for the Rich.” Bloomberg.Com, January 26, 2023. https://www.bloomberg.com/news/features/2023-01-26/zimbabwe-plans-a-new-city-for-the-rich-as-harare-decays.
+Zhao, Min, Yuyu Zhou, Xuecao Li, Wenting Cao, Chunyang He, Bailang Yu, Xi Li, Christopher D. Elvidge, Weiming Cheng, and Chenghu Zhou. 2019. “Applications of Satellite Remote Sensing of Nighttime Light Observations: Advances, Challenges, and Perspectives.” Remote Sensing 11 (17): 1971. https://doi.org/10.3390/rs11171971. 
+
+
+#### Datasets
+**Worldwide Datasets**
+
+C. D. Elvidge, M. Zhizhin, T. Ghosh, F-C. Hsu, "Annual time series of global VIIRS nighttime lights derived from monthly averages: 2012 to 2019", Remote Sensing (In press). Accessed April 29, 2023. Retrieved from https://eogdata.mines.edu/products/vnl/ 
+Center for International Earth Science Information Network - CIESIN - Columbia University. 2020. Gridded Population of the World, Version 4 (GPWv4): Population Density Adjusted to Match 2015 Revision UN WPP Country Totals, Revision 11. Palisades, New York: NASA Socioeconomic Data and Applications Center (SEDAC). 
+Retrieved from https://doi.org/10.7927/H4F47M65. https://sedac.ciesin.columbia.edu/data/collection/gpw-v4 
+Microsoft. “GlobalMLBuildingFootprints.” GitHub. Accessed April 29, 2023. Retrieved from https://github.com/microsoft/GlobalMLBuildingFootprints/ 
+Google. "Open Buildings." Accessed April 29, 2023. Retrieved from https://sites.research.google/open-buildings/#download.  
+Datum. "Mapeo Digital de Transporte Publico: Casos de Estudio." Accessed April 29, 2023. Retrieved from https://datum.la/mapeo-digital-de-transporte-publico-casos-de-estudio. 
+U.S. Geological Survey, “Landsat-8 Image”. Accessed April 29, 2023. Retrieved from https://www.usgs.gov/landsat-missions/landsat-data-access 
+
+
+**City/Town Specific Datasets**
+*Accra:*
+Angel, Shlomo. Parent, Jason. Civco, Daniel L.. Blei, Alejandro M. (2012). Administrative Boundaries, Accra, Ghana, 1990. [Shapefile]. Lincoln Institute of Land Policy. Retrieved from https://earthworks.stanford.edu/catalog/stanford-sh681sw5018 
+The Humanitarian Data Exchange, OCHA Regional Office for West and Central Africa (ROWCA), “Ghana - Subnational Administrative Boundaries.” Accessed April 29, 2023. Retrieved from https://data.humdata.org/dataset/cod-ab-gha 
+
+
+*Addis Ababa:*
+The Humanitarian Data Exchange, OCHA Regional Office for West and Central Africa (ROWCA), “Ethiopia - Subnational Administrative Boundaries.” Accessed April 29, 2023. Retrieved from https://data.humdata.org/dataset/cod-ab-eth 
+
+
+*Cairo:*
+The Humanitarian Data Exchange, OCHA Regional Office for West and Central Africa (ROWCA), “Egypt - Subnational Administrative Boundaries.” Accessed April 29, 2023. Retrieved from https://data.humdata.org/dataset/cod-ab-egy 
+
+
+*Harare:*
+The Humanitarian Data Exchange, OCHA Regional Office for West and Central Africa (ROWCA), “Zimbabwe - Subnational Administrative Boundaries.” Accessed April 29, 2023. Retrieved from https://data.humdata.org/dataset/cod-ab-zwe
+
+
+*Nairobi:*
+Code for Kenya, "Kenya Counties Shapefile." Created October 21, 2015. Accessed April 29, 2023. https://africaopendata.org/dataset/kenya-counties-shapefile. 
+UN Humanitarian Data Exchange, “Kenya Sub Counties.” Created October 21, 2015. Accessed April 29, 2023. Retrieved from https://data.amerigeoss.org/dataset/kenya-sub-counties 
 
 
 
