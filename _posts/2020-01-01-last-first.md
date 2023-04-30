@@ -26,7 +26,7 @@ Lists are easy:
 1. they can be ordered
 2. like this
 3. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+ 4. use two spaces in front to indent
 
 Or they can just be bullet points:
 - like this
