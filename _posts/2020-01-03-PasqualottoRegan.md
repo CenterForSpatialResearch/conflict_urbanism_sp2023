@@ -5,20 +5,16 @@ image: "/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/coverimage_
 title:  "Projective Mapping the Controversial Timelines of Svalbard, Norway"
 author: "Carley Pasqualotto and Maclane Regan"
 ---
-**INTRODUCTION**
+#### INTRODUCTION  
 
 We are interested in mapping three main factors in Svalbard related to time and producing a projective overlay that interrogates how these factors interact in the future, through the lens of a climactic timescale:
 
 1. Time of Climate Change
 1. Time of Industries and Resources
 1. Time of Oddities and Border Anomalies
- 1. use two spaces in front to indent
 
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
-
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+ 1. use two spaces in front to indent   
 
 #### Please use level 4 headings for major section divisions  
 (make sure to put two spaces after the end of the heading)
@@ -70,7 +66,6 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
