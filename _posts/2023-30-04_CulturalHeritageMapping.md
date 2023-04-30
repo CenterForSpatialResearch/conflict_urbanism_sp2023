@@ -2,12 +2,13 @@
 layout: post
 date:   2023-03-27
 image: "/template_site/images/csr_thumbnail.png"
-title:  "Project Name"
-author: "Lucia Rebolino"
+title:  "Cultural Heritage Mapping- Russia´s War on Ukraine"
+author: "Anna Kim, Maria Berger and Verena Krappitz"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+With Ukraine at the forefront of the international geopolitical discourse, our team has committed to investigate the continued conflict, examining more closely on how the Russian invasion has  systematically targeted Ukrainian history, culture and identity.
+
+It has meticulously destroyed hundreds of Ukrainian cultural heritage sites - to its museums, monuments, places of religious and spiritual worship, libraries, and buildings of historical and/or artistic interest. These cultural artifacts - manifested through art, literature, music, dance, religion, and other forms - archive a people’s beliefs, customs, mythology, knowledge, traditions, and perspectives on the past, present, and future. As Robert Behavn said in his book, The Destruction of Memory, “every nation legitimizes its existence through its creativity - when evidence of this creativity is suppressed, piece by piece, the very identity of a nation is gradually lost.” The continual destruction of Ukraine is a colonialist strategy embraced by Russian President Vladimir Putin who has vehemently denied Ukraine’s legitimacy as a sovereign nation, even stating that a distinct Ukrainian history, language and culture “do not exist”. Our project aims to validate Ukrainian culture and communicate the narrative of how it is being fought on the front lines of the brutal war through forensic and visual investigative work.
 
 [This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
 
@@ -49,4 +50,4 @@ If you want to include html files (i.e. an interactive map) host these via your 
 
 All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
 
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://verenakrappitz.github.io/maps/index.html#5/43.961/33.267" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
