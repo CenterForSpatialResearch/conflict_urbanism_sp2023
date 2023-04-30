@@ -59,7 +59,7 @@ The above diagram illustrates a detailed step-by-step methodology breakdown of t
  - *Layer 1: Night-time Light Satellite Imagery*
  ![Nighttime Light Satellite Imagery](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Nighttime Data_Recolored.PNG)
 
- <sub>Data Source: NASA VIIRS Night-time Lights (C. D. Elvidge et al., 2017)</sub>
+   <sub>Data Source: NASA VIIRS Night-time Lights (C. D. Elvidge et al., 2017)</sub>
 
  ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
@@ -67,7 +67,7 @@ The above diagram illustrates a detailed step-by-step methodology breakdown of t
  - *Layer 2: Gridded Population Density*
  ![World Population](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/WorldPopulation.PNG)
 
- <sub>Data Source: UN WPP-Adjusted Population Density (Center for International Earth Science Information Network, Columbia University, 2018)</sub>
+   <sub>Data Source: UN WPP-Adjusted Population Density (Center for International Earth Science Information Network, Columbia University, 2018)</sub>
 
  ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
@@ -75,14 +75,14 @@ The above diagram illustrates a detailed step-by-step methodology breakdown of t
  - *Layer 3: Informal Bus Transit System*
  ![Informal bus routes](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Digital Matatus.PNG)
 
- <sub>Data Source: DATUM. Image Source: digitalmatatus, Civic Data Design Lab MIT, 2014</sub>
+   <sub>Data Source: DATUM. Image Source: digitalmatatus, Civic Data Design Lab MIT, 2014</sub>
 
  ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
  - *Layer 4: Building Footprints*
  ![Building Footprint](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Building Footprint.PNG)
 
- <sub>Data Sources: Microsoft Building Footprint, Microsoft Maps & Geospatial; Open Buildings, Google</sub>
+   <sub>Data Sources: Microsoft Building Footprint, Microsoft Maps & Geospatial; Open Buildings, Google</sub>
  
  ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
