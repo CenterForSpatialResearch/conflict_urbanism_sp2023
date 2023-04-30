@@ -51,17 +51,22 @@ The above diagram illustrates a detailed step-by-step methodology breakdown of t
 
 - *Layer 1: Night-time Light Satellite Imagery*
 ![Nighttime Light Satellite Imagery](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Nighttime Data_Recolored.PNG)
+<sub>Data Source: NASA VIIRS Night-time Lights (C. D. Elvidge et al., 2017)</sub>
 
 - *Layer 2: Gridded Population Density*
 ![World Population](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/WorldPopulation.PNG)
+<sub>Data Source: UN WPP-Adjusted Population Density (Center for International Earth Science Information Network, Columbia University, 2018)</sub>
 
 - *Layer 3: Informal Bus Transit System*
 ![Informal bus routes](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Digital Matatus.PNG)
+<sub>Data Source: DATUM. Image Source: digitalmatatus, Civic Data Design Lab MIT, 2014</sub>
 
 - *Layer 4: Building Footprints*
 ![Building Footprint](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Building Footprint.PNG)
+<sub>Data Sources: Microsoft Building Footprint, Microsoft Maps & Geospatial; Open Buildings, Google</sub>
 
 - *Layer 5: City Administrative Boundries*
+
    Varies based on each city. 
 
 
@@ -130,7 +135,7 @@ The informal bus system connects numerous surrounding villages and new towns, th
 
 By analyzing the layers of datasets, a few key themes emerged highlighting the urban fabric patterns, the percentage of earth, the availability of transportation options, and the informal mobility conditions experienced by residents living in areas with low levels of night light.
 
-#### **Built Environment Findings on the Satellite Scale**  
+#### *Built Environment Findings on the Satellite Scale*  
 
 
 #### Urban Fabric   
@@ -142,12 +147,12 @@ The findings from the machine learning classification models reveal that towns l
 However, an outlier to this trend was observed in Harare, Zimbabwe, where the towns at the periphery of the city exhibited a higher level of built features (66.9% built area) compared to the city center (34.3%). This anomaly could be attributed to the "infrastructural degeneration" of Harare in recent decades, as the city's infrastructure and services have failed to keep pace with population growth, resulting in physical infrastructure decline (Atwood 2016; Ndlovu and Narayanan 2023). The machine learning of the satellite images further support this claim, as the towns located at the end of informal transit routes have a higher level of built features compared to the geographic center of Harare.
 
 
-#### Recognition of Earth   
+#### Recognition of Earth  
 
 *How much percent of earth is exhibited in areas lacking formal transportation infrastructure and reliant on informal modes of transportation, and how does it compare to the urban fabric in their respective city centers?*
 
 
-#### **Transportation Findings on the Town Scale**  
+#### *Transportation Findings on the Town Scale*  
 
 *What are the available transportation options for people living and working in these areas?*
 The residents of the sites selected near the capital cities often lack access to affordable and convenient methods of transportation. Owning a car might be a far dream, calling a taxi costs more than a day’s wage, and buses are time consuming. When the need to travel persists, informal transportation usually becomes the best option.  
@@ -234,6 +239,7 @@ U.S. Geological Survey, “Landsat-8 Image”. Accessed April 29, 2023. Retrieve
 
 
 **City/Town Specific Datasets**
+
 *Accra:*
 Angel, Shlomo. Parent, Jason. Civco, Daniel L.. Blei, Alejandro M. (2012). Administrative Boundaries, Accra, Ghana, 1990. [Shapefile]. Lincoln Institute of Land Policy. Retrieved from https://earthworks.stanford.edu/catalog/stanford-sh681sw5018 
 The Humanitarian Data Exchange, OCHA Regional Office for West and Central Africa (ROWCA), “Ghana - Subnational Administrative Boundaries.” Accessed April 29, 2023. Retrieved from https://data.humdata.org/dataset/cod-ab-gha 
@@ -258,39 +264,3 @@ UN Humanitarian Data Exchange, “Kenya Sub Counties.” Created October 21, 201
 
 
 
-Write **words in bold** like this.  
-
-Italics are *similar* and are formatted like this.  
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
-
-See this is now a new paragraph.  
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-![description of image](/template_site/images/sample_image.png)
-
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
-
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
