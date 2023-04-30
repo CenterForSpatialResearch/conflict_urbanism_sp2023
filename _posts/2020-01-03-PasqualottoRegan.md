@@ -58,7 +58,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![Main Timeline GIF](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Base-Test-Full.gif)
+![Main Timeline GIF](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Base-Test-Full.mp4)
 
 ![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/regan_glaciermelts.jpg)
 
