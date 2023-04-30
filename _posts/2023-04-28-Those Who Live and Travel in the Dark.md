@@ -125,7 +125,7 @@ As a coastal city, Accra's population is mainly concentrated in the southern par
 #### Addis Ababa, Ethiopia  
 ![Addis Ababa map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Addis_final.gif)
 
-Addis Ababa's city center exhibits a smaller population compared to other regions. Informal bus stops can be found along both sides of the city's primary roads, mainly in suburban areas that fall short of the urban density standard of 300 people per square kilometer. Notably, the two adjacent satellite towns lack informal bus stop points. The NASA nighttime light image is considerably smaller than the areas with the lowest population density boundary, suggesting that many self-built houses are without nighttime electricity supply.
+Addis Ababa's city center exhibits a smaller population compared to other regions, and informal bus stops can be found along both sides of the city's primary roads. Notably, the two adjacent satellite towns lack informal bus stop points. The NASA nighttime light image is considerably smaller than the areas with the lowest population density boundary, suggesting that many self-built houses are without nighttime electricity supply.
 
 <sub>Data limitations allowed us to obtain only stop points rather than complete stop trips.</sub>
 
@@ -194,6 +194,11 @@ However, an outlier to this trend was observed in Harare, Zimbabwe, where the to
 #### Recognition of Earth  
 
 *How much percent of earth is exhibited in areas lacking formal transportation infrastructure and reliant on informal modes of transportation, and how does it compare to the urban fabric in their respective city centers?*
+
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Earth_Cover.png)
+
+
+
 
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
