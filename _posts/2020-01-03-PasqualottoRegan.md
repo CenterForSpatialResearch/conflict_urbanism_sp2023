@@ -40,7 +40,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![Svalbard Glacier Melting](/https://github.com/CenterForSpatialResearch/conflict_urbanism_sp2023/blob/master/images/Svalbard%20Projective%20Mapping/regan_glaciermelts.jpg)
+![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/regan_glaciermelts.jpg)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
