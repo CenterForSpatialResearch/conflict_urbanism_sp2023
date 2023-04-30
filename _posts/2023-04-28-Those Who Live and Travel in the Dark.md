@@ -92,22 +92,25 @@ The above diagram illustrates a detailed step-by-step methodology breakdown of t
  ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 
-1. **Data Processing**: This step requires raster (image) and vector manipulation with geoprocessing software, including QGIS and ArcGIS. The datasets that require raster processing are V.2 VIIRS Nighttime Lights and UN WPP-Adjusted Population Density, which come in tif format with geo-referencing systems. For the nighttime light data, a threshold of 13DN (Columbia Climate School) is used as the light intensity indicator for urban zones. For the gridded population, a threshold of 300 people per square kilometer (European Union) is taken as the population density indicator for urban clusters. For identified urban clusters, a classification system was applied to all studied cities to visualize population density. The rest of the vector dataset generally requires less processing, as shown in the methodology breakdown diagram. 
+2. **Data Processing**: This step requires raster (image) and vector manipulation with geoprocessing software, including QGIS and ArcGIS. The datasets that require raster processing are *V.2 VIIRS Nighttime Lights and UN WPP-Adjusted Population Density*, which come in tif format with geo-referencing systems. For the nighttime light data, a threshold of 13DN (Columbia Climate School) is used as the light intensity indicator for urban zones. For the gridded population, a threshold of 300 people per square kilometer (European Union) is taken as the population density indicator for urban clusters. For identified urban clusters, a classification system was applied to all studied cities to visualize population density. The rest of the vector dataset generally requires less processing, as shown in the methodology breakdown diagram. 
+
   ![image processing nairobi demo](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology 1.gif)
 
   ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 
-1. **Data Visualization**: After all datasets are processed into the ideal formats, they are overlaid to identify areas of research interests based on the following criteria - places where urban clusters are presented but without nighttime light, while informal bus routes reach to the spots.
+3. **Data Visualization**: After all datasets are processed into the ideal formats, they are overlaid to identify areas of research interests based on the following criteria - places where urban clusters are presented but without nighttime light, while informal bus routes reach to the spots.
   ![layering Datasets nairobi demo](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Methodology 2.gif)
 
   ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 
-1. **Machine Learning**: Further research is then done to explore the urban fabrics and materiality of the built environment. Two machine learning classification models are employed in this step, both at the satellite scale in the unit of two kilometers by two kilometers square from the central coordinate of each city and selected towns. The first model reclassified the urban patterns into built, vegetation, and water coverage using Landsat 8 images, from which we can investigate the degree of urbanization. The second model extracts materials from satellite images with a pre-determined color range to recognize earth as a material in the urban context, as an indicator of potential under/undeveloped areas or road and buildings constructed out of raw earth. 
+4. **Machine Learning**: Further research is then done to explore the urban fabrics and materiality of the built environment. Two machine learning classification models are employed in this step, both at the satellite scale in the unit of two kilometers by two kilometers square from the central coordinate of each city and selected towns. The first model reclassified the urban patterns into built, vegetation, and water coverage using Landsat 8 images by breaking it down into individual bands and extracting pixels based on an existing training set, from which we can investigate the degree of urbanization from the categories identified. The second model selects pixels from satellite images with a predetermined color range - in this study, a brownish tone with an RGB value of  (139, 117, 103) and an additional 15 buffer to recognize earthy material in the urban context. The result can be treated as an indicator of potential under/undeveloped areas or roads and buildings constructed out of raw earth.
+
+  ![layering Datasets nairobi demo](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/Machine_Learning_Demo.gif)
 
 
-![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 2-01.png)
+  ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 2-01.png)
 
 
 
@@ -214,6 +217,7 @@ The residents of the sites selected near the capital cities often lack access to
 For this catalog, options of transportation from the neighboring towns to their capital cities are shown, and for reference, the median monthly income for each capital city is provided. We can see that taking buses is time consuming, driving is not feasible, and taxis are very expensive. No matter how the residents of the neighboring towns travel, there are always limitations.
 
 <sub>Gas means the amount of gas money required to make such a trip. Buses and Taxis are either formal or informal. All info is extracted from the Rome2Rio website.</sub>
+
 
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
