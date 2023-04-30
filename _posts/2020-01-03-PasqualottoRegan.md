@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-05-01
-image: "/conflict_urbanism_sp2023/images/Svalbard/Svalbard_squareimage.jpeg"
+image: "/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/coverimage_01.jpeg"
 title:  "Projective Mapping the Controversial Timelines of Svalbard, Norway"
 author: "Carley Pasqualotto and Maclane Regan"
 ---
@@ -22,8 +22,6 @@ To make a paragraph break you need to add two spaces at the end of your line bef
 
 See this is now a new paragraph.  
 
-![Svalbard Glacier Melting](/https://centerforspatialresearch.github.io/conflict_urbanism_sp2023/images/regan_glaciermelts.jpg)
-
 Lists are easy:
 1. they can be ordered
 1. like this
@@ -42,7 +40,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![Svalbard Glacier Melting](/https://centerforspatialresearch.github.io/conflict_urbanism_sp2023/images/regan_glaciermelts.jpg)
+![Svalbard Glacier Melting](/https://github.com/CenterForSpatialResearch/conflict_urbanism_sp2023/blob/master/images/Svalbard%20Projective%20Mapping/regan_glaciermelts.jpg)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
