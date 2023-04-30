@@ -5,6 +5,15 @@ image: "/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/coverimage_
 title:  "Projective Mapping the Controversial Timelines of Svalbard, Norway"
 author: "Carley Pasqualotto and Maclane Regan"
 ---
+**INTRODUCTION**
+
+We are interested in mapping three main factors in Svalbard related to time and producing a projective overlay that interrogates how these factors interact in the future, through the lens of a climactic timescale:
+
+1. Time of Climate Change
+1. Time of Industries and Resources
+1. Time of Oddities and Border Anomalies
+ 1. use two spaces in front to indent
+
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
