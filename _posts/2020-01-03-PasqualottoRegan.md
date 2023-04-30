@@ -57,6 +57,8 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 
 ![Geology](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Geology.png)
 
+![Oil](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Oil.png)
+
 ![Oil and Influence Clean](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Oil and Influence Clean.png)
 
 ![Oil and Influence](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Oil and Influence.png)
