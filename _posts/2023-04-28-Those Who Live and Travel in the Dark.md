@@ -227,7 +227,7 @@ An outlier is observed in Cairo, Egypt, where the city center exhibits a 6% high
 
 *How do individuals navigate transportation in areas with inadequate formal transportation infrastructure and low levels of nighttime lighting?*
 
-infrastructure and low levels of nighttime lighting?
+
 Individuals residing in the selected sites located near the capital cities face significant challenges in accessing affordable and convenient means of transportation. Owning a personal vehicle is often financially unattainable, while the cost of hiring a taxi is exorbitant and may exceed a day's wage. Additionally, public buses are frequently time-consuming. Consequently, informal transportation modes often become the preferred choice for individuals needing to travel at night.
   
 
@@ -266,18 +266,18 @@ The travel time from Alem Gena to Addis Ababa is significantly shorter by car, t
 #### Informal Transit Conditions  
 
 
-The inadequacy of formal transportation systems has resulted in informal buses becoming a crucial means of infrastructure in fulfilling the transportation demands of the rapidly expanding population in and around capital cities in the selected case studies. While there is no standardized terminology, informal buses share certain characteristics, commonly manifesting as aging vans that surpass their capacity while traversing urban areas. Most selected case studies demonstrate significant reliance on these informal buses for daily commuting. In Accra, for example, 70% of daily commuting is carried out by 6,000 informal minibuses called "Trotros" (Kuuire, 2022; World Bank, 2011). Likewise, in Addis Ababa, minibus taxis constitute 73% of the total modal choice of the city (World Bank, 2002). In Cairo, 52.3% of public transport vehicle trips per day are executed by informal microbuses (Statista, 2016). Similarly, nearly six in ten residents in Nairobi use public service vehicles, commonly referred to as "Matatus," for commuting to their workplaces (Cheruiyot, 2023).
+The inadequacy of formal transportation systems has resulted in informal buses becoming a crucial means of infrastructure in fulfilling the transportation demands of the rapidly expanding population in and around capital cities in the selected case studies. While there is no standardized terminology, informal buses share certain characteristics, commonly manifesting as aging vans that surpass their capacity while traversing urban areas. Most selected case studies demonstrate significant reliance on these informal buses for daily commuting. In Accra, for example, 70% of daily commuting is carried out by 6,000 informal minibuses called "Trotros" (Kuuire, 2022; World Bank, 2011). Likewise, in Addis Ababa, minibus taxis constitute 73% of the total modal choice of the city (World Bank 2002). In Cairo, 52.3% of public transport vehicle trips per day are executed by informal microbuses (Statista 2016). Similarly, nearly six in ten residents in Nairobi use public service vehicles, commonly referred to as "Matatus," for commuting to their workplaces (Cheruiyot 2023).
 
 
-- Accra, Ghana: Trotro <sub>(lucianf, "lfip_090828_0461," Photograph, August 28, 2009, Flickr, https://www.flickr.com/photos/lucianf/4669380925/in/photostream/)</sub>
+- Accra, Ghana: Trotro (Fig.1) 
 
-- Addis Ababa, Ethiopia: Minibus Taxi <sub>(Ryan Kilpatrick, "Minibus taxi in Addis," Photograph, December 18, 2011, Flickr, https://www.flickr.com/photos/rkilpatrick21/6530701729)</sub>
+- Addis Ababa, Ethiopia: Minibus Taxi (Fig.2) 
 
-- Cairo, Egypt: Microbus <sub>(Robert Johnson, "Getting off the micro bus," Photograph, April 4, 2013, Business Insider, https://www.businessinsider.com/the-cairo-micro-bus-hand-signals-2013-4)</sub>
+- Cairo, Egypt: Microbus (Fig.3) 
 
-- Harare, Zimbabwe: Mushikashika (Pirate Taxis) <sub>(Sharon Buwerimwe, "Pirate taxis in the CBD also known as Mushikashika," Photograph, March 28, 2023, NewsDay Zimbabwe, https://www.newsday.co.zw/local-news/article/200009401/police-intensify-crackdown-on-pirate-taxis)</sub>
+- Harare, Zimbabwe: Mushikashika (Pirate Taxis) (Fig.4) 
 
-- Nairobi, Keyna: Matatus <sub>(ack Kavanagh, "Catching a matatu in Nairobi, Kenya," Photograph, December 19, 2018, UN environment programme, https://www.unep.org/news-and-stories/story/nairobi-matatus-odd-engine-idling-culture-pollutes-harms-health)</sub>
+- Nairobi, Keyna: Matatus (Fig.5) 
 
 
 ![informal transportation images](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/informal transportation example.jpg)
@@ -419,6 +419,22 @@ The Humanitarian Data Exchange, OCHA Regional Office for West and Central Africa
 Code for Kenya, "Kenya Counties Shapefile." Created October 21, 2015. Accessed April 29, 2023. https://africaopendata.org/dataset/kenya-counties-shapefile. 
 UN Humanitarian Data Exchange, “Kenya Sub Counties.” Created October 21, 2015. Accessed April 29, 2023. Retrieved from https://data.amerigeoss.org/dataset/kenya-sub-counties 
 
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 
+#### Figures  
+
+Fig.1. lucianf. "lfip_090828_0461." August 28, 2009. Flickr. Accessed April 30, 2023. https://www.flickr.com/photos/lucianf/4669380925. 
+
+
+Fig.2. Kilpatrick, Ryan. "Minibus taxi in Addis." December 18, 2011. Flickr. Accessed April 30, 2023. https://www.flickr.com/photos/rkilpatrick21/6530701729.
+
+
+Fig.3. Johnson, Robert. "Getting off the micro bus." April 4, 2013. Business Insider. Accessed April 30, 2023. https://www.businessinsider.com/the-cairo-micro-bus-hand-signals-2013-4.
+
+
+Fig.4. Buwerimwe, Sharon. "Pirate taxis in the CBD also known as Mushikashika." March 28, 2023. NewsDay Zimbabwe. Accessed April 30, 2023. https://www.newsday.co.zw/local-news/article/200009401/police-intensify-crackdown-on-pirate-taxis.
+
+
+Fig.5. Kavanagh, Jack. "Catching a matatu in Nairobi, Kenya." December 19, 2018. UN environment programme. Accessed April 30, 2023. https://www.unep.org/news-and-stories/story/nairobi-matatus-odd-engine-idling-culture-pollutes-harms-health.
 
