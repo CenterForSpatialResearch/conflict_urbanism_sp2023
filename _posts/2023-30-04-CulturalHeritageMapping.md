@@ -5,7 +5,7 @@ image: "/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-H
 title:  "The Destruction of Ukrainian Cultural Heritage"
 author: "Anna Kim, Maria Berger and Verena Krappitz"
 ---
-###### Investigation
+#### Investigation
 
 With Ukraine at the forefront of the international geopolitical discourse, our team has committed to investigate the continued conflict, examining more closely on how the Russian invasion has  systematically targeted Ukrainian history, culture and identity.
 
@@ -23,10 +23,10 @@ Directed attacks on cultural heritage sites – whether it’s collateral damage
   - *centers containing a large amount of cultural propertyas defined in the sub-paragraphs (a) and (b), to be known as 'centers containing monuments'*
 
 
-Embedded within the multilateral treaty are strategies on the marking and protection of cultural properties with a distinctive emblem in “the form of a shield, pointed below, persaltire blue and white (a shield consisting of a royal-blue square, one of the angles of which forms the point of the shield, and of a royal-blue triangle above the square, the space on either side being taken up by a white triangle).” [as shown below]
+Embedded within the multilateral treaty are strategies on the marking and protection of cultural properties with a distinctive emblem in “the form of a shield, pointed below, persaltire blue and white (a shield consisting of a royal-blue square, one of the angles of which forms the point of the shield, and of a royal-blue triangle above the square, the space on either side being taken up by a white triangle).”
 
 ![Emblem of UNESCO and the Blue Shield](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/Unesco-logo.png)
-
+###### Emblem of UNESCO and the Blue Shield
 
 Implemented as an advisory board to UNESCO, [Blue Shield International](https://theblueshield.org/),often referred to as the cultural equivalent of the Red Cross is a universal network that aims to safeguard properties of cultural heritage worthy of special protection in the event of armed conflict. The cultural emblem [delineated in the Hague Convention] prominently marked at these cultural monuments were enacted as part of a number of international legal initiatives to prevent any damage, but their identification has enabled combatants to more readily identify and target these sites.
 
@@ -39,11 +39,15 @@ The original dataset published by UNESCO [citing only the region and the names o
 
 <div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/16StISzzJD2FGsbwBaLa6dWbJICz9ikyvWeWc_ZCzJBI/edit#gid=0" style="position:absolute;top:0;left:0;width:50%;height:50%;" frameborder="0"></iframe></div>
 
+###### Suplemented Data Set
+
 Since the start of the Russian invasion of Ukraine, UNESCO has been conducting damage assessments for ‘cultural properties’ by cross-checking the reported incidents with geospatial analysis provided by [UNOSAT](https://unosat.org/). Organizations and/or local governments can request [reports](https://reliefweb.int/map/ukraine/unosat-damage-assessment-overview-map-livoberezhnyi-district-mariupol-city-imagery) from UNOSAT to assess damage. In 2022, the emergency mapping service was activated 72 times.
 
 
 ![Diagram of the Verification Process according to UNESCO ](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/233004-Verification-Diagram-png)
+###### Diagram of the Verification Process according to UNESCO
 
+![Legend](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/Legend.png)
 <div class="iframe-column"><iframe src="https://verenakrappitz.github.io/ukraine-heritage-mapping/#6/49.131/31.937" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### Perspective
@@ -54,3 +58,12 @@ In the face of such destruction, this project aims to respectfully archive these
 - mkb2192@columbia.edu
 - vk2498@columbia.edu
 - nk2912@columbia.edu
+
+
+**Bibliography**
+- Beven, Robert, "The Destruction of Memory", 2016, p 131
+- Farago, Jason, et al. “A Culture in the Cross Hairs.” The New York Times, The New York Times, 20 Dec. 2022, https://www.nytimes.com/interactive/2022/12/19/arts/design/ukraine-cultural-heritage-war-impacts.html
+- “Postcards from Ukraine.” Ukrainian Institute, https://ui.org.ua/en/postcards-en/. 
+- The Blue Shield.org, , accessed 28 March 2023,https://theblueshield.org/defining-cultural-heritage-and-cultural-property/
+**Datasets**
+- UNESCO, Damaged Cultural Sites in Ukraine Verified by UNESCO, The United Nations Educational, Scientific and Cultural Organization , 22 February 2023. https://www.unesco.org/en/articles/damaged-cultural-sites-ukraine-verified-unesco 
