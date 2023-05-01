@@ -187,6 +187,8 @@ By analyzing the layers of datasets, a few key themes emerged highlighting the u
 
 Findings from the two machine learning classification models reveal that towns situated at the periphery of informal bus routes exhibit lower levels of built features and higher levels of earth-tone colors as compared to their corresponding city centers.
 
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
+
 
 #### Urban Fabric   
 
@@ -226,6 +228,9 @@ An outlier is observed in Cairo, Egypt, where the city center exhibits a 6% high
 *What are the available transportation options for people living and working in these areas?*
 The residents of the sites selected near the capital cities often lack access to affordable and convenient methods of transportation. Owning a car might be a far dream, calling a taxi costs more than a day’s wage, and buses are time consuming. When the need to travel persists, informal transportation usually becomes the best option.  
 
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
+
+
 #### Transportation Options  
 
 *How do individuals navigate transportation in areas with inadequate formal transportation infrastructure and low levels of nighttime lighting?*
@@ -234,8 +239,8 @@ The residents of the sites selected near the capital cities often lack access to
 
 The catalog presents a range of transportation options available for commuting from neighboring towns to their respective capital cities. The median monthly income for each capital city is also provided for reference. The findings indicate that commuting by bus is a time-consuming option, driving is often not a feasible option, and taking a taxi is a considerably expensive choice. Moreover, regardless of the mode of transportation, residents of neighboring towns face limitations when traveling to their respective capital cities. The catalog also includes information on the amount of gas money required for each trip, and specifies whether the available bus and taxi services are formal or informal.
 
-<sub>The catalog displays transportation options from neighboring towns to their respective capital cities, including information on formal and informal buses and taxis, as well as the cost of gas for each trip. The data was sourced from the Rome2Rio website.</sub>
-
+<sub>The catalog displays transportation options from neighboring towns to their respective capital cities, including information on formal and informal buses</sub>
+<sub>and taxis, as well as the cost of gas for each trip. The data was sourced from the Rome2Rio website.</sub>
 
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
@@ -258,7 +263,8 @@ The travel time from Alem Gena to Addis Ababa is significantly shorter by car, t
 #### Informal Transit Conditions  
 
 
-Informal buses are a significant component in meeting the transportation needs of the vastly growing population within and around capital cities, bridging the gap left by the limited services provided by official transportation systems. Data shows that in most of these cities, over 50% of the commuting is done by informal buses (Tech Nova, 2022; Tekest et al., 2022; Nation, 2023; Statista, 2012.) Although there isn’t a standardized name, informal buses share common features, typically consisting of old vans that exceed their passenger capacity while navigating through urban areas. 
+The inadequacy of formal transportation systems has resulted in informal buses becoming a crucial means of infrastructure in fulfilling the transportation demands of the rapidly expanding population in and around capital cities in the selected case studies. Extant research indicates that informal buses account for over 50% of daily commuting in most cities (Tech Nova, 2022; Tekest et al., 2022; Nation, 2023; Statista, 2012). It is worth noting that the nomenclature for these vehicles varies across cultures, with "Trotro" in Accra, Ghana, and "Matatus" in Nairobi, Kenya, being some examples. Despite the lack of standardized terminology, informal buses share certain characteristics, commonly manifesting as aging vans that surpass their capacity while traversing urban areas.
+
 
 - Accra, Ghana: Trotro 
 <sub>(lucianf, "lfip_090828_0461," Photograph, August 28, 2009, Flickr, https://www.flickr.com/photos/lucianf/4669380925/in/photostream/)</sub>
@@ -280,6 +286,9 @@ Informal buses are a significant component in meeting the transportation needs o
 
 This study offers a glimpse into the built environment and transportation conditions in areas with urban clusters lacking infrastructural light and reliant on informal buses. While the methodology and findings provide an initial basis for further research, the limitations of this project suggest several directions for future investigation.
 
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
+
+
 #### Distanced Perspective  
 
 While the utilization of a distanced perspective has facilitated research spanning several cities, it has also engendered constraints in analyzing data at finer levels of granularity.  For example, this project employs identical filtering thresholds for nighttime light, population data, and earth tone color range for all selected case study areas, which presents both advantages and limitations. While the consistent thresholds enable the identification of urban clusters and comparison of different cities at a continental level, they may lead to a loss of granularity in city characteristics. As an illustration, this study classified Kibera, an area in Nairobi lacking fundamental infrastructure, as "well-lighted." Future research could incorporate varying filtering thresholds to reflect cities' unique demographics and conditions, providing a more precise representation of urban patterns and findings.
@@ -287,6 +296,7 @@ While the utilization of a distanced perspective has facilitated research spanni
 This limitation also underscores the necessity of field research and interdisciplinary collaboration to comprehend the different soil, vegetation, and urban fabric conditions manifested in the satellite imagery, enabling a more accurate depiction of built environment conditions. Machine learning techniques such as material detection and deep learning-based computer vision techniques of street views could also offer more granular information about building typologies and dirt road conditions in areas where the majority live and travel in the dark. Additionally, further research should integrate longitudinal investigation and qualitative research to understand better the infrastructure's present state and how it evolved in these under-researched areas.
 
 
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 
 
