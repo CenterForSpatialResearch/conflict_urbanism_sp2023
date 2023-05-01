@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-04-30
-image: "/conflict_urbanism_sp2023/videomitigation_images/thumb.png"
+image: "/conflict_urbanism_sp2023/images/videomitigation_images/thumb.png"
 title:  "Geonarratives for Video Mitigation"
 author: "Yuna Li, Zoe Lin, John Max Grunewald, Caroline Wineburg"
 ---
@@ -38,11 +38,11 @@ As this was our first case, initial research was focused on understanding the si
 
 We later came across an article which revealed that shelters often lacked the necessary infrastructure for children to attend school remotely when the COVID-19 pandemic hit. The number of households with broadband internet access in the Bronx, and especially within shelters, was notably lower compared to most neighborhoods across the five NYC boroughs. This fact was critical, as the client himself lost out on a college scholarship which he was awarded due to not being able to log on to claim it. Though access to broadband internet is sometimes thought to be a given, lower income neighborhoods often see more trouble with internet reliability and/or buildings lacking the infrastructure ready to offer service.
 
-![This is a version of the previous bivariate map zoomed in to the South Bronx showing six approximate locations of the shelters that the client lived in and five locations of the schools he attended, connected in sequence and juxtaposed on the previous map.](/conflict_urbanism_sp2023/videomitigation_images/videomitigation_case1bivariate.png)
+![This is a version of the previous bivariate map zoomed in to the South Bronx showing six approximate locations of the shelters that the client lived in and five locations of the schools he attended, connected in sequence and juxtaposed on the previous map.](/conflict_urbanism_sp2023/images/videomitigation_images/videomitigation_case1bivariate.png)
 
 The map above shows the bivariate data association between the median household income across New York and the percentage of households who have access to adequate internet. This formed the large-scale approach which we focused on, and subsequently studied more in-depth in a “chaos” map of the client’s unstable housing.
 
-![This is a version of the previous bivariate map zoomed in to the South Bronx showing six approximate locations of the shelters that the client lived in and five locations of the schools he attended, connected in sequence and juxtaposed on the previous map.](/conflict_urbanism_sp2023/videomitigation_images/videomitigation_case1chaos.png)
+![This is a version of the previous bivariate map zoomed in to the South Bronx showing six approximate locations of the shelters that the client lived in and five locations of the schools he attended, connected in sequence and juxtaposed on the previous map.](/conflict_urbanism_sp2023/images/videomitigation_images/videomitigation_case1chaos.png)
 
 For the shelters and schools that the client went through, we gathered other data points that helped highlight other “social forces” linked to the client (Urbanik). For each of the schools that the client attended in the map above, we found a staggering percentage of students facing temporary/unstable housing situations ranging from 15% to nearly a third of all students. Meanwhile, a number of the homes and shelters that the client moved through in his childhood were revealed to often be in squalid conditions. Within the video made by Legal Aid Society, the client recounts the family living in inhumane and illegal conditions, common issues with pests, lack of utilities, and mismanagement by building ownership. So our team decided to look into an online database of building violation reports provided by New York City Housing Preservation and Development’s and found numbers of past violations (which can include rat or cockroach infestations, broken heating, cooling, lack of water, plumbing, broken windows or tiles, leaks, etc.) for those select shelters. Lastly, we included certain key life events and moments that were important to the client, bringing those together to create a personalized geo-narrative of the chaos in his life.
 
