@@ -5,6 +5,8 @@ image: "/conflict_urbanism_sp2023/images/At the Fault Lines/atfl_logo.png"
 title:  "At the Fault Lines: Developing an Alternative Earthquake Risk Assessment Method for Istanbul's Building Stock"
 author: "Taha Erdem Ozturk"
 ---
+![At the Fault Lines](/conflict_urbanism_sp2023/images/At the Fault Lines/atfl_logo.png)
+
 #### **INTRODUCTION**  
 
 On February 6, 2023, two consecutive earthquakes of Magnitudes 7.8 and 7.7 struck Southern Turkey and Northern Syria, killing more than 52,000 people. Namely the Kahramanmaras Earthquake is the largest since the 1939 Erzincan Earthquake with the same magnitude, and the second largest that’s ever recorded in the region. Affecting 14 million people and leaving 1.5 million people homeless across 21 provinces, it is now accepted as the deadliest natural disaster in the history of the country.
