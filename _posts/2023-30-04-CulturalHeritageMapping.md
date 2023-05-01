@@ -36,6 +36,7 @@ As the Russian-Ukrainian war enters into its second year, UNESCO has verified da
 The original dataset published by UNESCO [citing only the region and the names of the verified sites] provided the groundwork of our research. Building upon their preliminary damage assessment using comparative methods of satellite imagery and photographs and videos from social media, we added the following attributes:
 
 *Site Name | Region | Address | City | Latitude | Longitude | Typology | Date of Construction | Date of Destruction | Weapon Used | Further Links*
+<div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/16StISzzJD2FGsbwBaLa6dWbJICz9ikyvWeWc_ZCzJBI/edit#gid=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <div class="iframe-column"><iframe src="https://verenakrappitz.github.io/ukraine-heritage-mapping/#6/49.131/31.937" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
