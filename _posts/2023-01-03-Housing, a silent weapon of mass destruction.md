@@ -18,6 +18,7 @@ The number of fatalities and property losses from this earthquake has eclipsed a
 ![Major Reason for Destruction](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study2.png)
 
 
+
 Since 2005, several places worldwide (as shown in img 1) have experienced similar events to Bhuj and Turkey, with a common factor being the construction of soft storey structures. Despite the known risk associated with such buildings, they continue to be built, and little action has been taken to address the existing such structures. The majority of these structures can be attributed to corrupt practices, with the primary motivation being the pursuit of rapid financial gain. The devastating earthquakes in Gujarat in 2001 and Turkey and Syria in 2023 have highlighted the destructive power of poorly constructed housing, which has resulted in numerous fatalities and extensive property damage. It’s important to note that most of the highly collapsible buildings have been in areas that consist of economically and socially vulnerable communities.  
 
 ![What is Soft Storey?](/conflict_urbanism_sp2023/image/Housing, a silent weapon of mass destrcution/Soft story structure diagrams.jpg)
