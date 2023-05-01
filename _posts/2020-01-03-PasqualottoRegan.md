@@ -74,7 +74,7 @@ Citations:
 
 Literature and Articles
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions. 
+Britannica, T. Editors of Encyclopaedia. "Svalbard." Encyclopedia Britannica, April 13, 2023. [Britannica](https://www.britannica.com/place/Svalbard).  
 
 Datasets 
 
