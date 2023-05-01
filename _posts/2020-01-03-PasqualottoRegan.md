@@ -9,6 +9,8 @@ author: "Carley Pasqualotto and Maclane Regan"
 
 Svalbard is a norwegian archipelago in the Arctic Ocean and lies between the northern coast of Norway and the North Pole.It is also the most northern inhabited place on the planet, with the largest settlement being in Longyearbyen. 
 
+![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/NASA_Svalbard.jpg)
+
 ![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/regan_glaciermelts.jpg)
 
 In the Arctic, there is a war over resources. As the ice melts more and more, many countries surrounding the Arctic are wanting to stake claim in Svalbard and utilize its resources for their own purposes. Many people see this as a looming disaster, but for the Arctic Nations, this change means an opportunity - access to a brand new ocean.
