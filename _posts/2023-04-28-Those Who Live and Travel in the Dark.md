@@ -196,7 +196,7 @@ Findings from the two machine learning classification models reveal that towns s
 
 
 
-![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/IMAGE COLLECTION.jpg)
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/IMAGE COLLECTIN.jpg)
 
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/ML IMAGE COLLECTIN.jpg)
 
@@ -263,19 +263,29 @@ The travel time from Alem Gena to Addis Ababa is significantly shorter by car, t
 #### Informal Transit Conditions  
 
 
-The inadequacy of formal transportation systems has resulted in informal buses becoming a crucial means of infrastructure in fulfilling the transportation demands of the rapidly expanding population in and around capital cities in the selected case studies. Extant research indicates that informal buses account for over 50% of daily commuting in most cities (Tech Nova, 2022; Tekest et al., 2022; Nation, 2023; Statista, 2012). It is worth noting that the nomenclature for these vehicles varies across cultures, with "Trotro" in Accra, Ghana, and "Matatus" in Nairobi, Kenya, being some examples. Despite the lack of standardized terminology, informal buses share certain characteristics, commonly manifesting as aging vans that surpass their capacity while traversing urban areas.
+The inadequacy of formal transportation systems has resulted in informal buses becoming a crucial means of infrastructure in fulfilling the transportation demands of the rapidly expanding population in and around capital cities in the selected case studies. While there is no standardized terminology, informal buses share certain characteristics, commonly manifesting as aging vans that surpass their capacity while traversing urban areas. Most selected case studies demonstrate significant reliance on these informal buses for daily commuting. In Accra, for example, 70% of daily commuting is carried out by 6,000 informal minibuses called "Trotros" (Kuuire, 2022; World Bank, 2011). Likewise, in Addis Ababa, minibus taxis constitute 73% of the total modal choice of the city (World Bank, 2002). In Cairo, 52.3% of public transport vehicle trips per day are executed by informal microbuses (Statista, 2016). Similarly, nearly six in ten residents in Nairobi use public service vehicles, commonly referred to as "Matatus," for commuting to their workplaces (Cheruiyot, 2023).
 
 
 - Accra, Ghana: Trotro 
+
 <sub>(lucianf, "lfip_090828_0461," Photograph, August 28, 2009, Flickr, https://www.flickr.com/photos/lucianf/4669380925/in/photostream/)</sub>
+
 - Addis Ababa, Ethiopia: Minibus Taxi 
+
 <sub>(Ryan Kilpatrick, "Minibus taxi in Addis," Photograph, December 18, 2011, Flickr, https://www.flickr.com/photos/rkilpatrick21/6530701729)</sub>
+
 - Cairo, Egypt: Microbus 
+
 <sub>(Robert Johnson, "Getting off the micro bus," Photograph, April 4, 2013, Business Insider, https://www.businessinsider.com/the-cairo-micro-bus-hand-signals-2013-4)</sub>
+
 - Harare, Zimbabwe: Mushikashika (Pirate Taxis) 
+
 <sub>(Sharon Buwerimwe, "Pirate taxis in the CBD also known as Mushikashika," Photograph, March 28, 2023, NewsDay Zimbabwe, https://www.newsday.co.zw/local-news/article/200009401/police-intensify-crackdown-on-pirate-taxis)</sub>
+
 - Nairobi, Keyna: Matatus 
+
 <sub>(ack Kavanagh, "Catching a matatu in Nairobi, Kenya," Photograph, December 19, 2018, UN environment programme, https://www.unep.org/news-and-stories/story/nairobi-matatus-odd-engine-idling-culture-pollutes-harms-health)</sub>
+
 
 ![informal transportation images](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/informal transportation example.jpg)
 
@@ -328,10 +338,16 @@ This project is a tapestry woven with threads of discovery, striving to reveal t
 Atwood, Atwood. 2016. “Zimbabwe’s Unstable Infrastructure.” Sphere Journal for Digital Cultures #3 Unstable Infrastructures (June). https://spheres-journal.org/contribution/zimbabwes-unstable-infrastructure/.
 
 
-Cheruiyot, Kevin. “Eight out of 10 Nairobians Walk or Use Matatus to Work: Report.” Nation. Nation, February 17, 2023. https://nation.africa/kenya/counties/nairobi/eight-out-of-10-nairobians-walk-or-use-matatus-to-work-report-4127672. 
+“Case Study: Accra,Ghana.” World Bank. 2011. Accessed April 30, 2023. https://www.ssatp.org/sites/ssatp/files/publications/Toolkits/ITS%20Toolkit%20content/case-studies/accra-ghana.html. 
+
+
+Cheruiyot, Kevin. “Eight out of 10 Nairobians Walk or Use Matatus to Work: Report.” Nation. February 17, 2023. https://nation.africa/kenya/counties/nairobi/eight-out-of-10-nairobians-walk-or-use-matatus-to-work-report-4127672. 
 
 
 Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko. 2018. Center for Spatial Research. In Plain Sight. Video, 12:24. https://vimeo.com/290575503. 
+
+
+"Distribution of public transport vehicle trips per day in Cairo, Egypt in 2012, by type". Statista. April 15, 2016. https://www.statista.com/statistics/725259/cairo-share-of-public-transport-vehicles-usage-per-day-by-type/#:~:text=The%20public%20transport%20trips%20made,of%20daily%20public%20transport%20trips.
 
 
 Elvidge, Christopher D., Jeffrey Safran, Benjamin Tuttle, Paul Sutton, Pierantonio Cinzano, Donald Pettit, John Arvesen, and Christopher Small. 2007. “Potential for Global Mapping of Development via a Nightsat Mission.” GeoJournal 69 (1/2): 45–53.
@@ -343,7 +359,7 @@ Foster, Hugo, and Lechler Marie. 2022. “How Nighttime Lights Illuminate Econom
 Klopp, Jacqueline, Sarah Williams, Peter Waiganjo, Dan Orwa, and Adam White. 2015. “DIGITAL MATATUS.” 2015. Civic Data Design Lab, Massachusetts Institute of Technology. School of Computing and Informatics, University of Nairobi. http://digitalmatatus.com/.
 
 
-Kuuire, Joseph-Albert. “The Sad State of Public Transportation in Accra.” Tech Nova, March 3, 2022. https://technovagh.com/the-sad-state-of-public-transportation-in-accra/. 
+Kuuire, Joseph-Albert. “The Sad State of Public Transportation in Accra.” Tech Nova. March 3, 2022. https://technovagh.com/the-sad-state-of-public-transportation-in-accra/. 
 
 
 Liu, Haoyu, Xianwen He, Yanbing Bai, Xing Liu, Yilin Wu, Yanyun Zhao, and Hanfang Yang. 2021. “Nightlight as a Proxy of Economic Indicators: Fine-Grained GDP Inference around Chinese Mainland via Attention-Augmented CNN from Daytime Satellite Imagery.” Remote Sensing 13 (11): 2067. https://doi.org/10.3390/rs13112067. 
@@ -352,10 +368,7 @@ Liu, Haoyu, Xianwen He, Yanbing Bai, Xing Liu, Yilin Wu, Yanyun Zhao, and Hanfan
 Ndlovu, Ray, and Archana Narayanan. 2023. “Zimbabwe Plans a New City for the Rich.” Bloomberg.Com, January 26, 2023. https://www.bloomberg.com/news/features/2023-01-26/zimbabwe-plans-a-new-city-for-the-rich-as-harare-decays.
 
 
-Statista. "Distribution of public transport vehicle trips per day in Cairo, Egypt in 2012, by type" Accessed April 30, 2023. https://www.statista.com/statistics/725259/cairo-share-of-public-transport-vehicles-usage-per-day-by-type/#:~:text=The%20public%20transport%20trips%20made,of%20daily%20public%20transport%20trips.
-
-
-Tekest, Mebeaselassie, Tebarek Lika, and Mulugeta Girma. "Paratransit Minibus Taxi Transport Services in Addis Ababa." Urban, Planning and Transport Research 10, no. 1 (2022): 311-332. doi: 10.1080/21650020.2022.2086613.
+World Bank. 2002. Scoping Study : Urban Mobility in Three Cities--Addis Ababa, Dar es Salaam, and Nairobi. Sub-Saharan Africa Transport Policy Program working paper series; no. SSATP 70. © Washington, DC. http://hdl.handle.net/10986/17691 License: CC BY 3.0 IGO.
 
 
 Zhao, Min, Yuyu Zhou, Xuecao Li, Wenting Cao, Chunyang He, Bailang Yu, Xi Li, Christopher D. Elvidge, Weiming Cheng, and Chenghu Zhou. 2019. “Applications of Satellite Remote Sensing of Nighttime Light Observations: Advances, Challenges, and Perspectives.” Remote Sensing 11 (17): 1971. https://doi.org/10.3390/rs11171971. 
