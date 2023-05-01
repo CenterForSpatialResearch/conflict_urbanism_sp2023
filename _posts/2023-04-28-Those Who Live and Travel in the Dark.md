@@ -338,16 +338,16 @@ This project is a tapestry woven with threads of discovery, striving to reveal t
 Atwood, Atwood. 2016. “Zimbabwe’s Unstable Infrastructure.” Sphere Journal for Digital Cultures #3 Unstable Infrastructures (June). https://spheres-journal.org/contribution/zimbabwes-unstable-infrastructure/.
 
 
-“Case Study: Accra,Ghana.” World Bank. 2011. Accessed April 30, 2023. https://www.ssatp.org/sites/ssatp/files/publications/Toolkits/ITS%20Toolkit%20content/case-studies/accra-ghana.html. 
+“Case Study: Accra,Ghana.” 2011. World Bank. Accessed April 30, 2023. https://www.ssatp.org/sites/ssatp/files/publications/Toolkits/ITS%20Toolkit%20content/case-studies/accra-ghana.html. 
 
 
-Cheruiyot, Kevin. “Eight out of 10 Nairobians Walk or Use Matatus to Work: Report.” Nation. February 17, 2023. https://nation.africa/kenya/counties/nairobi/eight-out-of-10-nairobians-walk-or-use-matatus-to-work-report-4127672. 
+Cheruiyot, Kevin. 2023. “Eight out of 10 Nairobians Walk or Use Matatus to Work: Report.” Nation. February 17, 2023. https://nation.africa/kenya/counties/nairobi/eight-out-of-10-nairobians-walk-or-use-matatus-to-work-report-4127672. 
 
 
 Diller Scofidio + Renfro, Laura Kurgan, Robert Gerard Pietrusko. 2018. Center for Spatial Research. In Plain Sight. Video, 12:24. https://vimeo.com/290575503. 
 
 
-"Distribution of public transport vehicle trips per day in Cairo, Egypt in 2012, by type". Statista. April 15, 2016. https://www.statista.com/statistics/725259/cairo-share-of-public-transport-vehicles-usage-per-day-by-type/#:~:text=The%20public%20transport%20trips%20made,of%20daily%20public%20transport%20trips.
+"Distribution of public transport vehicle trips per day in Cairo, Egypt in 2012, by type". 2016. Statista. April 15, 2016. https://www.statista.com/statistics/725259/cairo-share-of-public-transport-vehicles-usage-per-day-by-type/#:~:text=The%20public%20transport%20trips%20made,of%20daily%20public%20transport%20trips.
 
 
 Elvidge, Christopher D., Jeffrey Safran, Benjamin Tuttle, Paul Sutton, Pierantonio Cinzano, Donald Pettit, John Arvesen, and Christopher Small. 2007. “Potential for Global Mapping of Development via a Nightsat Mission.” GeoJournal 69 (1/2): 45–53.
@@ -359,7 +359,7 @@ Foster, Hugo, and Lechler Marie. 2022. “How Nighttime Lights Illuminate Econom
 Klopp, Jacqueline, Sarah Williams, Peter Waiganjo, Dan Orwa, and Adam White. 2015. “DIGITAL MATATUS.” 2015. Civic Data Design Lab, Massachusetts Institute of Technology. School of Computing and Informatics, University of Nairobi. http://digitalmatatus.com/.
 
 
-Kuuire, Joseph-Albert. “The Sad State of Public Transportation in Accra.” Tech Nova. March 3, 2022. https://technovagh.com/the-sad-state-of-public-transportation-in-accra/. 
+Kuuire, Joseph-Albert. 2023.  “The Sad State of Public Transportation in Accra.” Tech Nova. March 3, 2022. https://technovagh.com/the-sad-state-of-public-transportation-in-accra/. 
 
 
 Liu, Haoyu, Xianwen He, Yanbing Bai, Xing Liu, Yilin Wu, Yanyun Zhao, and Hanfang Yang. 2021. “Nightlight as a Proxy of Economic Indicators: Fine-Grained GDP Inference around Chinese Mainland via Attention-Augmented CNN from Daytime Satellite Imagery.” Remote Sensing 13 (11): 2067. https://doi.org/10.3390/rs13112067. 
@@ -375,9 +375,12 @@ Zhao, Min, Yuyu Zhou, Xuecao Li, Wenting Cao, Chunyang He, Bailang Yu, Xi Li, Ch
 
 
 
+
+
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 #### Datasets
+
 **Worldwide Datasets**
 
 C. D. Elvidge, M. Zhizhin, T. Ghosh, F-C. Hsu, "Annual time series of global VIIRS nighttime lights derived from monthly averages: 2012 to 2019", Remote Sensing (In press). Accessed April 29, 2023. Retrieved from https://eogdata.mines.edu/products/vnl/ 
