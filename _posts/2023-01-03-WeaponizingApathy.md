@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-05-01
-image: "/conflict_urbanism_sp2023/images/WeapopnizingApathy/Cover.jpg"
+image: "/conflict_urbanism_sp2023/images/WeaponizingApathy/Cover.jpg"
 title:  "Weapopnizing Apathy, Pakistan"
 author: "Iza Khan"
 ---

@@ -7,7 +7,7 @@ author: "Hsiang Hsi Lu"
 ---
 #### Introduction: Who Made The New Bushwick?
 
-![123 Melrose](images/bushwick/123melrose.jpg)
+![123 Melrose](/conflict_urbanism_sp2023/images/bushwick/123melrose.jpg)
 
 Real estate development has been strongly tied to overall economic conditions. To stimulate economic growth after the 2008 subprime mortgage crisis, the Federal Open Market Committee introduced the longest and lowest Federal Funds Rate, at about 0.1%, since 1954, from November 2008 until November 2015. With extremely low-interest rates, new development boomed nationwide when the market recovered from 2010. Furthermore, following Trump's Opportunity Zones in Tax Cuts and Jobs Act of 2017, many new constructions were initiated in underdeveloped areas signaling large-scale urban revitalization was underway. Bushwick is an example of the tide of the 2010s real estate boom.
 
@@ -15,7 +15,7 @@ In a shrinking regional economy, urban revitalization is crucial to bring new li
  
 #### The Developer’s Town: The Cluster Effect of The Owner’s Address
 
-![Owner's Address Cluster](images/bushwick/hhl_map1.jpg)
+![Owner's Address Cluster](/conflict_urbanism_sp2023/images/bushwick/hhl_map1.jpg)
 
 To understand where the owners came from and which companies developed Bushwick, I looked into the registered owner’s addresses from the Department of Building data that indicated their true business addresses.
 
@@ -25,7 +25,7 @@ The map shows the spatial relationship between the owner’s address and Bushwic
 
 #### Top Owner by Name
 
-![Top Owner's Address](images/bushwick/hhl_map2.jpg)
+![Top Owner's Address](/conflict_urbanism_sp2023/images/bushwick/hhl_map2.jpg)
 
 There are 299 total individual owners to develop 536 new buildings from 2008-2022. Most owners only have one building in the period. There are 12 outliers calculated by the IQR method. Sorted descendingly, which are Bob Michaeli (27), Louis Handler (12), Mendel Gold (11), Boaz Gilad (11), Timothy Joseph (10), Shampa Chanda (10), Richard Lopez (10), Leopold Kaufman (9), Sal Mendolia (6), Joel Braver (6), Haim Levy (6), Gabriel Grunblatt (6). 
 
@@ -35,47 +35,47 @@ Based on the permit issuance, Bob Michaeli (Robert Michaeli) is the top owner of
 
 The map shows the top 12 owners’s (outlier) location. The color ones indicate they have multiple owner’s addresses.
 
-![Top Owner's Network](images/bushwick/hhl_chart1.jpg)
+![Top Owner's Network](/conflict_urbanism_sp2023/images/bushwick/hhl_chart1.jpg)
 
 *The diagram shows Bob Michaeli’s network with the new building and the contractor (builder).*
 
-![101 Broadway](images/bushwick/101bway.jpg)
+![101 Broadway](/conflict_urbanism_sp2023/images/bushwick/101bway.jpg)
 
 *Bob Michaeli's Urban View Development Group Inc. is registered at 101 Broadway in South Williamsburg. The company's name doesn't show up in the dictionary. Based on Google reviews, it is likely associated with Prospect Management at the bottom left.*
 
 #### Top Owner’s Address
 
-![Top Shared Owner's Address](images/bushwick/hhl_map3.jpg)
+![Top Shared Owner's Address](/conflict_urbanism_sp2023/images/bushwick/hhl_map3.jpg)
 
 There are 291 unique owner’s (business) addresses compared to 299 individual owners for 536 new buildings. It indicates there are shared owner’s addresses at the same buildings. There are two possible scenarios. First, the shared address has PO boxes for different LLCs. Second, there are different fee developers for the same real estate firm, and they all use the real estate firm’s address as the owner's address. 12 top owner’s addresses (outliers) developed 161 buildings, which took around 30% of the entire Bushwick’s new buildings. The top shared owner’s address is 199 Lee Avenue in South Williamsburg. 37 new building LLCs are based in this address.
 
 The map shows the top owners' (outlier) addresses. The blue color indicates they have multiple owners at the same address.
 
-![The Most Shared Owner's Address](images/bushwick/hhl_chart3.jpg)
+![The Most Shared Owner's Address](/conflict_urbanism_sp2023/images/bushwick/hhl_chart3.jpg)
 
 *The diagram shows 199 Lee Avenue’s network with the registered owner and the new building.*
 
-![199 Lee Avenue](images/bushwick/199lee.jpg)
+![199 Lee Avenue](/conflict_urbanism_sp2023/images/bushwick/199lee.jpg)
 
 *The storefront of 199 Lee Avenue is a shipping store. There are PO boxes for LLCs.*
 
 #### Top Builder
 
-![Top Shared Owner's Address](images/bushwick/hhl_map3.jpg)
+![Top Shared Owner's Address](/conflict_urbanism_sp2023/images/bushwick/hhl_map3.jpg)
 
 There are 152 builders, including architects or contractors, for 536 new buildings. The top builders (outliers), sorted descendingly, are Gerald J Caliendo (52), Bahram Tehrani (31), Wu (Woody) Chen (30), Olabanji Awosika (28), Diego B Aguilera (21), Suresh Manchanda (19), Charles Mallea (16), Boaz Golani (15), Robert Bianchini (14), Aryeh Siegel (10), and Douglas Pulaksi (10). 45.9% of the new buildings were built by the listed builders. Gerald J Caliendo tops the chart by building 52 new buildings in Bushwick.
 
-![Top Builder's Network](images/bushwick/hhl_chart2.jpg)
+![Top Builder's Network](/conflict_urbanism_sp2023/images/bushwick/hhl_chart2.jpg)
 
 *The diagram shows Gerald J Caliendo’s network with the owner and the building.*
 
-![Owner-Builder Relationship](images/bushwick/hhl_chart4.jpg)
+![Owner-Builder Relationship](/conflict_urbanism_sp2023/images/bushwick/hhl_chart4.jpg)
 
 *The diagram shows the owner-builder (outlier) connection.*
 
 #### Conclusion
 
-![334 Evergreen Avenue](images/bushwick/334everggreen.jpg)
+![334 Evergreen Avenue](/conflict_urbanism_sp2023/images/bushwick/334everggreen.jpg)
 
 *The piano building at 334 Evergreen Ave was developed by Joel Friedman and built by Shawn E Stiles.*
 
