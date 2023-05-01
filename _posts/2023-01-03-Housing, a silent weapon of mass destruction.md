@@ -4,7 +4,7 @@ image: "/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destru
 title:  "Housing, a Silent Weapon of Mass Destuction"
 author: "Heer Shah, Reya Singhi"
 ---
-![Turkey Earthquake GIF](/conflict_urbanism_sp2023/images/Housing,a silent weapon of mass destruction/Turkey Earthquake.gif)
+![Turkey Earthquake](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Turkey Earthquake.gif)
 
 
 #### Introduction
@@ -13,8 +13,8 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 The number of fatalities and property losses from this earthquake has eclipsed all previous records, exposing the cause of this immense catastrophe - **HOUSING**. 
 
 
-![Earthquakes from 2005](/conflict_urbanism_sp2023/images/Housing, a Silent Weapon of Mass Destuction/Global Case Study1.png)
-![Major Reason for Destruction](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destrcution/Global Case Study2.png)
+![Earthquakes from 2005](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study1.png)
+![Major Reason for Destruction](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study2.png)
 
 
 Since 2005, several places worldwide (as shown in img 1) have experienced similar events to Bhuj and Turkey, with a common factor being the construction of soft storey structures. Despite the known risk associated with such buildings, they continue to be built, and little action has been taken to address the existing such structures. The majority of these structures can be attributed to corrupt practices, with the primary motivation being the pursuit of rapid financial gain. The devastating earthquakes in Gujarat in 2001 and Turkey and Syria in 2023 have highlighted the destructive power of poorly constructed housing, which has resulted in numerous fatalities and extensive property damage. It’s important to note that most of the highly collapsible buildings have been in areas that consist of economically and socially vulnerable communities.  
@@ -139,6 +139,5 @@ The survey is just the beginning of efforts to lessen the effects of an impendin
 1. Jag Mohan Humar, David Lau, and Jean-Robert Pierre; Performance of buildings during the 2001 Bhuj earthquake; 
 2. S. K. Ghosh, Ph.D.Northbrook, Illinois; Observations From the Bhuj Earthquake of January 26, 2001
 3. ANDREW C. REVKIN; Published: February 24, 2010; Disaster Awaits Cities in Earthquake Zones
-
 
 
