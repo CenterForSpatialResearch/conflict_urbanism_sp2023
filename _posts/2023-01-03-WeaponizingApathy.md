@@ -9,15 +9,15 @@ author: "Iza Khan"
 
 This project aims to understand systems of apathy generated through mistrust and alienation of a singular community. During the floods that hit Pakistan President Biden stated;  “Pakistan is one of the most dangerous nations" in the world with "nuclear weapons without any cohesion"  This statement holds a certain level of irresponsibility towards a nation going through a dire humanitarian crisis which killed 1,739 people, and destroyed 1.7 million homes. These floods stemmed from unprecedented rainfall. These floods were a direct result of global climate change. Statistically, Pakistan accounts for around 0.6% of the world's greenhouse gas emissions, even though it makes up nearly 2.7% of the global population. China is the world's biggest emitter, at 32.5%, and while the US is second, accounting for 12.6%, it has historically been the biggest emitter globally. Yet, the global narrative surrounding these floods was one of indifference built through a vague understanding of isolated media reports. 
 
-![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeapopnizingApathy/Flood.jpeg)
+![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeaponizingApathy/Flood.jpeg)
 *Map of Flood Extent*
 
-![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeapopnizingApathy/PakHumanitarian.jpg)
+![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeaponizingApathy/PakHumanitarian.jpg)
 *Humanitarian Needs*
 
 The damage caused by the floods was estimated to be around 30 Billion dollars by the UN. Can this cost estimation be stated as humanitarian aid? Or should it be claimed as climate reparations to the people of Pakistan. A developing nation subjugated to years of conflict and constructed climate disasters. 
 
-![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeapopnizingApathy/PakFloods1.jpg)
+![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeaponizingApathy/PakFloods1.jpg)
 *Map of Flood Extent*
 
 #### **ABSTRACT**
