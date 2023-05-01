@@ -45,7 +45,7 @@ Drone strikes were an inhumane and inaccurate system of determining who a milita
 
 ![Bomb Blast in Peshawar](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism1.jpg)
 
-![Mapping Out Insurgent Bombings](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism.jpg)
+![Mapping Out Insurgent Bombings](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism.jpeg)
 *Mostly Situated in Khyber Pakhtunkhwa, Data from Global Terrorism Database*
 
 
