@@ -144,6 +144,7 @@ Further research is then done to explore the urban fabrics and materiality of th
 <sub>GIF made by Alan Ren, Candice Siyun Ji, Kelly Shining Hong, Wei Xiao</sub>
 
 
+![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 2-01.png)
 
 
 
@@ -249,7 +250,7 @@ Findings from the two machine learning classification models reveal that towns s
 <sub>Map made by Alan Ren, Candice Siyun Ji, Kelly Shining Hong, Wei Xiao</sub>
 
 
-<sub>Green is non-built features vs. Orange is built features</sub>
+*Green is non-built features vs. Orange is built features*
 
 
 The findings from the machine learning classification models reveal that towns located at the end of informal bus routes generally have lower levels of built features compared to their respective city centers. For example, in Nairobi, the four towns of Githunguri, Karen Hardy, Kiserian, and Misiri Village at the end of the informal bus route exhibit an average of only 7.9% of built features, while the central coordinate of Nairobi has an 83.2% built area. Similarly, in Addis Ababa, the four towns of Akaki, Alem Gena, Menagesha, and VFAC at the end of the informal bus route exhibit an average of 62.0% of built features compared to the central coordinates’ 89.3% built area. These results indicate a possible relationship between the absence of formal transportation infrastructure and the built environment and urban fabric in these regions.
@@ -305,7 +306,7 @@ The catalog presents a range of transportation options available for commuting f
 
 ![Epworth transportation](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/transportation comparison examples_Epworth.jpg)
 
-<sub>Image made by Alan Ren, Candice Siyun Ji, Kelly Shining Hong, Wei Xiao</sub>
+<sub>Image source: Rome2Rio website.</sub>
 
 
 When traveling from Epworth to Harare, the informal bus, also known as a “taxi,” costs only 1 dollar, while the official taxi, shown as "taxi via Epworth," costs significantly more, ranging from 25 to 30 dollars. However, one disadvantage of taking the informal bus is that it stops on the outskirts of the town, requiring passengers to walk a considerable distance before they can reach the minibus stop, while the official taxi goes directly into the town. This pattern is consistent across several towns selected as case studies in this project. 
@@ -315,7 +316,8 @@ When traveling from Epworth to Harare, the informal bus, also known as a “taxi
 
 ![Alem Gena transportation](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/transportation comparison examples_Alem Gena.jpg)
 
-<sub>Image made by Alan Ren, Candice Siyun Ji, Kelly Shining Hong, Wei Xiao</sub>
+<sub>Image source: Rome2Rio website.</sub>
+
 
 
 The travel time from Alem Gena to Addis Ababa is significantly shorter by car, taking only 19 minutes, compared to a bus journey that takes 5 hours.
