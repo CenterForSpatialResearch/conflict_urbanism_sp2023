@@ -37,7 +37,7 @@ The original dataset published by UNESCO [citing only the region and the names o
 
 *Site Name | Region | Address | City | Latitude | Longitude | Typology | Date of Construction | Date of Destruction | Weapon Used | Further Links*
 
-<div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/16StISzzJD2FGsbwBaLa6dWbJICz9ikyvWeWc_ZCzJBI/edit#gid=0" style="position:absolute;top:0;left:0;width:50%;height:50%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/16StISzzJD2FGsbwBaLa6dWbJICz9ikyvWeWc_ZCzJBI/edit#gid=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ###### Suplemented Data Set
 
