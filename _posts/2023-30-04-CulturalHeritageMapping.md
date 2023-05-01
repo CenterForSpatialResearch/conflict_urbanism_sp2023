@@ -48,7 +48,7 @@ Date of Construction | Date of Destruction | Weapon Used | Website | Sources
 Since the start of the Russian invasion of Ukraine, UNESCO has been conducting damage assessments for ‘cultural properties’ by cross-checking the reported incidents with [geospatial analysis](https://unosat.org/products/) provided by [UNOSAT](https://unosat.org/). Organizations and/or local governments can request [reports](https://reliefweb.int/map/ukraine/unosat-damage-assessment-overview-map-livoberezhnyi-district-mariupol-city-imagery) from UNOSAT to assess damage. In 2022, the emergency mapping service was activated 72 times.
 
 
-![Diagram of the Verification Process according to UNESCO ](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/233004-Verification-Diagram-png)
+![Diagram of the Verification Process according to UNESCO ](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/233004-Verification-Diagram.png)
 ###### *Diagram of the Verification Process according to UNESCO*
 
 ![Legend](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/Legend.png)
