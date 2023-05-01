@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2023-05-01
-image: "(/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Cover Image.jpg)"
+image: "/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Cover Image.jpg"
 title:  "Housing, a Silent Weapon of Mass Destuction"
 author: "Heer Shah, Reya Singhi"
 ---
