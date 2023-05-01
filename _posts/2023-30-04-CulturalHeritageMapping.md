@@ -59,7 +59,7 @@ Since the start of the Russian invasion of Ukraine, UNESCO has been conducting d
 
 This project aims to respectfully archive these places of memory through the collection of evidence and documentation surrounding the extent of damage inflicted on these cultural monuments.[This dataset](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnaIcPHz9DCP9k_6u41PbKt1S-yzJw9CwUYiWKEcjTBC5lwbw90FlUf20pKj3UF0nwjrEgvRr2co89/pubhtml) has been compiled for the intention of the public’s participation towards augmenting, gathering and investigating continual cultural destruction occurring in Ukraine.
 
-**For any questions,please contact:**
+**For any questions, please contact:**
 - mkb2192@columbia.edu
 - vk2498@columbia.edu
 - nk2912@columbia.edu
