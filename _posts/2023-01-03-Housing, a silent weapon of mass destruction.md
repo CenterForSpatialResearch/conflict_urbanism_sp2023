@@ -1,6 +1,6 @@
 layout: post
 date:   2023-05-01
-image: "/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Cover Image.jpg)"
+image: "(/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Cover Image.jpg)"
 title:  "Housing, a Silent Weapon of Mass Destuction"
 author: "Heer Shah, Reya Singhi"
 ---
@@ -26,7 +26,7 @@ Soft story constructions, so named because the first floor is substantially less
 Despite what we know about the behavior of soft story structures in earthquake zones, why do we keep building them? Why are housing policy based on short-term commercial objectives rather than long-term social and environmental concerns? 
 
 
-#### Case of Ahmedabad, Gujarat 
+#### Case Study: Ahmedabad, Gujarat 
 
 On January 26, 2001, an earthquake in Gujarat, India's Kachchh district, massacred over 35,000 people and significantly damaged the state's housing stock. More than 1 million houses either needed extensive repairs or were [destroyed](https://www.youtube.com/watch?v=HDos6WCsP1Y).
 
