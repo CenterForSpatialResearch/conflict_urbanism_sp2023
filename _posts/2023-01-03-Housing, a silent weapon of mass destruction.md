@@ -125,5 +125,20 @@ Depending on the findings, an engineering survey will be carried out with the Ko
 The survey is just the beginning of efforts to lessen the effects of an impending earthquake; it is a step forward to help reduce the damage and fatalities when it occurs. The on-ground will empower citizens and motivate city officials to take appropriate action. 
 
 
+#### Data Sources 
+
+
+1. Manifestation of Spatial Inequality in Pune; Aseem Deodhar; Apr 24, 2019; 
+2. Koeri-Bogazici University, Istanbul (Istanbul analysis); Center for International Earth Science Information Network and Center for Hazards and Risk Research, Earth Institute at Columbia University
+3. What were the world’s deadliest earthquakes?; by Hannah Ritchie; October 05, 2018
+4. Earthquake Data; US Geological Survey
+5. Population and Demographics; 2011 Census. Indian Census Bureau
+
+
+#### Bibliography 
+1. Jag Mohan Humar, David Lau, and Jean-Robert Pierre; Performance of buildings during the 2001 Bhuj earthquake; 
+2. S. K. Ghosh, Ph.D.Northbrook, Illinois; Observations From the Bhuj Earthquake of January 26, 2001
+3. ANDREW C. REVKIN; Published: February 24, 2010; Disaster Awaits Cities in Earthquake Zones
+
 
 
