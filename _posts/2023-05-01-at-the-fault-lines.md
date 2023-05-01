@@ -25,6 +25,17 @@ This project aims to create a crowdsourced building-scaled earthquake risk map t
 
 The February 6 earthquakes have shown us that a particular building type (or building characteristics due to common construction malpractices) are known to be particularly more under risk during an earthquake. Given some of these characteristics could be visually identified without requiring a structural assessment, could we identify these in a pilot neighborhood using crowd-sourcing data collection methods, and then train a machine learning model that could automatically identify these on Google StreetView images?
 
+#### **UNDERSTANDING THE COLLAPSE**
+
+Many buildings that collapsed in the February 6 earthquakes share a similar type of structural failure called “pancake collapse.” Pancake collapses have been widely studied, and reasons that lead to this type of structural failure is fairly well-known; and it is due to some construction malpractices that are highly common in the region.
+
+1. **Soft story structures:** These structures have either by design or later interventions have missing columns on the ground floors to make more room for mostly commercial purposes. This is a commonly used practice across all construction practices in the country and is the primary reason why “pancake collapses” happen. These structures are relatively easy to spot from the street level/exterior.
+2. **Protruding Building Elements:** Another commonplace structural hazard is protruding building elements. These elements are not only limited to smaller-scaled cantilevers, such as balconies; but can be an entire column-to-column span on all four sides. Developers tend to maximize profits through increased square footage, and there are few or little regulations in the building code.
+
+3. **Usage of Sea Sand Mixed Cement:** Various faulty construction materials, such as cement mixed with sea sand, are found highly commonly, especially in buildings developed before 1999. Such buildings are considered under high collapse risk, and should be reported. Although might require to peel off the exterior paint layer of the building, it is fairly easy to spot sea sand use in these buildings, as the texture of the cement layer, and easy-to-find seashells visible on the surface is a good indicator.
+
+All three of these characteristics can be detected without a structural test, making it easier to predict whether the building might be under risk.
+
 #### METHODOLOGY
 
 ![Methodology Diagram](/conflict_urbanism_sp2023/images/At the Fault Lines/atfl_methodology.png)  
