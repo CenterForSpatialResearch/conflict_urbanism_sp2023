@@ -11,17 +11,18 @@ Svalbard is a norwegian archipelago in the Arctic Ocean and lies between the nor
 
 ![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/NASA_Svalbard.jpg)
 
-![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/regan_glaciermelts.jpg)
-
 In the Arctic, there is a war over resources. As the ice melts more and more, many countries surrounding the Arctic are wanting to stake claim in Svalbard and utilize its resources for their own purposes. Many people see this as a looming disaster, but for the Arctic Nations, this change means an opportunity - access to a brand new ocean.
+
+![Svalbard Dispute Territory](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Disputes.png)
+
+
+#### ABSTRACT
 
 We are interested in mapping three main factors in Svalbard related to time and producing a projective overlay that interrogates how these factors interact in the future, through the lens of a climactic timescale:
 
 1. Time of Climate Change
 1. Time of Industries and Resources
 1. Time of Oddities and Border Anomalies
-
-![Svalbard Dispute Territory](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Disputes.png)
 
 #### PROJECTION OF CLIMATE CHANGE
 
