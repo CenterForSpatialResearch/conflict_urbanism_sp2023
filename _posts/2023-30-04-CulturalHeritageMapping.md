@@ -14,6 +14,9 @@ It has meticulously destroyed hundreds of Ukrainian cultural heritage sites - to
 ![Overview of verified destructed heritage on 2023-03-03](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/Ukraine-Key-Map.jpg)
 ###### *Overview of verified destructed heritage on 2023-03-03*
 
+![Satellite Imagery of Destruction around Mariupol extracted from Google Maps on 2023-30-04](/conflict_urbanism_sp2023/images/The-Destruction-of-Ukrainian-Cultural-Heritage/Satellite-imagery.png)
+###### *Satellite Imagery of Destruction around Mariupol extracted from Google Maps on 2023-30-04*
+
 #### Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict
 
 Directed attacks on cultural heritage sites – whether it’s collateral damage to the exigencies of war or deliberate acts - is deeply rooted in world's history. Patterns of the targeted destruction of cultural properties highlights the particular vulnerable position these sites are often placed under in times of war. The pain and loss that is inflicted upon humankind in armed conflict, nonetheless, will always take precedence over the preservation of cultural property, but growing sentiments within the international community during the twentieth century signaled an increased desire to safeguard these sites through the enactment of international laws and policy. And despite attempts by organizations and local governments to mitigate these effects with the implementation of treaties calling for their protection, the destruction and loss of properties of cultural significance remains a pervasive feature of war. These responsibilities led to the establishment of the 1954 Hague Convention for the Protection of Cultural Property in the Event of Armed Conflict. 
