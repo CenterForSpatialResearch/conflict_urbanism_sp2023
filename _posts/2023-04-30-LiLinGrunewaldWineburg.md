@@ -58,7 +58,7 @@ As our research and the mitigation narrative developed, our focus turned to yout
 
 Risk for youth disconnection is also inequitably distributed across racial and ethnic groups. Opportunity youth remain over-represented by Black and Latinx communities, signaling structural racism contributes to disconnection. Nearly one in three opportunity youth live in poverty and are more likely to experience the compounding risk factors that accompany living in areas of concentrated poverty, including but not limited to more widespread police contact and higher rates of gun violence. The video below (fig. 4) will be used to support the LAS geonarrative which visualizes the association between the data fields described above with youth disconnection in New York City.
 
-![](https://youtu.be/YuV53xwT7Eo)
+https://user-images.githubusercontent.com/62655125/235404733-31ffeda5-fa9b-4187-a87a-2001ea837534.mp4
 
 ### 5. TAKEAWAYS
 
