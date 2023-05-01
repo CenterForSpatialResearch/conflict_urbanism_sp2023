@@ -37,7 +37,7 @@ The original dataset published by UNESCO [citing only the region and the names o
 
 *Site Name | Region | Address | City | Latitude | Longitude | Typology | Date of Construction | Date of Destruction | Weapon Used | Further Links*
 
-<div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/16StISzzJD2FGsbwBaLa6dWbJICz9ikyvWeWc_ZCzJBI/edit#gid=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://docs.google.com/spreadsheets/d/16StISzzJD2FGsbwBaLa6dWbJICz9ikyvWeWc_ZCzJBI/edit#gid=0" style="position:absolute;top:0;left:0;width:50%;height:50%;" frameborder="0"></iframe></div>
 
 Since the start of the Russian invasion of Ukraine, UNESCO has been conducting damage assessments for ‘cultural properties’ by cross-checking the reported incidents with geospatial analysis provided by [UNOSAT](https://unosat.org/). Organizations and/or local governments can request [reports](https://reliefweb.int/map/ukraine/unosat-damage-assessment-overview-map-livoberezhnyi-district-mariupol-city-imagery) from UNOSAT to assess damage. In 2022, the emergency mapping service was activated 72 times.
 
@@ -50,7 +50,7 @@ Since the start of the Russian invasion of Ukraine, UNESCO has been conducting d
 
 In the face of such destruction, this project aims to respectfully archive these places of memory through the collection of evidence and documentation surrounding the extent of damage inflicted on these cultural monuments.This dataset has been compiled for the intention of the public’s participation towards augmenting, gathering and investigating continual cultural destruction occurring in Ukraine.
 
-For any questions,please contact:
-mkb2192@columbia.edu
-vk2498@columbia.edu
-nk2912@columbia.edu
+**For any questions,please contact:**
+- mkb2192@columbia.edu
+- vk2498@columbia.edu
+- nk2912@columbia.edu
