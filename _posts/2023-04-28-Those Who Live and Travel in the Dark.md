@@ -225,24 +225,25 @@ An outlier is observed in Cairo, Egypt, where the city center exhibits a 6% high
 
 #### *Transportation Findings on the Town Scale*  
 
-*What are the available transportation options for people living and working in these areas?*
+*How do individuals navigate transportation in areas with inadequate formal transportation infrastructure and low levels of nighttime lighting?*
 
-The residents of the sites selected near the capital cities often lack access to affordable and convenient methods of transportation. Owning a car might be a far dream, calling a taxi costs more than a day’s wage, and buses are time consuming. When the need to travel persists, informal transportation usually becomes the best option.  
+infrastructure and low levels of nighttime lighting?
+Individuals residing in the selected sites located near the capital cities face significant challenges in accessing affordable and convenient means of transportation. Owning a personal vehicle is often financially unattainable, while the cost of hiring a taxi is exorbitant and may exceed a day's wage. Additionally, public buses are frequently time-consuming. Consequently, informal transportation modes often become the preferred choice for individuals needing to travel at night.
+  
 
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
 
 #### Transportation Options  
 
-*How do individuals navigate transportation in areas with inadequate formal transportation infrastructure and low levels of nighttime lighting?*
 
 ![transportation options comparison](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/forms of transportation comparison.jpg)
 
 The catalog presents a range of transportation options available for commuting from neighboring towns to their respective capital cities. The median monthly income for each capital city is also provided for reference. The findings indicate that commuting by bus is a time-consuming option, driving is often not a feasible option, and taking a taxi is a considerably expensive choice. Moreover, regardless of the mode of transportation, residents of neighboring towns face limitations when traveling to their respective capital cities. The catalog also includes information on the amount of gas money required for each trip, and specifies whether the available bus and taxi services are formal or informal.
 
-<sub>The catalog displays transportation options from neighboring towns to their respective capital cities, including information on formal and informal buses</sub>
+<sub>The catalog displays transportation options from neighboring towns to their respective capital cities, including information on formal and </sub>
 
-<sub>and taxis, as well as the cost of gas for each trip. The data was sourced from the Rome2Rio website.</sub>
+<sub>informal buses and taxis, as well as the cost of gas for each trip. The data was sourced from the Rome2Rio website.</sub>
 
 ![continent map](/conflict_urbanism_sp2023/images/Those Who Live and Travel in the Dark Images/break 1-01.png)
 
