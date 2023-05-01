@@ -77,8 +77,8 @@ Citations:
 
 Literature and Articles
 
+Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions. 
 
+Datasets 
 
-Datasets
-https://www.npolar.no/en/
-
+[Norwegian Polar Institute](https://www.npolar.no/en/). 
