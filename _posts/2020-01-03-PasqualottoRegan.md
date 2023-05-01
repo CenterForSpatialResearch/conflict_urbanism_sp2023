@@ -60,11 +60,6 @@ The coal-rich archipelago came to Norway through the Svalbard Treaty in 1920. Th
 Svalbard acts as the home of numerous significant arctic research stations, owned by numerous countries around the world, one notably being India.
 
 
-
-![Oil](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Oil.png)
-
-![Oil and Influence Clean](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Oil and Influence Clean.png)
-
 ![Oil and Influence](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Oil and Influence.png)
 
 
