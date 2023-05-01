@@ -8,8 +8,8 @@ author: "Heer Shah, Reya Singhi"
 #### Introduction
 
 ![Turkey Earthquake](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Turkey Earthquake.gif)
-
 On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 devastated Turkey and Syria, killing more than 50,000 people and displacing millions across more than a dozen cities. According to the World Bank, the damage is estimated to be worth $34 billion.
+
 The number of fatalities and property losses from this earthquake has eclipsed all previous records, exposing the cause of this immense catastrophe - **HOUSING**. 
 
 
