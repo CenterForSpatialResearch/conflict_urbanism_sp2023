@@ -87,10 +87,12 @@ As glaciers melt away the protective layer that is keeping Svalbard from being a
 
 Citations:
 
-Literature and Articles
+**Literature and Articles**
 
-Britannica, T. Editors of Encyclopaedia. "Svalbard." Encyclopedia Britannica, April 13, 2023. [Britannica](https://www.britannica.com/place/Svalbard).  
+Britannica, T. Editors of Encyclopaedia. "Svalbard." Encyclopedia Britannica, April 13, 2023. [Britannica](https://www.britannica.com/place/Svalbard). 
 
-Datasets 
+Bykova, Alina. “The Changing Nature of Russia's Arctic Presence: A Case Study of Pyramiden.” The Arctic Institute - Center for Circumpolar Security Studies, August 15, 2022. https://www.thearcticinstitute.org/changing-nature-russia-arctic-presence-case-study-pyramiden/. 
+
+**Datasets** 
 
 [Norwegian Polar Institute](https://www.npolar.no/en/). 
