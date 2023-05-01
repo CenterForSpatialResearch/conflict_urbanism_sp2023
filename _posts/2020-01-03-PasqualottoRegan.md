@@ -5,22 +5,26 @@ image: "/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/coverimage_
 title:  "Projective Mapping the Controversial Timelines of Svalbard, Norway"
 author: "Carley Pasqualotto and Maclane Regan"
 ---
-#### INTRODUCTION  
+Write **words in bold** like this.  
+
+Italics are *similar* and are formatted like this.
+
+#### **INTRODUCTION**  
 
 Svalbard is a norwegian archipelago in the Arctic Ocean and lies between the northern coast of Norway and the North Pole.It is also the most northern inhabited place on the planet, with the largest settlement being in Longyearbyen. 
 
 
 ![Svalbard Glacier Melting](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/NASA_Svalbard.jpg)
-
+*Jacques Descloitres, MODIS Rapid Response Team, NASA/GSFC. 2003. Photograph. 2000x2600 pixels*
 
 In the Arctic, there is a war over resources. As the ice melts more and more, many countries surrounding the Arctic are wanting to stake claim in Svalbard and utilize its resources for their own purposes. Many people see this as a looming disaster, but for the Arctic Nations, this change means an opportunity - access to a brand new ocean.
 
 
 ![Svalbard Dispute Territory](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Disputes.png)
+*This map shows the relationship of Svalbard to surrounding countries*
 
 
-
-#### ABSTRACT
+#### **ABSTRACT**
 
 We are interested in mapping three main factors in Svalbard related to time and producing a projective overlay that interrogates how these factors interact in the future, through the lens of a climactic timescale:
 
@@ -70,4 +74,11 @@ Text
 ![Svalbard Identity Image](/conflict_urbanism_sp2023/images/Svalbard Projective Mapping/Identitiy Image 01.png)
 
 Citations:
-xxx
+
+Literature and Articles
+
+
+
+Datasets
+https://www.npolar.no/en/
+
