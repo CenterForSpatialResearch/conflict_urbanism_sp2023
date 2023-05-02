@@ -187,7 +187,7 @@ A visual directory is made using the lessons learned from Ahmedabad. Identificat
 
 
 
-### An Impending Eathquake, Pune 
+### THE IMPENDING EARTHQUAKE, PUNE 
 
 
 Following the Turkey-Syria earthquake, seismologists forecast severe earthquakes in numerous cities within earthquake zones worldwide. Istanbul, Pune, and Dhaka were just a few of the international cities mapped as part of an investigation for a [New York Times article](https://archive.nytimes.com/www.nytimes.com/interactive/2010/02/24/world/20100224-quake-map.html) . Each city with a million or more residents and a sizable portion of substandard housing, typically in minority neighborhoods, predicts a death toll that, given their population density, could surpass the disaster earlier this year. 
@@ -201,7 +201,7 @@ We delved deeper into research for Pune, India, to better comprehend the stateme
 
 
 
-#### Understanding Geographies : Pune
+#### Understanding Geographies
 
 ![Understaning Geographies](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune Understanding Geographies.png)
 
