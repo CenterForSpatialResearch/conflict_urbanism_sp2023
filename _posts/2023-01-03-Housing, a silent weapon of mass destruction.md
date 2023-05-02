@@ -187,7 +187,7 @@ A visual directory is made using the lessons learned from Ahmedabad. Identificat
 
 
 
-#### An Impending Eathquake, Pune 
+### An Impending Eathquake, Pune 
 
 
 Following the Turkey-Syria earthquake, seismologists forecast severe earthquakes in numerous cities within earthquake zones worldwide. Istanbul, Pune, and Dhaka were just a few of the international cities mapped as part of an investigation for a [New York Times article](https://archive.nytimes.com/www.nytimes.com/interactive/2010/02/24/world/20100224-quake-map.html) . Each city with a million or more residents and a sizable portion of substandard housing, typically in minority neighborhoods, predicts a death toll that, given their population density, could surpass the disaster earlier this year. 
@@ -201,7 +201,7 @@ We delved deeper into research for Pune, India, to better comprehend the stateme
 
 
 
-### Understanding Geographies : Pune
+#### Understanding Geographies : Pune
 
 ![Understaning Geographies](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune Understanding Geographies.png)
 
@@ -236,7 +236,7 @@ As a result, Pune has considerably urbanized over the past three decades. Econom
 
 
 
-#### Kothrud : Area of Focus
+#### Area of Focus: Kothrud
 
 
 
@@ -256,6 +256,9 @@ To better understand the inter-city dynamics of the urban expansion and housing 
 
 
 
+**Our initial research focuses on identifying some of the buildings through images and ground level usage.**
+
+
 ![Visual Account of the Buildings](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune potential buildings at risk collage.jpg)
 
 <sub> **Figure 11:Potential Buildings at Risk in Kothrud**</sub>
@@ -263,11 +266,6 @@ To better understand the inter-city dynamics of the urban expansion and housing 
 <sub> Illustration made by Heer Shah, Reya Singhi</sub>
 
 
-
-
-
-
-**Our initial research focuses on identifying some of the buildings through images and ground level usage.**
 
 
 
@@ -283,7 +281,7 @@ To better understand the inter-city dynamics of the urban expansion and housing 
 
 
 
-### Aim of the Analysis 
+### AIM OF THE ANALYSIS
 
 While the initial focus of our research was on gathering information and understanding the housing situation in the neighborhood, we believe that, beyond economic segregation, power is concentrated in the hands of a small number of people and that this is a problem that needs to be addressed. Through the pilot project in Pune, we seek to empower the residents of Kothrud by reducing the effects of the earthquake and raising awareness of the current state of housing. 
 
@@ -304,7 +302,7 @@ While the initial focus of our research was on gathering information and underst
 
 ![Kobotool Box Survey](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/KOBO Toolbox questions.png)
 
-<sub> **Figure 13:KOBO Toolbox**</sub>
+<sub> **Figure 13:Survey Questions on KOBO Toolbox**</sub>
 
 <sub> Illustration made by Heer Shah, Reya Singhi</sub>
 
