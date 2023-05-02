@@ -6,7 +6,7 @@ title:  "Housing, a Silent Weapon of Mass Destruction"
 author: "Heer Shah, Reya Singhi"
 ---
 
-#### Introduction
+### INTRODUCTION
 
 
 ![Turkey Earthquake](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Turkey Earthquake.gif)
@@ -22,6 +22,7 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 
 
 
+
 ![Earthquakes from 2005](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study1.png)
 ![Major Reason for Destruction](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study2.png)
 
@@ -31,12 +32,13 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 
 
 
+
 Since 2005, several places worldwide (Figure 1) have experienced similar events to Bhuj and Turkey, with a common factor being the **construction of soft storey structures**. Despite the known risk associated with such buildings, they continue to be built, and little action has been taken to address the conditions of such existing structures. The majority of these structures can be attributed to corrupt practices, with the primary motivation being the pursuit of rapid financial gain. The devastating earthquakes in Gujarat in 2001 and Turkey and Syria in 2023 have highlighted the destructive power of poorly constructed housing, which has resulted in numerous fatalities and extensive property damage. It’s important to note that most of the highly collapsible buildings have been in areas that consist of economically and socially vulnerable communities.  
 
 
 
 
-### What is a Soft Story Structure? 
+#### What is a Soft Story Structure? 
 ![What is a Soft Story Structure?](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Soft story structure diagrams.jpg)
 
 
@@ -50,63 +52,116 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 
 
 
+
 **Despite what we know about the behavior of soft story structures in earthquake zones, why do we keep building them? Why are housing policy based on short-term commercial objectives rather than long-term social and environmental concerns?**
 
 
 
-#### Ahmedabad, Gujarat 
 
 
-On January 26, 2001, an earthquake in Gujarat, India's Kachchh district, massacred over 35,000 people and significantly damaged the state's housing stock. More than 1 million houses either needed extensive repairs or were [destroyed](https://www.youtube.com/watch?v=HDos6WCsP1Y).
+
+### Ahmedabad, Gujarat 
+
 
 ![2001, Bhuj Earthquake](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Introduction to AHM.mp4)
+
+<sub> **Figure 3: LandSAT Images of cities affected by the Bhuj Earthquake**</sub>
 
 <sub> Video made by Heer Shah, Reya Singhi</sub>
 
 
+On January 26, 2001, an earthquake in Gujarat, India's Kachchh district, massacred over 35,000 people and significantly damaged the state's housing stock. More than 1 million houses either needed extensive repairs or were [destroyed](https://www.youtube.com/watch?v=HDos6WCsP1Y).
 
-### Understanding Geographies
+
+
+
+#### Understanding Geographies
 
 
 ![Ahmedabad Collapse of the Buildings](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/AHM understanding Geographies.png)
-<sub> **Figure 3: Bhuj Earthquake, 2001**</sub>
+
+<sub> **Figure 4: Bhuj Earthquake, 2001**</sub>
+
 <sub> Map made by Heer Shah, Reya Singhi</sub>
 
 
-According to the Bureau of Indian Standards, India has five seismic zones, with Zone V being the most severe. The seismically active Kachchh region, on the western end of the Indian subcontinent, accounts for around 22% of Gujarat State's (45,930 km2) total land area, is in Zone V, and suffered the most substantial damage. Among the Kachchh towns and cities that suffered severe damage were Bhuj, Bhachau, Rapar, Anjar, and Gandhidham even though the IS 4326: 1993 "Earthquake Resistant Design and Construction of Structures -Code of Practice" outlines a comprehensive list of standards and laws that control the earthquake-resistant design of buildings in India. It's important to keep in mind that these codes are just recommendations, not prerequisites. Several other areas of the state were also severely damaged by the earthquake, most notably Ahmedabad, a large urban Centre in Gujarat that was in seismic Zone III and about 300 kilometers to the east of Bhuj.
-The strength of ground motion would not be anticipated to be strong at such a distance, but despite this, 70 multistory residential buildings collapsed, killing 750 people with heights that ranged from the ground plus four to ground plus ten levels. One thing all seventy buildings had in common was that they were all reinforced concrete-framed buildings with an open first story, inadequate column-beam junction detailing, and average construction quality.
+
+
+According to the Bureau of Indian Standards, India has five seismic zones, with Zone V being the most severe. The seismically active Kachchh region, on the western end of the Indian subcontinent, accounts for around 22% of Gujarat State's (45,930 km2) total land area, is in Zone V, and suffered the most substantial damage. Among the Kachchh towns and cities that suffered severe damage were Bhuj, Bhachau, Rapar, Anjar, and Gandhidham even though the IS 4326: 1993 "Earthquake Resistant Design and Construction of Structures -Code of Practice" outlines a comprehensive list of standards and laws that control the earthquake-resistant design of buildings in India. **It's important to note that these codes are just recommendations, not prerequisites.** Several other areas of the state were also severely damaged by the earthquake, most notably Ahmedabad, a large urban Centre in Gujarat that was in seismic Zone III and about 300 kilometers to the east of Bhuj.
+
+
+
 
 ![Ahmedabad Collapse of the Buildings](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/AHM GIF.gif)
+
+<sub> **Figure 5: Buildings affected by the Earthquake in Ahmedabad**</sub>
+
+<sub> Map made by Heer Shah, Reya Singhi</sub>
+
+
+
+
+The strength of ground motion would not be anticipated to be strong at such a distance, but despite this, 70 multistory residential buildings collapsed, killing 750 people with heights that ranged from the ground plus four to ground plus ten levels. One thing all seventy buildings had in common was that they were all reinforced concrete-framed buildings with an open first story, inadequate column-beam junction detailing, and average construction quality.
+
+
+
+
 ![Visual Defects](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Visual Defects.png)
 
+<sub> **Figure 6: Aftermath of the Bhuj earthquake**</sub>
+
+<sub> Photo Illustration made by Heer Shah, Reya Singhi</sub>
+
+
+
+
 After the earthquake, all soft-story structures in Ahmedabad suffered significant damage.  Further investigation and the findings of an inspection of two such towers, Mansi and Shikhara Towers, reveal major flaws that occurred as a result of a violation or ignorance of interim codes. 
+
+
 The following consequences, alone or in combination, were the causes of the failure: 
-1. Flexible ground floor (Soft-story) 
-2. Short column effect
-3. Lack of proper detailing 
-4. Poor workmanship 
-5. Ponding effect 
-6. Appendage effects
+**1. Flexible ground floor (Soft-story)**
+**2. Short column effect**
+**3. Lack of proper detailing**
+**4. Poor workmanship**
+**5. Ponding effect**
+**6. Appendage effects**
 
 
-#### Mansi Towers : Case Study 
 
 
-A four-block residential complex, one of which collapsed completely. According to observations of the
-remaining parts of this building, the soft first story was the cause of the collapse. Because such structures are typically constructed on small lots that do not permit open parking, almost all multistory residential buildings in Indian cities have an open ground floor designated for parking. As a result, no ground-level wall infills are present, resulting in a stiffness discontinuity or a soft story. The masonry infills in the upper stories, on the other hand, stiffened the structure, attracting significantly higher earthquake forces. Furthermore, with proper permissions, a swimming pool was built on its terrace, resulting in an asymmetrical distribution of loads and heavy mass concentration at the top of the structure.
-The first-story columns of the other three blocks also suffered severe damage, which eventually forced the demolition of the structures and resulted in the displacement of hundreds of people.
+#### Case Study: Mansi Towers 
+
+
+
+A four-block residential complex, one of which collapsed completely. According to observations of the remaining parts of this building, the soft first story was the cause of the collapse. Because such structures are typically constructed on small lots that do not permit open parking, almost all multistory residential buildings in Indian cities have an open ground floor designated for parking. As a result, no ground-level wall infills are present, resulting in a stiffness discontinuity or a soft story. The masonry infills in the upper stories, on the other hand, stiffened the structure, attracting significantly higher earthquake forces. Furthermore, with proper permissions, a swimming pool was built on its terrace, resulting in an asymmetrical distribution of loads and heavy mass concentration at the top of the structure.
+
+
+
+**The first-story columns of the other three blocks also suffered severe damage, which eventually forced the demolition of the structures and resulted in the displacement of hundreds of people.**
+
+
 
 
 ![Visual Directory](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Visual Directory.jpg)
+
+<sub> **Figure 7:Visual Directory **</sub>
+
+<sub> Photo Illustration made by Heer Shah, Reya Singhi</sub>
+
 
 
 A visual directory is made using the lessons learned from Ahmedabad. Identification of likely visual reasons for the collapse is aided by using the visual toolkit as a reference. While evaluating a building solely on the basis of visual impressions is challenging, it brings the process of identifying a structure that might collapse during an earthquake one step closer. For instance, doing an engineering survey becomes essential if a building exhibits nearly all of the visual flaws listed in the directory.
 
 
+
+
 #### An Impending Eathquake, Pune 
 
+
 Following the Turkey-Syria earthquake, seismologists forecast severe earthquakes in numerous cities within earthquake zones worldwide. Istanbul, Pune, and Dhaka were just a few of the international cities mapped as part of an investigation for a [New York Times article](https://archive.nytimes.com/www.nytimes.com/interactive/2010/02/24/world/20100224-quake-map.html) . Each city with a million or more residents and a sizable portion of substandard housing, typically in minority neighborhoods, predicts a death toll that, given their population density, could surpass the disaster earlier this year. 
+
 We delved deeper into research for Pune, India, to better comprehend the statement "Where shoddy construction could mean death," coined in the article. 
+
 
 
 
@@ -114,49 +169,103 @@ We delved deeper into research for Pune, India, to better comprehend the stateme
 
 ![Understaning Geographies](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune Understanding Geographies.png)
 
+<sub> **Figure 8:Distance from Koyna (Seismic zone V)**</sub>
+
+<sub> Photo Illustration made by Heer Shah, Reya Singhi</sub>
+
+
+
 According to the Bureau of Indian Standards, Pune is in seismic zone III, about 24 miles from Koyna, which is in seismic zone V. At such a distance, the strength of ground motion would not be expected to be strong. However, as seen in the case of Ahmedabad, moderate shaking of soft story structures can have severe negative consequences.
 
-Pune, the second-largest city in Maharashtra after Mumbai and the state's cultural center, is a sprawling city in western India. The town has many educational institutions, earning it the title of "The Oxford of the East." Pune's proximity to Mumbai and the urbanization of the surrounding area, which has transformed Pune into a satellite town for Mumbai, are further factors that have fueled the city's economic boom. The government has been working on significant infrastructure projects to shorten the distance between the two cities for the past few years. After Infosys was established in 1981, Pune also experienced a boom in the IT sector. In 2017–2018, Pune was ranked third for software development with the highest IT growth rate, behind Bangalore and Hyderabad. 
+
+
+
+Pune, the second-largest city in Maharashtra after Mumbai and the state's cultural center, is a sprawling city in western India. The town has many educational institutions, earning it the title of **"The Oxford of the East."** Pune's proximity to Mumbai and the urbanization of the surrounding area, which has transformed Pune into a **satellite town for Mumbai**, are further factors that have fueled the city's economic boom. The government has been working on significant infrastructure projects to shorten the distance between the two cities for the past few years. After Infosys was established in 1981, Pune also experienced a boom in the IT sector. In 2017–2018, Pune was ranked third for software development with the highest IT growth rate, behind Bangalore and Hyderabad. 
+
 
 
 
 ![Population Growth in Pune](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune Population Growth.png)
 
+<sub> **Figure 9:Population Growth, Pune**</sub>
+
+<sub> Illustration made by Heer Shah, Reya Singhi</sub>
+
 
 As a result, Pune has considerably urbanized over the past three decades. Economic and population growth occurred over time and are strongly intertwined. Most housing stock built between the 1980s and the early 2000s was part of the urban boom. Unaccountable private developers built many buildings with inferior materials and low structural integrity. With the population growth, the city expanded and more recent developments were made as townships along the city periphery. While constructing more housing is the need of the hour, it is just as essential to safeguard already-built structures as it is to construct more. 
 
-To better understand the inter-city dynamics of the urban expansion and housing typology, we analyzed a neighborhood in Pune - Kothrud. One of the oldest districts, it underwent significant urbanization between 1981 - 1991 when buildings with ground plus three or four floors were built around an industrial unit. Housing in the neighborhood was built with the working class in mind, primarily for industrial workers. While Pune's settlement has historically been segregated by caste and income, these buildings had small lots with a flexible ground floor frequently used for parking. They lack infill walls and bracing, making them vulnerable to failure in an earthquake. 
 
 
 #### Kothrud : Area of Focus
 
 
+
+To better understand the inter-city dynamics of the urban expansion and housing typology, we analyzed a neighborhood in Pune - Kothrud. One of the oldest districts, it underwent significant urbanization between 1981 - 1991 when buildings with ground plus three or four floors were built around an industrial unit. Housing in the neighborhood was built with the working class in mind, primarily for industrial workers. While Pune's settlement has historically been segregated by caste and income, these buildings had small lots with a flexible ground floor frequently used for parking. They lack infill walls and bracing, making them vulnerable to failure in an earthquake. 
+
+
+
+
 ![Kothrud Population Growth](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Kothrud population Growth.png)
 
+<sub> **Figure 10:Kothrud location**</sub>
 
-Our initial research focuses on identifying some of the buildings through images and ground level usage. 
+<sub> Illustration made by Heer Shah, Reya Singhi</sub>
 
-<div class="<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hbs2142/clh2pjyrq017101p8djzraqj1.html?title=false&access_token=pk.eyJ1IjoiaGJzMjE0MiIsImEiOiJjbGgybzE0cWUxZWtnM2tydGJqbGpvb290In0.TH4cvLHRKSePNLFoa-9F5g&zoomwheel=false#16.15/18.495953/73.812486" title="Untitled" style="border:none;"></iframe>"></iframe></div>
+
+
 
 ![Visual Account of the Buildings](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune potential buildings at risk collage.jpg)
+
+<sub> **Figure 11:Potential Buildings at Risk in Kothrud**</sub>
+
+<sub> Illustration made by Heer Shah, Reya Singhi</sub>
+
+
+
+**Our initial research focuses on identifying some of the buildings through images and ground level usage.**
+
+
+
 ![Map of the Buildings](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Pune potential buildings at risk.jpg)
 
-#### Aim of the Analysis 
+<sub> **Figure 12:Mapping Potential Buildings at Risk in Kothrud**</sub>
+
+<sub> Map made by Heer Shah, Reya Singhi</sub>
+
+
+
+
+
+### Aim of the Analysis 
 
 
 While the initial focus of our research was on gathering information and understanding the housing situation in the neighborhood, we believe that, beyond economic segregation, power is concentrated in the hands of a small number of people and that this is a problem that needs to be addressed. Through the pilot project in Pune, we seek to empower the residents of Kothrud by reducing the effects of the earthquake and raising awareness of the current state of housing. 
 
 
+
+
 #### Call for Action 
+
+
+**Our call to action is based on a dual approach.**
+1. Working with college students from engineering and design programs to crowdsource data utilizing the Kobo Toolbox. They will accomplish this by responding to a series of inquiries while on the ground, adding an analysis layer to the prior study. 
+2. Depending on the findings, an engineering survey will be carried out with the Kothrud area ward office.
 
 
 ![Kobotool Box Survey](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/KOBO Toolbox questions.png)
 
-Our call to action is based on a dual approach.
-Working with college students from engineering and design programs to crowdsource data utilizing the Kobo Toolbox. They will accomplish this by responding to a series of inquiries while on the ground, adding an analysis layer to the prior study. 
-Depending on the findings, an engineering survey will be carried out with the Kothrud area ward office.
+<sub> **Figure 13:KOBO Toolbox**</sub>
 
-The survey is just the beginning of efforts to lessen the effects of an impending earthquake; it is a step forward to help reduce the damage and fatalities when it occurs. The on-ground will empower citizens and motivate city officials to take appropriate action. 
+<sub> Illustration made by Heer Shah, Reya Singhi</sub>
+
+
+
+
+**The survey is just the beginning of efforts to lessen the effects of an impending earthquake; it is a step forward to help reduce the damage and fatalities when it occurs. The on-ground will empower citizens and motivate city officials to take appropriate action.**
+
+
+
+
 
 
 #### Data Sources 
@@ -167,6 +276,8 @@ The survey is just the beginning of efforts to lessen the effects of an impendin
 3. What were the world’s deadliest earthquakes?; by Hannah Ritchie; October 05, 2018
 4. Earthquake Data; US Geological Survey
 5. Population and Demographics; 2011 Census. Indian Census Bureau
+
+
 
 
 #### Bibliography 
