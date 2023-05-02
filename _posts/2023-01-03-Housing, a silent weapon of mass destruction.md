@@ -77,7 +77,7 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 
 ![2001, Bhuj Earthquake](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Introduction to AHM.mp4)
 
-<sub> **Figure 3: LandSAT Images of cities affected by the Bhuj Earthquake**</sub>
+<sub> **Figure 3: LANDSAT Images of cities affected by the Bhuj Earthquake**</sub>
 
 <sub> Video made by Heer Shah, Reya Singhi</sub>
 
