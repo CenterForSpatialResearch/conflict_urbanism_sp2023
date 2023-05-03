@@ -11,6 +11,7 @@ author: "Yuna Li, Zoe Lin, John Max Grunewald, Caroline Wineburg"
     width: 100%;
 }
 </style>
+<base target="_blank">
 ### 0. INTRODUCTION
 
 Our team collaborated with The Legal Aid Society for the past four months, joining and supporting their efforts to highlight the systematic barriers faced by low-income individuals and communities of color within the New York criminal justice system, and advocating for their client’s sentence mitigation through videos and personal interviews. We contributed to their efforts by creating visual data narratives to supplement their video mitigation projects which aim for a range of outcomes including clemency, lessened sentences, or full release for clients facing excessive punishment.
@@ -55,7 +56,7 @@ For the shelters and schools that the client went through, we gathered other dat
 
 Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence as a youthful offender in a gun-related charge in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham University law students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. While living in Mott Haven at the NYCHA Patterson Houses, the client has swayed in and out of school, influenced by his peers and impacted by limited access to remote learning during the start of the COVID-19 pandemic.
 
-<iframe class="vid"src="https://player.vimeo.com /video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vid" src="https://player.vimeo.com /video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Through the concept of opportunity mapping, a research tool developed by the Kirwan Institute for the Study of Race and Ethnicity, we began to analyze the contributing factors which determine opportunity, equity, and sustainability within New York City through educational, economic, community, and health metrics. The Kirwan Institute notes that “for many marginalized communities, particularly low-income communities and segregated communities of color, neighborhood conditions limit access to opportunity and advancement” (Reece). We found this to be supported by our data findings as the Bronx and Community District 1, the district the client is from, ranked as one of NYC’s most opportunity isolated areas. For young people, like the client, this geographic isolation from opportunity can create barriers to improvement, hinder their quality of life, and stifle potential for success.
 
