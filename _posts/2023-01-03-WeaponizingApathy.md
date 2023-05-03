@@ -63,7 +63,9 @@ Specifically, for the two cities who have been living at the frontlines of both 
 The Swat valley faced a huge loss in infrastructural damages that included bridges and mosques, the roads between Bahrain and Kalam which was built in 2018 for Rs10 billion cost, were washed away due to the intense floods. Swat has also been on the frontlines of the terrorism conflict throughout the years and is seeing a rise in terrorist activities due to the growing threat of TTP (Tehreek-e-Taliban Pakistan)
 
 
-![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/Swat.jpeg)
+![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/SwatNews.png)
+
+<iframe frameborder="0" class="juxtapose" width="100%" height="2480" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fd68a3f8-e9d8-11ed-b5bd-6595d9b17862"></iframe>
 
 ## Jacoabad
 
