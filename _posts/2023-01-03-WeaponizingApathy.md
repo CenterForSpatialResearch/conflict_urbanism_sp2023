@@ -57,11 +57,19 @@ This particular project builds on two key spatial traumas and overlays the data 
 
 Specifically, for the two cities who have been living at the frontlines of both these issues. 
 
+## Swat District
 ![Swat Post Floods](/conflict_urbanism_sp2023/images/WeaponizingApathy/SwatNews.png)
+
+The Swat valley faced a huge loss in infrastructural damages that included bridges and mosques, the roads between Bahrain and Kalam which was built in 2018 for Rs10 billion cost, were washed away due to the intense floods. Swat has also been on the frontlines of the terrorism conflict throughout the years and is seeing a rise in terrorist activities due to the growing threat of TTP (Tehreek-e-Taliban Pakistan)
+
 
 ![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/Swat.jpeg)
 
+## Jacoabad
+
 ![Jacoabad Post Floods](/conflict_urbanism_sp2023/images/WeaponizingApathy/JacoabadNews.png)
+
+Jacobabad is Pakistan’s hottest cities and during the floods it faced great scales of devastation, more than 156,000 homes were damaged or destroyed three main canals were breached, the flood encompassing the region had left more than 3,700 villages under water. Leaving more than 37,000 of the homeless and camping in 107 temporary sites. Jacobabad has also previously been at loss from terrorist attacks.
 
 ![Jacoabad Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/jacobabad2.jpeg)
 
