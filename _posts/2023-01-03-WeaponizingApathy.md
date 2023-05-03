@@ -78,6 +78,8 @@ Jacobabad is Pakistan’s hottest cities and during the floods it faced great sc
 
 #### CONCLUSION
 
+<iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe>
+
 Text
 
 
