@@ -39,12 +39,10 @@ These "pancake collapses" are recognized as the primary cause of devastating con
     
     Soft story buildings are multiple story buildings that has a ground floor that has large windows, wide openings, and large open commercial shopfronts where a shear wall or vertical support element would typically be needed to ensure that the structural stability. Especially in earthquake-prone areas such as Turkey, at least 30% of the ground floor area must be dedicated to structural elements to ensure that the structural system could withstand the stress of the above floors. Soft story buildings are highly common in the region, with many multi-story apartment buildings accommodate commercial floor space on the ground floor, which is allowed by mixed-used zoning practices. The 1999 quake has led to an updated building code that prohibited such structures, many developers did not feel pressed to follow the regulations due to the lack of a strictly enforced control mechanism. 
     
-
 2. **Excessive Cantilevering Above the Ground Floor**
     
     Another common practice is excessive cantilevering above the ground floor, as this allows developers to go beyond the site land usage limitations to maximize profits over extra square footage. Although cantilevering structures are a common practice in architectural design, combined with other malpractices such as soft story building designs, or using lower-quality building materials significantly increases the structural stress on the ground-level structural system. This may lead to a structural failure in the moment of an earthquake, even when the building may be able to withstand this load under normal conditions.
     
-
 3. **Structural Alterations**
     
     Structural alterations such as removing vertical supporting elements on the ground floor to open up space for commercial activities is another common practice many building owners employ to maximize profitability. Although there are multiple laws and regulations strictly prohibiting this, many buildings that has such alterations go unnoticed as it’s mostly done in the inside of the buildings. 
@@ -87,7 +85,6 @@ The above diagram illustrates the main framework of the methodology behind the a
     2. Are there any removed vertical supporting elements on the ground floor?
     3. Does the building have a soft floor?
     4. Are there any visible signs of sea-sand based cement usage - such as visible sea shells on the surface?
-    
 
 4. **Pilot Neighborhood Dataset**
     Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. The ML model is trained through comparing the building images with crowdsourced binary labels.
@@ -99,6 +96,8 @@ The above diagram illustrates the main framework of the methodology behind the a
 ![KoboToolbox-powered Online Survey System](/conflict_urbanism_sp2023/images/At the Fault Lines/kobotoolbox-survey.gif)  
 
 **DATA SOURCES**
+
+![Various different maps merged and cleaned up into one single GIS basemap](/conflict_urbanism_sp2023/images/At the Fault Lines/istanbul-maps.png)  
 
 1. This project heavily relies on online data collection tools like Kobo Toolbox, and crowdsourced data collection methods. Creating an online data collection tool on an up-to-date city map, where collectors can access each building’s location, image, address, and door number.
     - **Istanbul Technical University UYGAR Maps** are high-detail 2D maps in AutoCAD DWG format. This dataset includes building numbers, floor and height data, as well as zoning data. This dataset is by far the most reliable despite requiring DWG-GIS conversion processes.
