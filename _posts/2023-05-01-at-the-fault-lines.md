@@ -35,7 +35,7 @@ The February 6 earthquakes have shown us that a particular building type (or bui
 
 Many videos and photos like the one above from the moment of collapse all hint at a common type of structural failure: First, the ground floor suddenly collapses, followed by all the floors above shortly after, pancaking on top of each other layer by layer in just a matter of seconds.
 
-![Pancake Collapse](/conflict_urbanism_sp2023/images/At the Fault Lines/pancake-collapse.png)
+![Dissecting a Pancake Collapse](/conflict_urbanism_sp2023/images/At the Fault Lines/pancake-collapse.png)
 
 These "pancake collapses" are recognized as the primary cause of devastating consequences resulting from earthquakes in the region, such as the 1999 Golcuk earthquake, as reported by the infrastructure assessment team sent to the area. The factors leading to this phenomenon have been researched extensively and can be narrowed down to four primary construction/design shortcomings.
 
