@@ -31,7 +31,11 @@ The February 6 earthquakes have shown us that a particular building type (or bui
 
 #### **UNDERSTANDING THE COLLAPSE**
 
-Many videos and photos from the moment of collapse hint at a common type of structural failure: First, the ground floor suddenly collapses, followed by all the floors above shortly after, pancaking on top of each other layer by layer in just a matter of seconds.
+<iframe src="https://player.vimeo.com/video/823901043?h=38b5dd5dee" width="640" height="1128" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+Many videos and photos like the one above from the moment of collapse all hint at a common type of structural failure: First, the ground floor suddenly collapses, followed by all the floors above shortly after, pancaking on top of each other layer by layer in just a matter of seconds.
+
+![Pancake Collapse](/conflict_urbanism_sp2023/images/At the Fault Lines/pancake-collapse.png)
 
 These "pancake collapses" are recognized as the primary cause of devastating consequences resulting from earthquakes in the region, such as the 1999 Golcuk earthquake, as reported by the infrastructure assessment team sent to the area. The factors leading to this phenomenon have been researched extensively and can be narrowed down to four primary construction/design shortcomings.
 
@@ -52,8 +56,6 @@ These "pancake collapses" are recognized as the primary cause of devastating con
     > I am ‘coming from the kitchen’ in this business, as we say, meaning all my family, under my father, were also a part of this sector, the construction sector. I grew up working with him, witnessing all of the development at that time. I’m not in a position to regret what I’ve said. The fact is that 70 percent of all the settlements in Istanbul, I would say, are vulnerable to a major earthquake. This is a diagnosis. Without the proper diagnosis treating a patient is not possible. The construction materials used for various settlements in different parts of Istanbul used to be of poor quality. *-Ali Agaoglu, Turkish Real Estate Mogul*
 
     The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
-
-
 
 
 #### METHODOLOGY
