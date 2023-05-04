@@ -23,9 +23,11 @@ However, the recent earthquakes exposed that many of these efforts have been imm
 
 This project aims to create a crowdsourced building-scaled earthquake risk map to alleviate some of these issues and offer an informative platform for the public and the authorities. By using an interactive online map, users and data collectors can survey some certain building characteristics that, when combined, may offer valuable information regarding the structural quality of the building stock. Although it may not be as accurate as a structural analysis, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
 
+
 #### **RESEARCH QUESTION**
 
 The February 6 earthquakes have shown us that a particular building type (or building characteristics due to common construction malpractices) are known to be particularly more under risk during an earthquake. Given some of these characteristics could be visually identified without requiring a structural assessment, could we identify these in a pilot neighborhood using crowd-sourcing data collection methods, and then train a machine learning model that could automatically identify these on Google StreetView images?
+
 
 #### **UNDERSTANDING THE COLLAPSE**
 
@@ -51,40 +53,42 @@ These "pancake collapses" are recognized as the primary cause of devastating con
     
     The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
 
+
 #### METHODOLOGY
 
 ![Methodology Diagram](/conflict_urbanism_sp2023/images/At the Fault Lines/atfl_methodology.png)  
 
 The above diagram illustrates the main framework of the methodology behind the alternative risk assessment mapping technique in five steps. 
 
-1. Geospatial Data
-    1. This step sets a common base for all following steps by cleaning up and bringing together all required geospatial (building footprints, administrative borders, roads, highways, sidewalks, parks, and transportation infrastructure) in GIS. Building footprints are mainly obtained through Istanbul Technical University’s UYGAR 2D AutoCAD DWG maps. Although these maps are highly accurate, they also include unnecessary amounts of information (unnecessary text layers, urban furniture and items such as streetlight and manhole locations) — hence it is critical for DWG files to be cleaned up before importing into GIS. 
+1. **Geospatial Data**
+    This step sets a common base for all following steps by cleaning up and bringing together all required geospatial (building footprints, administrative borders, roads, highways, sidewalks, parks, and transportation infrastructure) in GIS. Building footprints are mainly obtained through Istanbul Technical University’s UYGAR 2D AutoCAD DWG maps. Although these maps are highly accurate, they also include unnecessary amounts of information (unnecessary text layers, urban furniture and items such as streetlight and manhole locations) — hence it is critical for DWG files to be cleaned up before importing into GIS. 
     
-    Additionally, these maps may need to be supported with Microsoft Planetary Computer Building Footprint dataset for unregistered buildings that are not present on the 2D map drawings. Two datasets combined and georeferenced correctly on the GIS workspace, this first step is critical to create a base dataset that will allow collaborators to add their on-site observations. 
-2. Building Data
-    1. The aforementioned 2D map drawings also include building and location information like post codes, location and address identifiers, building numbers, and number of floors. However, these exist as text objects nested within the polylines that represent each building’s footprint. Although QGIS does not have a tool for linking these text objects with the geometry they are nested inside, there may be 3rd-party plug-ins to automatically combine building data with the geometry.
+    Additionally, these maps may need to be supported with Microsoft Planetary Computer Building Footprint dataset for unregistered buildings that are not present on the 2D map drawings. Two datasets combined and georeferenced correctly on the GIS workspace, this first step is critical to create a base dataset that will allow collaborators to add their on-site observations.
+
+2. **Building Data**
+    The aforementioned 2D map drawings also include building and location information like post codes, location and address identifiers, building numbers, and number of floors. However, these exist as text objects nested within the polylines that represent each building’s footprint. Although QGIS does not have a tool for linking these text objects with the geometry they are nested inside, there may be 3rd-party plug-ins to automatically combine building data with the geometry.
     
     The below data entries are essential to identify each building:
         1. Pafta/Ada numbers (location and neighborhood administrative border identifiers)
         2. Building number (local street identifier),
         3. Number of floors/building height,
         4. Year of construction (if available, this is very useful to determine the specific Building Code under which the building was constructed — as buildings constructed before 1999 Earthquake are considered to constitute “high risk of failure during an earthquake”)
-3. Crowdsourced Pilot Building Risk Assessment Data and Labeling
-    1. Once the building stock is digitized, the project relies on data collectors for creating the pilot building risk assessment dataset. This step utilizes an online data-collection service such as Kobo Toolbox, to allow multiple users to simultaneously add additional data entries to the geospatial building data. 
+
+3. **Crowdsourced Pilot Building Risk Assessment Data and Labeling**
+    Once the building stock is digitized, the project relies on data collectors for creating the pilot building risk assessment dataset. This step utilizes an online data-collection service such as Kobo Toolbox, to allow multiple users to simultaneously add additional data entries to the geospatial building data. 
     
     Data collectors are expected to photograph the front-facing facade of every building, and fill in four questions for each building:
     
     1. Are there any visible cracks on the building?
     2. Are there any removed vertical supporting elements on the ground floor?
     3. Does the building have a soft floor?
-    4. Are there any visible signs of sea-sand based cement usage?
+    4. Are there any visible signs of sea-sand based cement usage - such as visible sea shells on the surface?
     
-    These questions are based on the most common construction malpractices that is known to contribute to a structural failure during an earthquake, and are usually easy to detect with naked eye without a structural assessment. 
-    
-4. Pilot Neighborhood Dataset
-    1. Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. The ML model is trained through comparing the building images with crowdsourced binary labels. 
-5. City-wide ML Risk Assessment Model
-    1. Once the ML model is able to accurately detect the aforementioned building features that may constitute structural failure risk, it may be further trained on Google StreetView images, and later be used to generate a city-wide risk assessment map. 
+4. **Pilot Neighborhood Dataset**
+    Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. The ML model is trained through comparing the building images with crowdsourced binary labels.
+
+5. **City-wide ML Risk Assessment Model**
+    Once the ML model is able to accurately detect the aforementioned building features that may constitute structural failure risk, it may be further trained on Google StreetView images, and later be used to generate a city-wide risk assessment map. 
 
 
 ![KoboToolbox-powered Online Survey System](/conflict_urbanism_sp2023/images/At the Fault Lines/kobotoolbox-survey.gif)  
