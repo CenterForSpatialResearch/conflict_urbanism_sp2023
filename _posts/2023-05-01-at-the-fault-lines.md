@@ -54,6 +54,8 @@ These "pancake collapses" are recognized as the primary cause of devastating con
     The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
 
 
+
+
 #### METHODOLOGY
 
 ![Methodology Diagram](/conflict_urbanism_sp2023/images/At the Fault Lines/atfl_methodology.png)  
@@ -84,6 +86,7 @@ The above diagram illustrates the main framework of the methodology behind the a
     3. Does the building have a soft floor?
     4. Are there any visible signs of sea-sand based cement usage - such as visible sea shells on the surface?
     
+    
 4. **Pilot Neighborhood Dataset**
     Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. The ML model is trained through comparing the building images with crowdsourced binary labels.
 
@@ -96,7 +99,7 @@ The above diagram illustrates the main framework of the methodology behind the a
 **DATA SOURCES**
 
 1. This project heavily relies on online data collection tools like Kobo Toolbox, and crowdsourced data collection methods. Creating an online data collection tool on an up-to-date city map, where collectors can access each building’s location, image, address, and door number.
-    - **Istanbul Technical University’s UYGAR Maps** are high-detail 2D maps in AutoCAD DWG format. This dataset includes building numbers, floor and height data, as well as zoning data. This dataset is by far the most reliable despite requiring DWG-GIS conversion processes.
+    - **Istanbul Technical University UYGAR Maps** are high-detail 2D maps in AutoCAD DWG format. This dataset includes building numbers, floor and height data, as well as zoning data. This dataset is by far the most reliable despite requiring DWG-GIS conversion processes.
     - **Istanbul Metropolitan Municipality’s BIMTAS Building Stock dataset** is the most up-to-date, detailed GIS/ShapeFile building stock dataset, however this is not open for public/academic use.
     - **OpenStreetMaps** has a fairly detailed GIS/ShapeFile dataset that covers a wide landmass across the city, however these are not consistent and far from complete.
     - **Garmin Maps** has a detailed GIS/ShapeFile dataset, however there are some ShapeFile geometry issues - some buildings/areas are corrupt, hence cannot be used.
