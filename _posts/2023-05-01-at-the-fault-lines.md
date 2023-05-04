@@ -51,6 +51,8 @@ These "pancake collapses" are recognized as the primary cause of devastating con
     
 4. **Subpar/Prohibited Construction Materials** 
     
+    > I am ‘coming from the kitchen’ in this business, as we say, meaning all my family, under my father, were also a part of this sector, the construction sector. I grew up working with him, witnessing all of the development at that time. I’m not in a position to regret what I’ve said. The fact is that 70 percent of all the settlements in Istanbul, I would say, are vulnerable to a major earthquake. This is a diagnosis. Without the proper diagnosis treating a patient is not possible. The construction materials used for various settlements in different parts of Istanbul used to be of poor quality. *-Ali Agaoglu, Turkish Real Estate Mogul*
+
     The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
 
 
@@ -86,7 +88,7 @@ The above diagram illustrates the main framework of the methodology behind the a
     3. Does the building have a soft floor?
     4. Are there any visible signs of sea-sand based cement usage - such as visible sea shells on the surface?
     
-    
+
 4. **Pilot Neighborhood Dataset**
     Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. The ML model is trained through comparing the building images with crowdsourced binary labels.
 
