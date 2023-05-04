@@ -78,6 +78,8 @@ The above diagram illustrates the main framework of the methodology behind the a
         3. Number of floors/building height,
         4. Year of construction (if available, this is very useful to determine the specific Building Code under which the building was constructed — as buildings constructed before 1999 Earthquake are considered to constitute “high risk of failure during an earthquake”)
 
+![KoboToolbox-powered Online Survey System](/conflict_urbanism_sp2023/images/At the Fault Lines/kobotoolbox-survey.gif)  
+
 3. **Crowdsourced Pilot Building Risk Assessment Data and Labeling**
     Once the building stock is digitized, the project relies on data collectors for creating the pilot building risk assessment dataset. This step utilizes an online data-collection service such as Kobo Toolbox, to allow multiple users to simultaneously add additional data entries to the geospatial building data. 
     
@@ -94,8 +96,6 @@ The above diagram illustrates the main framework of the methodology behind the a
 5. **City-wide ML Risk Assessment Model**
     Once the ML model is able to accurately detect the aforementioned building features that may constitute structural failure risk, it may be further trained on Google StreetView images, and later be used to generate a city-wide risk assessment map. 
 
-
-![KoboToolbox-powered Online Survey System](/conflict_urbanism_sp2023/images/At the Fault Lines/kobotoolbox-survey.gif)  
 
 **DATA SOURCES**
 
