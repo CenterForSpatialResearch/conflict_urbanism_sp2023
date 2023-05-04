@@ -73,6 +73,9 @@ The above diagram illustrates the main framework of the methodology behind the a
 5. City-wide ML Risk Assessment Model
     1. Once the ML model is able to accurately detect the aforementioned building features that may constitute structural failure risk, it may be further trained on Google StreetView images, and later be used to generate a city-wide risk assessment map. 
 
+
+![KoboToolbox-powered Online Survey System](/conflict_urbanism_sp2023/images/At the Fault Lines/kobotoolbox-survey.gif)  
+
 **DATA SOURCES**
 
 1. This project heavily relies on online data collection tools like Kobo Toolbox, and crowdsourced data collection methods. Creating an online data collection tool on an up-to-date city map, where collectors can access each building’s location, image, address, and door number.
