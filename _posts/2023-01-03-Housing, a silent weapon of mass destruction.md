@@ -79,6 +79,7 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 
 <sub> **Figure 3: LANDSAT Images of cities affected by the Bhuj Earthquake**</sub>
 
+<div class="iframe-column"><iframe src="https://vimeo.com/823153430" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 <sub> Video made by Heer Shah, Reya Singhi</sub>
 
 
