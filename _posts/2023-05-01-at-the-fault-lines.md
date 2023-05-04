@@ -31,7 +31,7 @@ The February 6 earthquakes have shown us that a particular building type (or bui
 
 #### **UNDERSTANDING THE COLLAPSE**
 
-<iframe src="https://player.vimeo.com/video/823901043?h=38b5dd5dee" width="640" height="1128" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/823901043?h=38b5dd5dee" width="640" height="428" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Many videos and photos like the one above from the moment of collapse all hint at a common type of structural failure: First, the ground floor suddenly collapses, followed by all the floors above shortly after, pancaking on top of each other layer by layer in just a matter of seconds.
 
