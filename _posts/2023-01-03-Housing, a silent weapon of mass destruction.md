@@ -75,8 +75,7 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 ### AHMEDABAD, GUJARAT 
 
 
-<div class=<iframe src="https://player.vimeo.com/video/823153430?h=132df09630" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/823153430">Bhuj earthquake 2001</a> from <a href="https://vimeo.com/user190859474">Heer Bimalkumar Shah</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
+<div class="iframe-column"><iframe src="https://vimeo.com/823153430" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <sub> **Figure 3: LANDSAT Images of cities affected by the Bhuj Earthquake**</sub>
 
