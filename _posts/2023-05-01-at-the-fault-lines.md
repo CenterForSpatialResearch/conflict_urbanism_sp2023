@@ -29,14 +29,27 @@ The February 6 earthquakes have shown us that a particular building type (or bui
 
 #### **UNDERSTANDING THE COLLAPSE**
 
-Many buildings that collapsed in the February 6 earthquakes share a similar type of structural failure called “pancake collapse.” Pancake collapses have been widely studied, and reasons that lead to this type of structural failure is fairly well-known; and it is due to some construction malpractices that are highly common in the region.
+Many videos and photos from the moment of collapse hint at a common type of structural failure: First, the ground floor suddenly collapses, followed by all the floors above shortly after, pancaking on top of each other layer by layer in just a matter of seconds.
 
-1. **Soft story structures:** These structures have either by design or later interventions have missing columns on the ground floors to make more room for mostly commercial purposes. This is a commonly used practice across all construction practices in the country and is the primary reason why “pancake collapses” happen. These structures are relatively easy to spot from the street level/exterior.
-2. **Protruding Building Elements:** Another commonplace structural hazard is protruding building elements. These elements are not only limited to smaller-scaled cantilevers, such as balconies; but can be an entire column-to-column span on all four sides. Developers tend to maximize profits through increased square footage, and there are few or little regulations in the building code.
+These "pancake collapses" are recognized as the primary cause of devastating consequences resulting from earthquakes in the region, such as the 1999 Golcuk earthquake, as reported by the infrastructure assessment team sent to the area. The factors leading to this phenomenon have been researched extensively and can be narrowed down to four primary construction/design shortcomings.
 
-3. **Usage of Sea Sand Mixed Cement:** Various faulty construction materials, such as cement mixed with sea sand, are found highly commonly, especially in buildings developed before 1999. Such buildings are considered under high collapse risk, and should be reported. Although might require to peel off the exterior paint layer of the building, it is fairly easy to spot sea sand use in these buildings, as the texture of the cement layer, and easy-to-find seashells visible on the surface is a good indicator.
+1. **Soft Story Buildings**
+    
+    Soft story buildings are multiple story buildings that has a ground floor that has large windows, wide openings, and large open commercial shopfronts where a shear wall or vertical support element would typically be needed to ensure that the structural stability. Especially in earthquake-prone areas such as Turkey, at least 30% of the ground floor area must be dedicated to structural elements to ensure that the structural system could withstand the stress of the above floors. Soft story buildings are highly common in the region, with many multi-story apartment buildings accommodate commercial floor space on the ground floor, which is allowed by mixed-used zoning practices. The 1999 quake has led to an updated building code that prohibited such structures, many developers did not feel pressed to follow the regulations due to the lack of a strictly enforced control mechanism. 
+    
 
-All three of these characteristics can be detected without a structural test, making it easier to predict whether the building might be under risk.
+2. **Excessive Cantilevering Above the Ground Floor**
+    
+    Another common practice is excessive cantilevering above the ground floor, as this allows developers to go beyond the site land usage limitations to maximize profits over extra square footage. Although cantilevering structures are a common practice in architectural design, combined with other malpractices such as soft story building designs, or using lower-quality building materials significantly increases the structural stress on the ground-level structural system. This may lead to a structural failure in the moment of an earthquake, even when the building may be able to withstand this load under normal conditions.
+    
+
+3. **Structural Alterations**
+    
+    Structural alterations such as removing vertical supporting elements on the ground floor to open up space for commercial activities is another common practice many building owners employ to maximize profitability. Although there are multiple laws and regulations strictly prohibiting this, many buildings that has such alterations go unnoticed as it’s mostly done in the inside of the buildings. 
+    
+4. **Subpar/Prohibited Construction Materials** 
+    
+    The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
 
 #### METHODOLOGY
 
