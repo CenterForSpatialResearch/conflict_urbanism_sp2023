@@ -54,7 +54,7 @@ For the shelters and schools that the client went through, we gathered other dat
 
 ### 4. CASE_2
 
-Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence. The allegations take place in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham University law students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. 
+Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence. The allegations take place in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham Law School students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. 
 
 <iframe class="vid" src="https://player.vimeo.com /video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -73,7 +73,12 @@ Privacy concerns: The Legal Aid Society deals with sensitive legal matters invol
 
 Data accuracy and completeness: Legal Aid Society cases can involve complex legal issues, and the data used to create mapped geonarratives must be accurate and complete. You will need to ensure that the data used is up-to-date and that you have access to all the relevant information needed to create a comprehensive geonarrative.
 
-Collaborating with non-GIS professionals: You may need to collaborate with non-GIS professionals, such as lawyers, paralegals, and community organizers, who may not have a technical background. It is important to communicate effectively and ensure that the geonarratives meet the needs of all stakeholders involved in the project.
+Contextualization of data: The city scale data we work with in GIS may not provide enough context for the specific case of an individual, it was necessary for us to contextualize the data to tailor it to a narrative about a single individual. We did so by attempting to incorporate qualitative data and other forms of information to create a more complete picture of the individual's circumstances.
+
+Communicating the narrative: As we are collaborating with non-GIS professionals, including lawyers, film makers, and community organizers, communicating the narrative of the case with clarity to a non-GIS expert was particularly central to the project. It was important for us to be be careful in our choices for data visualization to convey the narrative in a clear and compelling way that is accessible to all stakeholders involved in the project.
+
+
+
 
 ### 6. BIBLIOGRAPHY
 
