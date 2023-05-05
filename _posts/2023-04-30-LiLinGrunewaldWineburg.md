@@ -56,7 +56,7 @@ For the shelters and schools that the client went through, we gathered other dat
 
 Our second case for the LAS video mitigation team involved a young client in which they were mitigating pretrial negotiations to reduce his sentence. The allegations take place in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham Law School students, were in the early stages of developing their case and had yet to start the interview process. They were able to share case information around which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City.
 
-<iframe class="vid" src="https://player.vimeo.com /video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vid" src="https://player.vimeo.com/video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Through the concept of opportunity mapping, a research tool developed by the Kirwan Institute for the Study of Race and Ethnicity, we began to analyze the contributing factors which determine opportunity, equity, and sustainability within New York City through educational, economic, community, and health metrics. The Kirwan Institute notes that “for many marginalized communities, particularly low-income communities and segregated communities of color, neighborhood conditions limit access to opportunity and advancement” (Reece). We found this to be supported by our data findings as the Bronx and Community District 1, the district the client is from, ranked as one of NYC’s most opportunity isolated areas. For young people, like the client, this geographic isolation from opportunity can create barriers to improvement, hinder their quality of life, and stifle potential for success.
 
@@ -64,7 +64,7 @@ As our research and the mitigation narrative developed, our focus turned to yout
 
 Risk for youth disconnection is also inequitably distributed across racial and ethnic groups. Opportunity youth remain over-represented by Black and Latinx communities, signaling structural racism contributes to disconnection. Nearly one in three opportunity youth live in poverty and are more likely to experience the compounding risk factors that accompany living in areas of concentrated poverty, including but not limited to more widespread police contact and higher rates of gun violence. The video below (fig. 4) will be used to support the LAS geonarrative which visualizes the association between the data fields described above with youth disconnection in New York City.
 
-<iframe class="vid" src="https://player.vimeo.com /video/822706134?h=22f57f948c&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vid" src="https://player.vimeo.com/video/822706134?h=22f57f948c&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ### 5. TAKEAWAYS
