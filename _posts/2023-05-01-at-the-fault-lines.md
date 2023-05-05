@@ -41,7 +41,12 @@ Although the region was struck by many frequent shakes of very high-magnitudes, 
 
 As the country still grieves for such tremendous loss of life in the South, the possibility of a long-predicted “next big earthquake” in the northwest end of the region has became even more imminent: For a long while many geologists have been alarming the authorities to take action against **an Upcoming Istanbul Earthquake** that’s predicted to happen in the next 5-10 years as the North Anatolian Fault is known to have reached the end of its current seismic period. Scientist predict that nearly 40% of the population, or more than six million people, might be under life-threatening risk conditions in a scenario of a Magnitude 7.5 earthquake.
 
-The aftermath of the recent quakes has alarmed Istanbul Metropolitan Municipality, which has launched various action plans to ensure the safety of the city’s existing building stock by conducting free on-site structural tests, expediting urban renewal projects, and offering financial support and temporary housing for those who live in risky buildings. However, the newly-elected mayor Ekrem Imamoglu states that the increased demand to structural tests and other programs have exhausted the city’s limits. In a map shared by BIMTAS, IMM’s internal Building and Construction Coordination Agency, shows that only a small percentage of the city have been able to be tested since 2019; pointing out to a need for a faster approach.
+The aftermath of the recent quakes has alarmed Istanbul Metropolitan Municipality, which has launched various action plans to ensure the safety of the city’s existing building stock by conducting free on-site structural tests, expediting urban renewal projects, and offering financial support and temporary housing for those who live in risky buildings. However, the newly-elected mayor Ekrem Imamoglu states that the increased demand to structural tests and other programs have exhausted the city’s limits.
+
+![Map Showing Percentage of the Amount of Buildings Tested in Every Administrative Region](/conflict_urbanism_sp2023/images/At the Fault Lines/istanbul-test-map.png)
+**Map published by IMM Directorate of Earthquake and Ground Research**  
+
+The above map shows that only a small percentage of the city have been able to be tested since 2019, pointing out to a need for an alternative, faster approach.
 
 
 #### **UNDERSTANDING THE COLLAPSE**
