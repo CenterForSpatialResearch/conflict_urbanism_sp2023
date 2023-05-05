@@ -44,7 +44,9 @@ As this was our first case, initial research was focused on understanding the si
 
 We later came across an article which revealed that shelters often lacked the necessary infrastructure for children to attend school remotely when the COVID-19 pandemic hit. The number of households with broadband internet access in the Bronx, and especially within shelters, was notably lower compared to most neighborhoods across the five NYC boroughs. This fact was critical, as the client himself lost out on a college scholarship which he was awarded due to not being able to log on to claim it. Though access to broadband internet is sometimes thought to be a given, lower income neighborhoods often see more trouble with internet reliability and/or buildings lacking the infrastructure ready to offer service.
 
+<div style:"margin-left:-200px;">
 [![This is a version of the previous bivariate map zoomed in to the South Bronx showing six approximate locations of the shelters that the client lived in and five locations of the schools he attended, connected in sequence and juxtaposed on the previous map.](/conflict_urbanism_sp2023/images/videomitigation_images/videomitigation_case1bivariate.png)](/conflict_urbanism_sp2023/images/videomitigation_images/videomitigation_case1bivariate.png)
+</div>
 
 The map above shows the bivariate data association between the median household income across New York and the percentage of households who have access to adequate internet. This formed the large-scale approach which we focused on, and subsequently studied more in-depth in a “chaos” map of the client’s unstable housing.
 
@@ -56,9 +58,7 @@ For the shelters and schools that the client went through, we gathered other dat
 
 Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence as a youthful offender in a gun-related charge in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham University law students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. While living in Mott Haven at the NYCHA Patterson Houses, the client has swayed in and out of school, influenced by his peers and impacted by limited access to remote learning during the start of the COVID-19 pandemic.
 
-
 <iframe class="vid" src="https://player.vimeo.com/video/824206765?h=ef85fdff9b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 
 Through the concept of opportunity mapping, a research tool developed by the Kirwan Institute for the Study of Race and Ethnicity, we began to analyze the contributing factors which determine opportunity, equity, and sustainability within New York City through educational, economic, community, and health metrics. The Kirwan Institute notes that “for many marginalized communities, particularly low-income communities and segregated communities of color, neighborhood conditions limit access to opportunity and advancement” (Reece). We found this to be supported by our data findings as the Bronx and Community District 1, the district the client is from, ranked as one of NYC’s most opportunity isolated areas. For young people, like the client, this geographic isolation from opportunity can create barriers to improvement, hinder their quality of life, and stifle potential for success.
 
@@ -66,9 +66,7 @@ As our research and the mitigation narrative developed, our focus turned to yout
 
 Risk for youth disconnection is also inequitably distributed across racial and ethnic groups. Opportunity youth remain over-represented by Black and Latinx communities, signaling structural racism contributes to disconnection. Nearly one in three opportunity youth live in poverty and are more likely to experience the compounding risk factors that accompany living in areas of concentrated poverty, including but not limited to more widespread police contact and higher rates of gun violence. The video below (fig. 4) will be used to support the LAS geonarrative which visualizes the association between the data fields described above with youth disconnection in New York City.
 
-
 <iframe class="vid" src="https://player.vimeo.com/video/824206959?h=0d60770cb8&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
