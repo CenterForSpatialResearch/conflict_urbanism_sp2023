@@ -46,15 +46,18 @@ The above collection of satellite imagery aims to show the stark difference in t
 
 #### **PROPOSING A FASTER ALTERNATIVE RISK-ASSESSMENT METHOD**
 
-This project aims to propose an alternative risk-assessment and structural monitoring method that may offer valuable information and insight that could help alleviate the time and workload related challenges the traditional methods are faced with under high demand. This new alternative method employs crowdsourced data collection to generate a large pool of on-site data that may used towards making meaningful assumptions regarding a building's risk factor. This crowdsourced data can further be used to train a surpervised multi-labeled Machine Learning model that could later automate this workflow to generate a city-wide risk assessment map through the existing Google StreetView database. Although it may not be as accurate as traditional structural analysis practices, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
+This project aims to propose an alternative risk-assessment and structural monitoring method that may offer valuable information and insight that could help alleviate the time and workload related challenges the traditional methods are faced with under high demand. This new alternative method employs crowdsourced data collection to generate a large pool of on-site data that may used towards making meaningful assumptions regarding a building's risk factor. This crowdsourced data can further be used to train a surpervised multi-labeled Machine Learning model that could later automate this workflow to generate a city-wide risk assessment map through the existing Google StreetView database. 
 
 
-#### **PRELIMINARY QUESTIONS AND POSSIBLE CHALLENGES**
+#### **STEPS, QUESTIONS, AND CHALLENGES**
 
+1. Many building that have collapse in the previous earthquakes have proven to share common certain architectural/structural characteristics and malpractices, such as soft story buildings.
 
-The February 6 earthquakes have shown us that a particular building type (or building characteristics due to common construction malpractices) are known to be particularly more under risk during an earthquake. Given some of these characteristics could be visually identified without requiring a structural assessment, could we identify these in a pilot neighborhood using crowd-sourcing data collection methods, and then train a machine learning model that could automatically identify these on Google StreetView images?
+2. Given some of these characteristics could be visually identified without requiring a structural assessment, could we generate a large-enough crowdsourced dataset that could later be used to train computer vision and machine learning models that could further automate this workflow?
 
-#### **UNDERSTANDING THE COLLAPSE**
+3. Although it may not be as accurate as traditional structural analysis practices, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
+
+#### **UNDERSTANDING THE "COLLAPSES"**
 
 <iframe src="https://player.vimeo.com/video/823901043?h=38b5dd5dee" width="640" height="428" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
