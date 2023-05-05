@@ -22,7 +22,6 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f9b6ab2-eadd-11ed-b5bd-6595d9b17862"></iframe>
-
 <sub> **Figure 1: Deadliest earthquakes in the world**</sub>
 
 <sub> Maps made by Heer Shah, Reya Singhi</sub>
