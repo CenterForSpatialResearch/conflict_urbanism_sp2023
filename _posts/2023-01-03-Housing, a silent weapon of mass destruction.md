@@ -21,24 +21,14 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 **The number of fatalities and property losses from this earthquake has eclipsed all previous records, exposing the cause of this immense catastrophe - HOUSING.**
 
 
-
-
 <iframe frameborder="0" class="juxtapose" width="100%" height="4500" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f9b6ab2-eadd-11ed-b5bd-6595d9b17862"></iframe>
-
 
 <sub> **Figure 1: Deadliest earthquakes in the world**</sub>
 
 <sub> Maps made by Heer Shah, Reya Singhi</sub>
 
 
-
-
-
-
 Since 2005, several places worldwide (Figure 1) have experienced similar events to Bhuj and Turkey, with a common factor being the **construction of soft storey structures**. Despite the known risk associated with such buildings, they continue to be built, and little action has been taken to address the conditions of such existing structures. The majority of these structures can be attributed to corrupt practices, with the primary motivation being the pursuit of rapid financial gain. The devastating earthquakes in Gujarat in 2001 and Turkey and Syria in 2023 have highlighted the destructive power of poorly constructed housing, which has resulted in numerous fatalities and extensive property damage. It’s important to note that most of the highly collapsible buildings have been in areas that consist of economically and socially vulnerable communities.  
-
-
-
 
 
 
@@ -74,6 +64,9 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 
 
 <iframe src="https://player.vimeo.com/video/823153430?h=132df09630&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 
 
