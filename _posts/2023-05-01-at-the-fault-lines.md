@@ -44,12 +44,13 @@ The above map shows that only a small percentage of the city have been able to b
 
 The above collection of satellite imagery aims to show the stark difference in the amount "open space" and average price of monthly rent in various neighborhoods across the city. As the income inequality increases, it also renders people living in "low-income" areas significantly more vulnerable against disasters such as the expected Istanbul Earthquake. Many planned "high-income" neighborhoods and the mentioned "gecekondu" areas are located side-to-side, often only separated by highways, hills, or high-rise buildings that are built as part of urban renewal programs. As pointed out by the mayor, most of AKP's promised urban renewal projects took place in middle to higher income neighborhoods where developers could achieve higher profit margins. Hence any risk assessment project should point their focus to these often overlooked low-income neighborhoods, where people are comparatively more vulnerable and under higher risk.
 
-#### **PROJECT SCOPE: A FASTER ALTERNATIVE RISK-ASSESSMENT METHOD**
+#### **PROPOSING A FASTER ALTERNATIVE RISK-ASSESSMENT METHOD**
 
-This project aims to create a crowdsourced building-scaled earthquake risk map to alleviate some of these issues and offer an informative platform for the public and the authorities. By using an interactive online map, users and data collectors can survey some certain building characteristics that, when combined, may offer valuable information regarding the structural quality of the building stock. Although it may not be as accurate as a structural analysis, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
+This project aims to propose an alternative risk-assessment and structural monitoring method that may offer valuable information and insight that could help alleviate the time and workload related challenges the traditional methods are faced with under high demand. This new alternative method employs crowdsourced data collection to generate a large pool of on-site data that may used towards making meaningful assumptions regarding a building's risk factor. This crowdsourced data can further be used to train a surpervised multi-labeled Machine Learning model that could later automate this workflow to generate a city-wide risk assessment map through the existing Google StreetView database. Although it may not be as accurate as traditional structural analysis practices, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
 
 
-#### **RESEARCH QUESTION**
+#### **PRELIMINARY QUESTIONS AND POSSIBLE CHALLENGES**
+
 
 The February 6 earthquakes have shown us that a particular building type (or building characteristics due to common construction malpractices) are known to be particularly more under risk during an earthquake. Given some of these characteristics could be visually identified without requiring a structural assessment, could we identify these in a pilot neighborhood using crowd-sourcing data collection methods, and then train a machine learning model that could automatically identify these on Google StreetView images?
 
