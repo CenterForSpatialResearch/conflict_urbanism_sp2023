@@ -70,6 +70,8 @@ These "pancake collapses" are recognized as the primary cause of devastating con
 1. **Soft Story Buildings**
     
     Soft story buildings are multiple story buildings that has a ground floor that has large windows, wide openings, and large open commercial shopfronts where a shear wall or vertical support element would typically be needed to ensure that the structural stability. Especially in earthquake-prone areas such as Turkey, at least 30% of the ground floor area must be dedicated to structural elements to ensure that the structural system could withstand the stress of the above floors. Soft story buildings are highly common in the region, with many multi-story apartment buildings accommodate commercial floor space on the ground floor, which is allowed by mixed-used zoning practices. The 1999 quake has led to an updated building code that prohibited such structures, many developers did not feel pressed to follow the regulations due to the lack of a strictly enforced control mechanism. 
+
+    ![Soft story collapses from Turkey](/conflict_urbanism_sp2023/images/At the Fault Lines/softstory.png)
     
 2. **Excessive Cantilevering Above the Ground Floor**
     
@@ -82,6 +84,8 @@ These "pancake collapses" are recognized as the primary cause of devastating con
 4. **Subpar/Prohibited Construction Materials** 
     
     > I am ‘coming from the kitchen’ in this business, as we say, meaning all my family, under my father, were also a part of this sector, the construction sector. I grew up working with him, witnessing all of the development at that time. I’m not in a position to regret what I’ve said. The fact is that 70 percent of all the settlements in Istanbul, I would say, are vulnerable to a major earthquake. This is a diagnosis. Without the proper diagnosis treating a patient is not possible. The construction materials used for various settlements in different parts of Istanbul used to be of poor quality. *-Ali Agaoglu, Turkish Real Estate Mogul*
+
+    ![Sea-sand used cement](/conflict_urbanism_sp2023/images/At the Fault Lines/seasand.png)
 
     The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
 
@@ -119,7 +123,9 @@ The above diagram illustrates the main framework of the methodology behind the a
     4. Are there any visible signs of sea-sand based cement usage - such as visible sea shells on the surface?
 
 4. **Pilot Neighborhood Dataset**
-    Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. The ML model is trained through comparing the building images with crowdsourced binary labels.
+    Once all the buildings in the selected pilot neighborhood is digitized and labeled as mentioned in Step 3, the merged data is used to visualize an interactive risk analysis map as well as used to train the Risk Assessment Model. There have been various studies using a wide array of Machine Learning models and techniques tackling similar issues. Since we use multiple identifiers, using a supervised-learning method of "Multi-Label Convolutional Neural Network" is the most efficient and suitable ML-model to start with.
+
+    Every building must be labeled with all "identifiers" in order to train the model with every image. These images and labels will later be used to train a machine learning model. 
 
 5. **City-wide ML Risk Assessment Model**
     Once the ML model is able to accurately detect the aforementioned building features that may constitute structural failure risk, it may be further trained on Google StreetView images, and later be used to generate a city-wide risk assessment map. 
@@ -135,7 +141,6 @@ The above diagram illustrates the main framework of the methodology behind the a
     - **OpenStreetMaps** has a fairly detailed GIS/ShapeFile dataset that covers a wide landmass across the city, however these are not consistent and far from complete.
     - **Garmin Maps** has a detailed GIS/ShapeFile dataset, however there are some ShapeFile geometry issues - some buildings/areas are corrupt, hence cannot be used.
     - **Microsoft Planetary Computer** **Building Footprint Dataset** is another alternative dataset that uses specialized ML models to generate building footprints from satellite imagery. This could be a valuable tool to obtain building shape data in certain neighborhoods where many buildings are purposefully not registered to the municipality’s system to avoid regulations.
-2. Each building should be labeled with certain “risk assessment identifiers”, such as whether the building has visible cracks, protruding elements, or removed columns. These images and labels will later be used to train a machine learning model. 
-    - **Creating synthetic data (computationally generated synthetic building dataset based on the crowdsourced and labeled building data)** to further train the risk assessment model. This method is quite common in training machine learning models with limited datasets, and increases accuracy of the model.
-3. The machine learning model could further be trained on Google StreetView imagery after the initial training on crowd-sourced labeled dataset. 
-    1. **Google StreetView** has a very up-to-date street imagery of Istanbul, which can later be used with the ML-based model to generate an risk assessment map without the need of a crowdsourcing method.
+2. **Google StreetView API** will be used gather street images on which the trained ML model to make assessments.
+
+**BIBLIOGRAPHY**
