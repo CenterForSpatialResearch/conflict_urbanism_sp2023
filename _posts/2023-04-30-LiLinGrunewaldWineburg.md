@@ -54,7 +54,7 @@ For the shelters and schools that the client went through, we gathered other dat
 
 ### 4. CASE_2
 
-Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence. The allegations take place in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham Law School students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. 
+Our second case for the LAS video mitigation team involved a young client in which they were mitigating pretrial negotiations to reduce his sentence. The allegations take place in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham Law School students, were in the early stages of developing their case and had yet to start the interview process. They were able to share case information around which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City.
 
 <iframe class="vid" src="https://player.vimeo.com /video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
