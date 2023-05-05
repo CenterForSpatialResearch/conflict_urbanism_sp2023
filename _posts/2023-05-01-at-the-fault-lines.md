@@ -46,8 +46,12 @@ The aftermath of the recent quakes has alarmed Istanbul Metropolitan Municipalit
 ![Map Showing Percentage of the Amount of Buildings Tested in Every Administrative Region](/conflict_urbanism_sp2023/images/At the Fault Lines/istanbul-test-map.png)
 **Map published by IMM Directorate of Earthquake and Ground Research**  
 
-The above map shows that only a small percentage of the city have been able to be tested since 2019, pointing out to a need for an alternative, faster approach.
+The above map shows that only a small percentage of the city have been able to be tested since 2019, pointing out to a need for an alternative, faster approach. Another significant challenge dates back to 1940s when the country encouraged rural-to-urban migration to solve the increasingly pressing working shortage as Istanbul became an important global production center. Due to the lack of resources and interest in expanding the city for planned low-income housing neighborhoods, the governments have allowed workers to build their own housing on various parts of the city. The term "gecekondu" (which literally means 'built overnight') is used today to define the present urban patches and neighborhoods that got swallowed by the fast-sprawling city. 
 
+![Spatial inequality](/conflict_urbanism_sp2023/images/At the Fault Lines/Earthquake-realestate.gif)
+**Satellite images retrieved by using Google Maps API. Real estate data is retrieved from Zingat.com**  
+
+The above collection of satellite imagery aims to show the stark difference in the amount "open space" and average price of monthly rent in various neighborhoods across the city. As the income inequality increases, it also renders people living in "low-income" areas significantly more vulnerable against disasters such as the expected Istanbul Earthquake. Many planned "high-income" neighborhoods and the mentioned "gecekondu" areas are located side-to-side, often only separated by highways, hills, or high-rise buildings that are built as part of urban renewal programs. As pointed out by the mayor, most of AKP's promised urban renewal projects took place in middle to higher income neighborhoods where developers could achieve higher profit margins. Hence any risk assessment project should point their focus to these often overlooked low-income neighborhoods, where people are comparatively more vulnerable and under higher risk.
 
 #### **UNDERSTANDING THE COLLAPSE**
 
