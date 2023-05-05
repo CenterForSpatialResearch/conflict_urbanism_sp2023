@@ -38,7 +38,7 @@ We’ve created spatialized narratives and/or histories of hardship to help cont
 
 ### 3. CASE_1
 
-Our first case involves a man in his early 20s who grew up moving between a number of shelters across the Bronx with his mother and younger sibling. He transferred schools five times throughout his childhood. He was a talented student and despite the fact that he was unhoused, working multiple jobs, all while attending high school, he was able to graduate high school. Shortly after he started college, the client was arrested. As our work with the Legal Aid Society began, the client was in jail and awaiting trial. At the time we started collaborating with the Legal Aid Society, their video was already midway into editing and post-production. As such, we had less time to develop a polished process compared to the second case we would work on later in the semester. But to supplement the video interviews and narratives prepared by LAS, our mapping sought to visualize the “chaos” embedded in moving shelters and schools so frequently during the formationall years of youth development.
+Our first case involves a man in his early 20s who grew up moving between a number of shelters across the Bronx with his mother and younger sibling. He transferred schools five times throughout his childhood. He was a talented student and despite the fact that he was unhoused, working multiple jobs, all while attending high school, he was able to graduate high school. Shortly after he started college, the client was arrested. As our work with the Legal Aid Society began, the client was in jail and awaiting trial. At the time we started collaborating with the Legal Aid Society, their video was already midway into editing and post-production. As such, we had less time to develop a polished process compared to the second case we would work on later in the semester. But to supplement the video interviews and narratives prepared by LAS, our mapping sought to visualize the “chaos” embedded in moving shelters and schools so frequently during the formational years of youth development.
 
 As this was our first case, initial research was focused on understanding the situation at hand and developing a methodology which could also be applied to future cases. In addition to looking at data and satellite imagery of the relevant areas in the South Bronx, the group began searching for directions through which the narrative of the client’s housing instability could unfold. The most challenging aspect of the early research was identifying new ways to show a lack of access to opportunities and resources, extenuating circumstances, or inequalities beyond surface level measures. Disparity of wealth, income, health, and opportunities across New York City is well-documented. On the other hand, asking what a “chaos map” would look like pushed our research to a much more personalized and micro-level scale.
 
@@ -54,7 +54,7 @@ For the shelters and schools that the client went through, we gathered other dat
 
 ### 4. CASE_2
 
-Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence as a youthful offender in a gun-related charge in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham University law students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. While living in Mott Haven at the NYCHA Patterson Houses, the client has swayed in and out of school, influenced by his peers and impacted by limited access to remote learning during the start of the COVID-19 pandemic.
+Our second case for the LAS video mitigation team involved a juvenile client in which they were mitigating pretrial negotiations to reduce his sentence. The allegations take place in the Mott Haven neighborhood of the Bronx. Unlike the previous case, the video mitigation team, including the Legal Aid Society along with Fordham Law School students, were in the early stages of developing their case and had yet to start the interview process. They were able to share high-level case information in which we developed a broader narrative around the social, environmental, and economic factors which exacerbate opportunity inequality across New York City. 
 
 <iframe class="vid" src="https://player.vimeo.com /video/822706920?h=08b35a368b&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ As our research and the mitigation narrative developed, our focus turned to yout
 
 Risk for youth disconnection is also inequitably distributed across racial and ethnic groups. Opportunity youth remain over-represented by Black and Latinx communities, signaling structural racism contributes to disconnection. Nearly one in three opportunity youth live in poverty and are more likely to experience the compounding risk factors that accompany living in areas of concentrated poverty, including but not limited to more widespread police contact and higher rates of gun violence. The video below (fig. 4) will be used to support the LAS geonarrative which visualizes the association between the data fields described above with youth disconnection in New York City.
 
-<iframe class="vid" src="https://player.vimeo.com/video/822706134?h=22f57f948c&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vid" src="https://player.vimeo.com /video/822706134?h=22f57f948c&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ### 5. TAKEAWAYS
@@ -73,7 +73,12 @@ Privacy concerns: The Legal Aid Society deals with sensitive legal matters invol
 
 Data accuracy and completeness: Legal Aid Society cases can involve complex legal issues, and the data used to create mapped geonarratives must be accurate and complete. You will need to ensure that the data used is up-to-date and that you have access to all the relevant information needed to create a comprehensive geonarrative.
 
-Collaborating with non-GIS professionals: You may need to collaborate with non-GIS professionals, such as lawyers, paralegals, and community organizers, who may not have a technical background. It is important to communicate effectively and ensure that the geonarratives meet the needs of all stakeholders involved in the project.
+Contextualization of data: The city scale data we work with in GIS may not provide enough context for the specific case of an individual, it was necessary for us to contextualize the data to tailor it to a narrative about a single individual. We did so by attempting to incorporate qualitative data and other forms of information to create a more complete picture of the individual's circumstances.
+
+Communicating the narrative: As we are collaborating with non-GIS professionals, including lawyers, film makers, and community organizers, communicating the narrative of the case with clarity to a non-GIS expert was particularly central to the project. It was important for us to be be careful in our choices for data visualization to convey the narrative in a clear and compelling way that is accessible to all stakeholders involved in the project.
+
+
+
 
 ### 6. BIBLIOGRAPHY
 
