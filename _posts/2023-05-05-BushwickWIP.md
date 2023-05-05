@@ -48,7 +48,8 @@ Based on the permit issuance, Bob Michaeli (Robert Michaeli) is the top owner of
 
 #### Top Owner’s Address
 
-![Top Shared Owner's Address](/conflict_urbanism_sp2023/images/bushwick/hhl_map3.jpg)
+[![Top Shared Owner's Address](/conflict_urbanism_sp2023/images/bushwick/hhl_map3.jpg)](/conflict_urbanism_sp2023/images/bushwick/hhl_map3.jpg){:target="_blank" onclick="if(this.style.width=='100%') {this.style.width='';} else {this.style.width='100%';}" style="max-width:100%;height:auto;"}
+
 
 *The map shows the top owners' (outliers) addresses. The blue color indicates they have multiple owners at the same address.*
 
