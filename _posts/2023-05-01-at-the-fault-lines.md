@@ -18,15 +18,6 @@ Yet, Turkey is no stranger to such catastrophic earthquakes, as the country geog
 
 However, the recent earthquakes exposed that many of these efforts have been immensely inadequate, mostly due to large-scale corrupt political, regulatory, and construction practices throughout the 20-year AKP rule. Moreover, the country’s most prominent scientists have been incessantly alarming against a long-awaited “Istanbul Earthquake” to strike in the next decade, with consequences exponentially graver. This study aims to dissect these corrupt practices, identify their traces in the architectural level across an urban scale, and develop an alternative risk assessment mapping method that may offer critical insight for local authorities, municipalities, as well as individuals.
 
-#### **PROJECT SCOPE**
-
-This project aims to create a crowdsourced building-scaled earthquake risk map to alleviate some of these issues and offer an informative platform for the public and the authorities. By using an interactive online map, users and data collectors can survey some certain building characteristics that, when combined, may offer valuable information regarding the structural quality of the building stock. Although it may not be as accurate as a structural analysis, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
-
-
-#### **RESEARCH QUESTION**
-
-The February 6 earthquakes have shown us that a particular building type (or building characteristics due to common construction malpractices) are known to be particularly more under risk during an earthquake. Given some of these characteristics could be visually identified without requiring a structural assessment, could we identify these in a pilot neighborhood using crowd-sourcing data collection methods, and then train a machine learning model that could automatically identify these on Google StreetView images?
-
 #### **A TALE OF THREE EARTHQUAKES: PAST, PRESENT, AND FUTURE**
 
 ![THE TALE OF THREE EARTHQUAKES](/conflict_urbanism_sp2023/images/At the Fault Lines/eq-comparison.png)
@@ -52,6 +43,15 @@ The above map shows that only a small percentage of the city have been able to b
 **Satellite images retrieved by using Google Maps API. Real estate data is retrieved from Zingat.com**  
 
 The above collection of satellite imagery aims to show the stark difference in the amount "open space" and average price of monthly rent in various neighborhoods across the city. As the income inequality increases, it also renders people living in "low-income" areas significantly more vulnerable against disasters such as the expected Istanbul Earthquake. Many planned "high-income" neighborhoods and the mentioned "gecekondu" areas are located side-to-side, often only separated by highways, hills, or high-rise buildings that are built as part of urban renewal programs. As pointed out by the mayor, most of AKP's promised urban renewal projects took place in middle to higher income neighborhoods where developers could achieve higher profit margins. Hence any risk assessment project should point their focus to these often overlooked low-income neighborhoods, where people are comparatively more vulnerable and under higher risk.
+
+#### **PROJECT SCOPE: A FASTER ALTERNATIVE RISK-ASSESSMENT METHOD**
+
+This project aims to create a crowdsourced building-scaled earthquake risk map to alleviate some of these issues and offer an informative platform for the public and the authorities. By using an interactive online map, users and data collectors can survey some certain building characteristics that, when combined, may offer valuable information regarding the structural quality of the building stock. Although it may not be as accurate as a structural analysis, this method offers a fast and highly scalable alternative to map and visualize the earthquake-prone buildings in the city.
+
+
+#### **RESEARCH QUESTION**
+
+The February 6 earthquakes have shown us that a particular building type (or building characteristics due to common construction malpractices) are known to be particularly more under risk during an earthquake. Given some of these characteristics could be visually identified without requiring a structural assessment, could we identify these in a pilot neighborhood using crowd-sourcing data collection methods, and then train a machine learning model that could automatically identify these on Google StreetView images?
 
 #### **UNDERSTANDING THE COLLAPSE**
 
