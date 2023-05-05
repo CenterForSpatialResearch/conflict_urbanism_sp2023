@@ -23,10 +23,8 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 
 
 
+<iframe frameborder="0" class="juxtapose" width="100%" height="4500" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f9b6ab2-eadd-11ed-b5bd-6595d9b17862"></iframe>
 
-
-![Earthquakes from 2005](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study1.png)
-![Major Reason for Destruction](/conflict_urbanism_sp2023/images/Housing, a silent weapon of mass destruction/Global Case Study2.png)
 
 <sub> **Figure 1: Deadliest earthquakes in the world**</sub>
 
@@ -76,6 +74,8 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 
 
 <iframe src="https://player.vimeo.com/video/823153430?h=132df09630&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <sub> **Figure 3: LANDSAT Images of cities affected by the Bhuj Earthquake**</sub>
 
