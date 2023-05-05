@@ -11,13 +11,12 @@ author: "Taha Erdem Ozturk"
 
 On February 6, 2023, two consecutive earthquakes of Magnitudes 7.8 and 7.7 struck Southern Turkey and Northern Syria, killing more than 52,000 people. Namely the Kahramanmaras Earthquake is the largest since the 1939 Erzincan Earthquake with the same magnitude, and the second largest that’s ever recorded in the region. Affecting 14 million people and leaving 1.5 million people homeless across 21 provinces, it is now accepted as the deadliest natural disaster in the history of the country.
 
-![Turkey Fault Lines](/conflict_urbanism_sp2023/images/At the Fault Lines/faultLines.png)
+![Turkey Fault Lines](/conflict_urbanism_sp2023/images/At the Fault Lines/feb6_earthquake_map.png)
 *Turkey Sits on Top of Two Major Fault Lines, One of The Most Seismically Active Countries in the World*  
 
 Yet, Turkey is no stranger to such catastrophic earthquakes, as the country geographically sits on top two major fault zones - the North Anatolian fault zone being one of the most seismically active in the World. 20 years ago when a similarly destructive earthquake struck near Istanbul, the country’s economic and population center, it was a wake up call for the country: The government changed shortly after being deemed “incompetent,” much stricter building codes and regulations were put in place, nation-wide first response organizations were founded, and a new “earthquake tax” was introduced to help fund urban renewal and recovery efforts.
 
 However, the recent earthquakes exposed that many of these efforts have been immensely inadequate, mostly due to large-scale corrupt political, regulatory, and construction practices throughout the 20-year AKP rule. Moreover, the country’s most prominent scientists have been incessantly alarming against a long-awaited “Istanbul Earthquake” to strike in the next decade, with consequences exponentially graver. This study aims to dissect these corrupt practices, identify their traces in the architectural level across an urban scale, and develop an alternative risk assessment mapping method that may offer critical insight for local authorities, municipalities, as well as individuals.
-
 
 #### **PROJECT SCOPE**
 
