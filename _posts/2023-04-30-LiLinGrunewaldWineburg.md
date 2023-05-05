@@ -44,9 +44,8 @@ As this was our first case, initial research was focused on understanding the si
 
 We later came across an article which revealed that shelters often lacked the necessary infrastructure for children to attend school remotely when the COVID-19 pandemic hit. The number of households with broadband internet access in the Bronx, and especially within shelters, was notably lower compared to most neighborhoods across the five NYC boroughs. This fact was critical, as the client himself lost out on a college scholarship which he was awarded due to not being able to log on to claim it. Though access to broadband internet is sometimes thought to be a given, lower income neighborhoods often see more trouble with internet reliability and/or buildings lacking the infrastructure ready to offer service.
 
-<div style:"margin-left:-200px;">
+
 [![This is a version of the previous bivariate map zoomed in to the South Bronx showing six approximate locations of the shelters that the client lived in and five locations of the schools he attended, connected in sequence and juxtaposed on the previous map.](/conflict_urbanism_sp2023/images/videomitigation_images/videomitigation_case1bivariate.png)](/conflict_urbanism_sp2023/images/videomitigation_images/videomitigation_case1bivariate.png)
-</div>
 
 The map above shows the bivariate data association between the median household income across New York and the percentage of households who have access to adequate internet. This formed the large-scale approach which we focused on, and subsequently studied more in-depth in a “chaos” map of the client’s unstable housing.
 
