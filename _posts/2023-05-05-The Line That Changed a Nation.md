@@ -132,50 +132,37 @@ Second is Ledra Palace: once one of Nicosia's most upscale hotels that was home 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-### MAPPING AS...  
-
-
-**...Counter Cartography**
-
-
-
-![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
-
-**...Political Power Play**
-
-
-
-![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
-
-**...Social Construct**
-
-
-
-![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
-
 
 ### MAPPING PERSPECTIVES 
 
-Original maps by the author to underscore spatial and political representations of Cyprus at the country- and city-scale. A careful selection of the 'fill' of the Green Line in these maps as Lefkara lace—recognized by UNESCO as part of the Representative List of the Intangible Cultural Heritage of Humanity—is made to underscore the persistence of Cypriot culture and the strength of its people despite the unimaginable suffering endured being a refugee in one's own country.
+The below maps by the author underscore spatial and political representations of Cyprus at the country- and city-scale. These maps are interpretations and re-creations of how various parties have chosen to represent Cyprus and the Green Line based on their political views. Each map becomes a form of counter cartography, political power play, or a social construct.
 
-**Cypriot Perspective**
+A careful selection of the 'fill' of the Green Line in these maps as Lefkara lace—recognized by UNESCO as part of the Representative List of the Intangible Cultural Heritage of Humanity—is made to underscore the persistence of Cypriot culture and the strength of its people despite the unimaginable suffering endured being a refugee in one's own country. Using this pattern for the Green Line fill allows for the utilization of a typical architectural representation strategy, but instead of employing an ambiguous pattern or objective material, the use of Lefkara lace allows the map to become a form of counter cartography and for the author's views to be made visible. 
+
+**Cypriot Perspective: Country Scale**
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/01_CYPRUS.jpg)
 
+*Cyprus as a unified nation.* The island represented as it is on the Cypriot flag: unified. It is important to note that the majority of Greek-Cypriot and Turkish-Cypriots, and especially the younger generations, desire a unified Cyprus. 
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-**Turkish Perspective**
+**Turkish (Politician) Perspective: Country Scale**
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/02_TURKISH SIDE.jpg)
 
+*Northern Cyprus as center stage.* Maps like this follow the representational strategy employed by political and tourist organizations from the Turkish north side. In these maps, the southern Greek side of the island is greyed out and discounted, represented as an inactive and irrelevant player in their eyes. Again, this perspective is held mainly by politicans, not necessarily by most Turkish-Cypriot individuals. 
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-**British Perspective**
+**British Perspective: Country Scale**
 
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/03_GREEN LINE.jpg)
+
+*British-made Cyprus.* This map depicts all territories created by the British, yet represented in ways that counter the traditional narrative. British bases are depicted in the 'neutral' language of being greyed out, indicating that they should not be active players given that Cypriots declared independence from them over 60 years ago. In addition, although the British drew the Green Line, it is still represented with the Lefkara lace fill, indicating resilience of Cypriots and their right to own the land should be theirs. 
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -184,28 +171,36 @@ Original maps by the author to underscore spatial and political representations 
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/04_ZOOM IN NO CHECKPOINTS.jpg)
 
+*Closed, divided, unreachable.* While these words aptly describe the nature of the Green Line for nearly 30 years, the representation of the Green Line itself attempts to counter that.
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-**Green Line + Buffer Zone: 2023**
+**Green Line + Buffer Zone: Post-2003**
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/06_ZOOM IN W CHECKPOINTS.jpg)
 
+*Opened yet restricted.* Official crossing checkpoints opened the divide between north and south. Yet, while these openings within the Green Line allowed for physical crossing, many Greek-Cypriots chose not to cross because of the emotional toll.
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-**Turkish Perspective**
+**Turkish (Politician) Perspective: Green Line Scale**
 
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/07_ZOOM IN COLORIZED.jpg)
 
+*Turkish-dictated Cyprus, as it stands.* A close-up representation of what the Turkish (politicians) believe is theirs. 
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-**Cypriot Perspective**
+**Cypriot Perspective: Green Line Scale**
 
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/08_ZOOM IN COLOR NO S LINE].jpg)
+
+*Greek-dictated Cyprus, as it stands.* A close-up representation of what Greek-Cypriots understand as theirs, under the current circumstances. Although they believe in a unified Cyprus where all land is rightfully returned, the current circumstances (essentially, a geopolitical stalemate) call for a modified mapping of the Green Line. In this map, the southern portion of the Green Line is removed completely, and the demarcation between the Cypriot size and the neutral zone is erased, thus giving back as much land as possible to Greek-Cypriots.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -213,7 +208,7 @@ Original maps by the author to underscore spatial and political representations 
 ### De-Neutralizing the Neutral Zone  
 
 
-Peace-generating pop-ups within the Buffer Zone.
+Since crossing points have opened between the north and south in 2003, peace-generating pop-ups have started to appear within the Buffer Zone. Co-working spaces promote collaboration between Greek- and Turkish-Cypriots, and media centers and NGOs host events such as screenings of peace-promoting films. These establishments are the beginnings of cultural and political change that show the neutral zone is no longer neutral—that its happenings are no longer predetermined by acts of colonialism or conflict, but by those who want peace.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
