@@ -103,33 +103,33 @@ These methodologies are essential in understanding due reparations to the people
 
 
 
-#### Citations 
+##### Citations 
 
-https://www.vox.com/2018/9/4/17818396/pakistan-aid-military-trump-pompeo-afghanistan
+###### https://www.vox.com/2018/9/4/17818396/pakistan-aid-military-trump-pompeo-afghanistan
 
-https://www.americanprogress.org/article/u-s-aid-to-pakistan-by-the-numbers/
+###### https://www.americanprogress.org/article/u-s-aid-to-pakistan-by-the-numbers/
 
-https://www.wired.com/2011/12/photos-pakistan-drone-war/
+###### https://www.wired.com/2011/12/photos-pakistan-drone-war/
 
-https://www.thenewhumanitarian.org/photo-feature/2022/12/20/Pakistan-flood-survivors-rebuild
+###### https://www.thenewhumanitarian.org/photo-feature/2022/12/20/Pakistan-flood-survivors-rebuild
 
-https://www.rferl.org/a/pakistan-floods-swat-climate-change/32055964.html
+###### https://www.rferl.org/a/pakistan-floods-swat-climate-change/32055964.html
 
-https://www.vox.com/science-and-health/2022/8/30/23327341/pakistan-flooding-monsoon-melting-glaciers-climate-change
+###### https://www.vox.com/science-and-health/2022/8/30/23327341/pakistan-flooding-monsoon-melting-glaciers-climate-change
 
-https://www.bbc.com/news/world-asia-62469448
+###### https://www.bbc.com/news/world-asia-62469448
 
 https://www.cnn.com/2022/08/29/asia/pakistan-flood-damage-imf-bailout-intl-hnk/index.html
 
 
-#### Data Sources
+##### Data Sources
 
-https://opendata.com.pk/dataset/pakistan-drone-attacks-2004-2017
+###### https://opendata.com.pk/dataset/pakistan-drone-attacks-2004-2017
 
-Global Terrorism Data: https://www.start.umd.edu/gtd/
+###### Global Terrorism Data: https://www.start.umd.edu/gtd/
 
-America’s Counterterrorism Wars: The Drone War in Pakistan
+###### America’s Counterterrorism Wars: The Drone War in Pakistan
 
-https://www.newamerica.org/international-security/reports/americas-counterterrorism-wars/the-drone-war-in-pakistan/
+###### https://www.newamerica.org/international-security/reports/americas-counterterrorism-wars/the-drone-war-in-pakistan/
 
 
