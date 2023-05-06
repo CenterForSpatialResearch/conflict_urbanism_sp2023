@@ -62,7 +62,7 @@ Along with these Pakistan has also been continuously under insurgent terrorist a
 
 
 
-#### Swat District
+### Swat District
 
 ![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/Swat.jpeg)
 *Map by Iza Khan*
@@ -71,7 +71,7 @@ The Swat valley faced a huge loss in infrastructural damages that included bridg
 
 
 
-#### Jacoabad
+### Jacoabad
 
 ![Jacoabad Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/jacobabad2.jpeg)
 *Map by Iza Khan*
@@ -84,7 +84,7 @@ Jacobabad is Pakistan’s hottest cities and during the floods it faced great sc
 
 
 
-### CONCLUSION
+#### CONCLUSION
 
 These methodologies are essential in understanding due reparations to the people of Pakistan. The scars of Western imperialism need to be mapped thoroughly to evaluate the number of people displaced, homes damaged and lives lost. The areas most vulnerable to climate change are the ones most neglected by the global community. They have for years gone through irreversible damages imposed through political conflicts, therefore many of these people have witnessed multiple humanitarian crises in their lifetimes. These communities have faced structured apathy through years of conditioning by the western media. The threat of climate change has also gained equal level of indifference and denial because the incidents of damage seem isolated. The day we start thinking of these communities as equal citizens of the global community, the day we start empathizing with the spatial traumas they face is the day we'll take the imminent threat of climate change seriously.  
 
@@ -103,7 +103,7 @@ These methodologies are essential in understanding due reparations to the people
 
 
 
-Citations 
+#### Citations 
 
 https://www.vox.com/2018/9/4/17818396/pakistan-aid-military-trump-pompeo-afghanistan
 
@@ -122,7 +122,7 @@ https://www.bbc.com/news/world-asia-62469448
 https://www.cnn.com/2022/08/29/asia/pakistan-flood-damage-imf-bailout-intl-hnk/index.html
 
 
-Data Sources
+#### Data Sources
 
 https://opendata.com.pk/dataset/pakistan-drone-attacks-2004-2017
 
