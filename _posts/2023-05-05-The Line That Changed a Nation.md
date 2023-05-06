@@ -226,48 +226,30 @@ Nearly 50 years have passed since the invasion and subsequent fracture of the is
 
 #### Bibliography
 
-https://unficyp.unmissions.org/about#:~:text=UNFICYP%20is%20one%20of%20the,a%20return%20to%20normal%20conditions
+“Aging Grand Hotel Highlights the Ethnic Division in Cyprus.” AP NEWS, 26 Apr. 2021, apnews.com/article/nicosia-international-news-europe-cyprus-travel-199a790bddca4ab5a2faef84822070a4.
 
-https://ich.unesco.org/en/RL/lefkara-laces-or-lefkaritika-00255
+Byrne, Kolyn. “Nicosia International Airport - an Abandoned Airport in a Divided City.” World Abandoned, 22 Mar. 2017, www.worldabandoned.com/nicosia-airport.
 
+Constantinides, Marie. “Ledra Palace: Dancing on the Line.” Mosaic, 4 June 2021, mosaic.gr/ledrapalace/.
 
-![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+“Hubris, Nemesis and Lies – Cyprus and the Downfall of the Greek Cypriots in 1974.” Www.t-Vine.com, www.t-vine.com/hubris-nemesis-and-lies-cyprus-and-the-downfall-of-the-greek-cypriots-in-1974/. 
 
+Jack Mac. “Cyprus in Film.” Bicycle Touring Apocalypse, jack-mac.com/cyprus-in-film.
 
-#### Image Credits  
+Lepp, Billy Tusker Haworth, Catherine Arthur, Eric. “Graffiti in Cyprus Paints a Rich and Complex Picture of This Divided Society.” NEOS KOSMOS, 10 July 2019, neoskosmos.com/en/2019/07/11/news/cyprus/graffiti-in-cyprus-paints-a-rich-and-complex-picture-of-this-divided-society/.
 
-https://www.tiggerbird.com/green-line-cyprus/
-above is for your wall cannot divide us
+“Military Histories - a Green Line Is Drawn.” Www.militaryhistories.co.uk, www.militaryhistories.co.uk/greenline/line2.
 
+NEOS KOSMOS. “On This Day 46 Years Ago... Turkey Invades Cyprus.” NEOS KOSMOS, 19 July 2020, neoskosmos.com/en/2020/07/20/news/cyprus/on-this-day-46-years-ago-turkey-invades-cyprus/.
 
-https://neoskosmos.com/en/2019/07/11/news/cyprus/graffiti-in-cyprus-paints-a-rich-and-complex-picture-of-this-divided-society/
-unity in peace graffiti
+Sideridis, Dimitris. “Nicosia International Airport: The Cypriot Airport Abandoned for 44 Years.” CNN, 6 June 2018, www.cnn.com/travel/article/nicosia-airport-abandoned-cyprus/index.html.
 
-https://neoskosmos.com/en/2020/07/20/news/cyprus/on-this-day-46-years-ago-turkey-invades-cyprus/
-loss of homes
+Tiggerbird. “Exploring the Green Line in Cyprus.” Tiggerbird’s Travels, 21 Apr. 2019, www.tiggerbird.com/green-line-cyprus/.
 
-https://www.militaryhistories.co.uk/greenline/line2
-green line
+“The Ledra Palace Hotel – Nonument.” Nonument.org, nonument.org/nonuments/the-ledra-palace-hotel/.
 
-http://jack-mac.com/cyprus-in-film
-northern cyprus
+UNESCO. “UNESCO - Lefkara Laces or Lefkaritika.” Ich.unesco.org, ich.unesco.org/en/RL/lefkara-laces-or-lefkaritika-00255.
 
-https://www.t-vine.com/hubris-nemesis-and-lies-cyprus-and-the-downfall-of-the-greek-cypriots-in-1974/
-invasion
-
-https://www.worldabandoned.com/nicosia-airport
-airport before and after
-
-https://nonument.org/nonuments/the-ledra-palace-hotel/
-ledra before ARTos Foundation/MAPS
-
-https://apnews.com/article/nicosia-international-news-europe-cyprus-travel-199a790bddca4ab5a2faef84822070a4
-ledra after
-
-https://mosaic.gr/ledrapalace/
-ledra palace battle
-
-https://www.cnn.com/travel/article/nicosia-airport-abandoned-cyprus/index.html
-airport after
+United Nations. "United Nations Peacekeeping Force in Cyprus: About" UNFICYP, 7 May 2014, unficyp.unmissions.org/about#:text=UNFICYP%20is%20one%20of%20the.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
