@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+<style>
+  .enlarged {
+    cursor: pointer;
+    max-width: 100%;
+    transition: all 0.3s;
+  }
+
+  .enlarged.zoomed {
+    max-width: 200%;
+  }
+</style>
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -27,4 +39,19 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+<script>
+  function addImageClickHandler() {
+    var images = document.querySelectorAll('.post-content img');
+    images.forEach(function (image) {
+      image.classList.add('enlarged');
+      image.addEventListener('click', function () {
+        this.classList.toggle('zoomed');
+      });
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', addImageClickHandler);
+</script>
+
 </article>
