@@ -45,8 +45,7 @@ Drone strikes were an inhumane and inaccurate system of determining who a milita
 
 ![Bomb Blast in Peshawar](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism1.jpg)
 
-![Mapping Out Insurgent Bombings](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism.jpeg)
-*Mostly Situated in Khyber Pakhtunkhwa, Data from Global Terrorism Database*
+<iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1d098056-ebaa-11ed-b5bd-6595d9b17862"></iframe>
 
 
 #### Consolidating 
@@ -65,7 +64,6 @@ The Swat valley faced a huge loss in infrastructural damages that included bridg
 
 ![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/SwatNews.png)
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="2480" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fd68a3f8-e9d8-11ed-b5bd-6595d9b17862"></iframe>
 
 ## Jacoabad
 
