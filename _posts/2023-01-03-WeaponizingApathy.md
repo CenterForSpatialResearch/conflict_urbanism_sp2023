@@ -68,6 +68,7 @@ Jacobabad is Pakistan’s hottest cities and during the floods it faced great sc
 
 #### CONCLUSION
 
+These methodologies are essential in understanding due reparations to the people of Pakistan. The scars of Western imperialism need to be mapped thoroughly to evaluate the number of people displaced, homes damaged and lives lost. The areas most vulnerable to climate change are the ones most neglected by the global community. They have for years gone through irreversible damages imposed through political conflicts, therefore many of these people have witnessed multiple humanitarian crises in their lifetimes. These communities have faced structured apathy through years of conditioning by the western media. The threat of climate change has also gained equal level of indifference and denial because the incidents of damage seem isolated. The day we start thinking of these communities as equal citizens of the global community, the day we start empathizing with the spatial traumas they face is the day we'll take the imminent threat of climate change seriously.  
 
 
 
