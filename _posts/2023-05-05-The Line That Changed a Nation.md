@@ -37,7 +37,7 @@ Cyprus is a small island in the Mediterranean Sea located south of Turkey and we
 
 **Independence and a Brief Period of Peace**
 
-The nuances of Cyprus's history and political control by the Ottoman Empire, Greece, and England go beyond the scope of this project—for the sake of brevity and maintain focus on the aftermath of the invasion, this summary will begin in 1960 when Cyprus became an independent republic, free of British rule (although two large British bases remain on the island to this day). Cyprus's new constitution allocated separate control to Greek- and Turkish-Cypriot municipalities in an attempt to satisfy both communities and prevent conflict; however, just four years later, these concessions proved unsuccessful. By 1964, armed conflict between Greeks and Turks rose to a level of alarm that required UN intervention by sending peacekeeping forces to the island. To this day, the UN remains in Cyprus in one of its longest-ever peacekeeping missions. 
+The nuances of Cyprus's history and political control by the Ottoman Empire, Greece, and England go beyond the scope of this project—for the sake of brevity and to maintain focus on the aftermath of the invasion, this historical summary begins in 1960 when Cyprus became an independent republic, free of British rule (although two large British bases remain on the island to this day). Cyprus's new constitution allocated separate control to Greek- and Turkish-Cypriot municipalities in an attempt to satisfy both communities and prevent conflict; however, just four years later, these concessions proved unsuccessful.  
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/independence.jpg)
 
@@ -47,7 +47,7 @@ The nuances of Cyprus's history and political control by the Ottoman Empire, Gre
 
 **Drawing the Green Line**  
 
-Fighting escalated to a point at which Cypriot forces accepted the British taking control of local troops. British Major General Young embarked on a set of discussions and concessions with Greek and Turkish National Contingents. Attempting to appease both sides, he began drawing a line on one of his maps of Cyprus to separate the Greek south from the Turkish north. General Young's selection of a green pencil was no random choice—blue and red were out of the question given that they were associated both with the British flag (the former enemy) and with the Greek and Turkish flags. Green was associated with military fortifications and was the most 'neutral' color choice. General Young went back and forth with Greek and Turkish representatives, erasing and re-drawing the line until both sides were in agreement. And just like that, the Green Line was born, and a country divided. Although the Green Line was meant to be a temporary step to restore peace between the two sides, it became a permanent and impassable part of the island after the Turkish Invasion of 1974. 
+By 1964, armed conflict between Greeks and Turks rose to a level of alarm that required UN intervention: sending peacekeeping forces to the island (to this day, the UN remains in Cyprus in one of its longest-ever peacekeeping missions). Despite efforts by the UN to control the fighting, tensions continued to rise and the Cypriot military eventually accepted intervention by the British as well. Their troops took control and oversight of local Cypriot and Turkish military units,and British Major General Young embarked on a set of discussions and concessions with Greek and Turkish National Contingents. Attempting to appease both sides, he began drawing a line on one of his maps of Cyprus to separate the Greek south from the Turkish north. General Young's selection of a green pencil was no random choice—blue and red were out of the question given that they were associated both with the British flag (the former enemy) and with the Greek and Turkish flags. Green, he argued, was associated with military fortifications and was the most 'neutral' color choice. General Young went back and forth with Greek and Turkish representatives, erasing and re-drawing the line until both sides were in agreement. And just like that, the Green Line was born, and a country divided. Although the Green Line was meant to be a temporary step to restore peace between the two sides, it became a permanent and impassable part of the island after the Turkish Invasion of 1974. 
 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/green line.jpg)
@@ -58,7 +58,7 @@ Fighting escalated to a point at which Cypriot forces accepted the British takin
 
 **The Invasion of 1974**  
 
-Continued violence between the two sides following the events of 1964 up until 1974 when the conflict came to a turning point. Greek nationalists attempted a military coup, which Turkey took as a threat and subsequently sent forces to invade the island in what they called a "peacekeeping mission." Turkey took control of the northern half of the island, and all Greek-Cypriots living in the north were immediately forced from their homes, and Turkish-Cypriots in the south part of the island were relocated to the north. To this day, no country (nor the UN) other than Turkey recognizes the so-called 'Northern Republic of Cyprus.' 
+Continued violence between the two sides followed the events of 1964 and persisted up until 1974 when the conflict came to a boiling point. Greek nationalists attempted a military coup, which Turkey took as a threat and subsequently sent forces to invade the island in what they called a "peacekeeping mission." Turkey took control of the northern half of the island, and all Greek-Cypriots living in the north were immediately forced from their homes, and Turkish-Cypriots in the south were relocated to the north. To this day, no country (nor the UN) other than Turkey recognizes the so-called 'Northern Republic of Cyprus.' 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/invasion.png)
 
@@ -69,7 +69,7 @@ Continued violence between the two sides following the events of 1964 up until 1
 
 **The Aftermath**  
 
-Over 200,000 Cypriots were displaced from their own homes and became refugees in their own country overnight. Given the continued division of the island and the emotional trauma, most of them have never gone back to their own homes. The division of the capital city of Nicosia creates a painful and delicate tension in that some Greek-Cypriots have lived less than a mile from their old homes and memories, yet are remain refugees. It wasn't until 2003 that border crossings opened between the two sides. Even after the crossings opened, many decided not to go to the Turkish side. To this day, in order to cross to the Turkish side, Greek-Cypriots are required to show their passport at crossing points.   
+Over 200,000 Cypriots were displaced from their own homes and became refugees in their own country overnight. The division of the capital city of Nicosia creates a painful and delicate tension in which some Greek-Cypriots have lived less than a mile from their old homes and memories, yet are remain refugees. It wasn't until 2003 that border crossings opened between the two sides. Even after the crossings opened, many decided not to go to the Turkish side either in protest or due to the emotional trauma they endured. To this day, in order to cross to the Turkish side, Greek-Cypriots are required to show their passport at crossing points.   
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/loss.jpg)
 
@@ -80,11 +80,11 @@ Over 200,000 Cypriots were displaced from their own homes and became refugees in
 
 ### INSIDE THE GREEN LINE: THEN AND NOW 
 
-The drawing of the Green Line not only affected the forced migration of people on either side of the line, but it also deeply affected Cypriot symbols of culture within the Green Line that were essentially 'neutralized' due to their location within the buffer zone. Furthermore, the way in which the Green Line is drawn in maps today—usually greyed out—underscores the implication that artifacts of culture within the Buffer Zone are disregarded and 'neutralized' themselves. This section calls out two of the most pertinent examples of 'neutralized' culture.
+The drawing of the Green Line not only affected the forced migration of Cypriots on either side of the line, but it also deeply affected the nation's symbols of culture within the Green Line that were 'neutralized' due to their location within the Buffer Zone. Furthermore, the way in which the Green Line is drawn in maps today—usually greyed out—underscores the implication that artifacts of culture within the Buffer Zone are disregarded and 'neutralized' themselves. This section calls out two of the most pertinent examples of 'neutralized' culture.
 
 **The Nicosia International Airport**
 
-The first example is Nicosia's airport: it was set to become a travel hub for the Mediterranean and Middle East, brining in tourists from around the world and exhibiting all that Cyprus has to offer. Now, it sits abandoned and in disrepair—untouched since it was deserted in 1974.  
+First is Nicosia's airport: it was set to become a travel hub for the Mediterranean and the Middle East, bringing in tourists from around the world and exhibiting all that Cyprus has to offer. Now, it sits abandoned and in disrepair—untouched since it was deserted in 1974.  
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -109,7 +109,7 @@ The first example is Nicosia's airport: it was set to become a travel hub for th
 
 **Ledra Palace Hotel**
 
-Second is Ledra Palace: once one of Nicosia's most upscale hotels that was home to celebrations for upper-class Cypriots and a symbol of the city and country's prosperity from its opening in 1949. After the first conflicts broke out in 1964, the UN's peacekeeping forces have set up shop within the once-glitzy hotel walls, and its common areas converted to spaces for peacekeeping talks between Greek and Turkish politicians. As of 2004, it became the site of an official crossing point between the north and the south.
+Second is Ledra Palace: once one of Nicosia's most upscale hotels that was home to celebrations for upper-class Cypriots and a symbol of the city and country's prosperity starting from its opening in 1949. After the first conflicts broke out in 1964, the UN's peacekeeping forces have set up shop within the once-glitzy hotel walls, and its common areas converted to spaces for peacekeeping talks between Greek and Turkish politicians. As of 2004, it also became the site of an official crossing point between the north and the south.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -137,13 +137,13 @@ Second is Ledra Palace: once one of Nicosia's most upscale hotels that was home 
 
 The below maps by the author underscore spatial and political representations of Cyprus at the country- and city-scale. These maps are interpretations and re-creations of how various parties have chosen to represent Cyprus and the Green Line based on their political views. Each map becomes a form of counter cartography, political power play, or a social construct.
 
-A careful selection of the 'fill' of the Green Line in these maps as Lefkara lace—recognized by UNESCO as part of the Representative List of the Intangible Cultural Heritage of Humanity—is made to underscore the persistence of Cypriot culture and the strength of its people despite the unimaginable suffering endured being a refugee in one's own country. Using this pattern for the Green Line fill allows for the utilization of a typical architectural representation strategy, but instead of employing an ambiguous pattern or objective material, the use of Lefkara lace allows the map to become a form of counter cartography and for the author's views to be made visible. 
+A careful selection of the 'fill' of the Green Line in these maps as Lefkara lace—recognized by UNESCO as part of the Representative List of the Intangible Cultural Heritage of Humanity—is made to highlight the persistence of Cypriot culture and the strength of its people despite the unimaginable suffering they have endured. Using this pattern for the Green Line fill allows for the utilization of a typical architectural representation strategy, but instead of employing an ambiguous pattern or objective material as a fill, the use of Lefkara lace transforms the map into a form of counter cartography, making visible the author's own views. 
 
 **Cypriot Perspective: Country Scale**
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/01_CYPRUS.jpg)
 
-*Cyprus as a unified nation.* The island represented as it is on the Cypriot flag: unified. It is important to note that the majority of Greek-Cypriot and Turkish-Cypriots, and especially the younger generations, desire a unified Cyprus. 
+*Cyprus as a unified nation.* The island represented as it is on the Cypriot flag: unified. It is important to note that the majority of Greek-Cypriot and Turkish-Cypriots, and especially the younger generations, desire a unified Cyprus; thus, the 'Cypriot' perspective often becomes the Cypriot + Turkish non-politician view. 
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -162,7 +162,7 @@ A careful selection of the 'fill' of the Green Line in these maps as Lefkara lac
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/03_GREEN LINE.jpg)
 
-*British-made Cyprus.* This map depicts all territories created by the British, yet represented in ways that counter the traditional narrative. British bases are depicted in the 'neutral' language of being greyed out, indicating that they should not be active players given that Cypriots declared independence from them over 60 years ago. In addition, although the British drew the Green Line, it is still represented with the Lefkara lace fill, indicating resilience of Cypriots and their right to own the land should be theirs. 
+*British-made Cyprus.* This map depicts all territories created by the British, yet represented in ways that counter the traditional narrative. British bases are depicted in the 'neutral' language of being greyed out, indicating that they should not be active players given that Cypriots declared independence from them over 60 years ago. In addition, although the British drew the Green Line, it is still represented with the Lefkara lace fill, indicating resilience of Cypriots and their right to own the land that should be theirs. 
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -200,7 +200,7 @@ A careful selection of the 'fill' of the Green Line in these maps as Lefkara lac
 
 ![cyprus](/conflict_urbanism_sp2023/images/Cyprus/08_ZOOM IN COLOR NO S LINE].jpg)
 
-*Greek-dictated Cyprus, as it stands.* A close-up representation of what Greek-Cypriots understand as theirs, under the current circumstances. Although they believe in a unified Cyprus where all land is rightfully returned, the current circumstances (essentially, a geopolitical stalemate) call for a modified mapping of the Green Line. In this map, the southern portion of the Green Line is removed completely, and the demarcation between the Cypriot size and the neutral zone is erased, thus giving back as much land as possible to Greek-Cypriots.
+*Greek-dictated Cyprus, as it stands.* A close-up representation of what Greek-Cypriots understand as theirs, under the current circumstances. Although they believe in a unified Cyprus where all land is rightfully returned, the current circumstances (essentially, a geopolitical stalemate) call for a modified mapping of the Green Line. In this map, the southern portion of the Green Line is removed completely, and the demarcation between the Cypriot side and the Neutral Zone is erased, thus giving back as much land as possible to Greek-Cypriots.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -208,14 +208,14 @@ A careful selection of the 'fill' of the Green Line in these maps as Lefkara lac
 ### De-Neutralizing the Neutral Zone  
 
 
-Since crossing points have opened between the north and south in 2003, peace-generating pop-ups have started to appear within the Buffer Zone. Co-working spaces promote collaboration between Greek- and Turkish-Cypriots, and media centers and NGOs host events such as screenings of peace-promoting films. These establishments are the beginnings of cultural and political change that show the neutral zone is no longer neutral—that its happenings are no longer predetermined by acts of colonialism or conflict, but by those who want peace.
+Since crossing points have opened between the north and south in 2003, peace-generating pop-ups have started to appear within the Buffer Zone. Co-working spaces promote collaboration between Greek- and Turkish-Cypriots, and media centers and NGOs host events such as screenings of peace-promoting films. These establishments are the beginnings of cultural and political change that show the neutral zone is no longer neutral—that its happenings are no longer predetermined by acts of colonialism or conflict, but by those who strive toward peace.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
 ### Conclusion  
 
-Nearly 50 years have passed since the invasion and subsequent fracture of the island of Cyprus. While tensions have eased and crossing points between the two sides have opened, reunification talks throughout the years have all ended in stalemates. Sentiments among the younger generations on both sides support a unified Cyprus and a future living together in harmony, yet politicians' agendas prevail again and again. Despite the seemingly never-ending stalemate, it is critical that the ways in which the division of the island is represented have a seat at the table during these talks. We often assume maps are objective sources of truth, and final products not to be changed; however, under the circumstances of the Green Line in which the nuances of mapping become contested geopolitical grounds, the maps themselves become subjective documentation of the world we want to see. 
+Nearly 50 years have passed since the invasion and subsequent fracture of the island of Cyprus. While tensions have eased and crossing points between the two sides have opened, reunification talks throughout the years have all ended in stalemates. Sentiments among the younger generations on both sides support a unified Cyprus and a future living together in harmony, yet politicians' agendas prevail again and again. Despite the seemingly never-ending stalemate, it is critical that the ways in which the division of the island is represented have a seat at the table during these talks. We often assume maps are objective sources of truth, and final products not to be changed; however, under the circumstances of the Green Line in which the nuances of mapping become contested geopolitical grounds, the maps themselves must become subjective documentation of the world we want to see. 
 
 ![sign](/conflict_urbanism_sp2023/images/Cyprus/northern cyprus.jpeg)
 
