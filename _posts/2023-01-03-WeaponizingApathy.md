@@ -23,11 +23,7 @@ The damage caused by the floods was estimated to be around 30 Billion dollars by
 
 
 
-#### **ABSTRACT**
-
-
-
-Before the United States military departed from Afghanistan Donal Trump stated in his Presidency the following: 
+#### Before the United States military departed from Afghanistan Donal Trump stated in his Presidency the following: 
 
 
 ![From Vox](/conflict_urbanism_sp2023/images/WeaponizingApathy/DonaldTrump.png)
