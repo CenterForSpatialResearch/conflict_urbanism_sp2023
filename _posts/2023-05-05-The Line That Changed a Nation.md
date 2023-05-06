@@ -17,6 +17,7 @@ Nicosia, Cyprus is the world's last divided capital city. The decades-long stale
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 ![explanatory graffiti](/conflict_urbanism_sp2023/images/Cyprus/unity in peace.jpg)
+
 <sub>*Unity in Peace.* Source: Neos Kosmos.</sub>
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
@@ -35,6 +36,7 @@ Cyprus is a small island in the Mediterranean Sea located south of Turkey and we
 The nuances of Cyprus's history and political control by the Ottoman Empire, Greece, and England go beyond the scope of this project—for the sake of brevity and to keep the focus on the aftermath of the invasion, this summary will begin in 1960 when Cyprus became an independent republic, free of British rule (although two large British bases remain on the island to this day). Cyprus's new constitution allocated separate control to Greek- and Turkish-Cypriot municipalities in an attempt to satisfy both communities and prevent conflict; however, just four years later these concessions proved unsuccessful. By 1964, armed conflict between Greeks and Turks rose to a level of alarm that required the UN to intervene by sending peacekeeping forces to the island. To this day, the UN remains in Cyprus in one of its longest-ever peacekeeping missions. 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/independence.jpg)
+
 <sub>*Celebration of Cypriot Independence.* Source: Military Histories: The Green Line in Cyprus.</sub>
 
 **Drawing the Green Line**  
@@ -43,6 +45,7 @@ Fighting escalated to a point at which Cypriot forces accepted putting troops un
 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/green line.jpg)
+
 <sub>*The original Green Line is drawn.* Source: Military Histories: The Green Line in Cyprus.</sub>
 
 **The Invasion of 1974**  
@@ -50,6 +53,7 @@ Fighting escalated to a point at which Cypriot forces accepted putting troops un
 Continued violence between the two sides following the events of 1964 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/invasion.png)
+
 <sub>*Turkish forces storm the streets during the 1974 invasion.* Source: T-Vine.</sub>
 
 
@@ -58,6 +62,7 @@ Continued violence between the two sides following the events of 1964
 Over 200,000 Cypriots were displaced from their own homes and became refugees in their own country overnight. Given the continued division of the island and the emotional trauma, most of them have never gone back to their own homes. The division of the capital city of Nicosia creates a painful and delicate tension in that some Greek-Cypriots have lived less than a mile from their old homes and memories, yet are remain refugees. It wasn't until 2003 that border crossings opened between the two sides. Even after the crossings opened, many decided not to go to the Turkish side. To this day, in order to cross to the Turkish side, Greek-Cypriots are required to show their passport at crossing points.   
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/loss.jpg)
+
 <sub>*Greek Cypriots cry over the loss of their homes.* Source: Neos Kosmos.</sub>
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
@@ -77,7 +82,8 @@ Over 200,000 Cypriots were displaced from their own homes and became refugees in
 Land divided, land untouched. Much of the territory within the Green Line has been left completely untouched since 1974. Nicosia's airport was set to become a travel hub for the Mediterranean and Middle East, yet now sits abandoned and in decay.
 
 ![sign](/conflict_urbanism_sp2023/images/Cyprus/no mans land.jpg)
-<sub>*The Buffer Zone.* Source: Tiggerbird's Travels.</sub>
+
+*The Buffer Zone.* Source: Tiggerbird's Travels.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -168,7 +174,8 @@ Peace-generating pop-ups within the Buffer Zone.
 Nearly 50 years have passed since the invasion and subsequent fracture of the island of Cyprus. While tensions have eased and crossing points between the two sides have opened, reunification talks throughout the years have all ended in stalemates. Sentiments among the younger generations on both sides support a unified Cyprus and a future living together in harmony, yet politicians' agendas prevail again and again. Despite the seemingly never-ending stalemate, it is critical that the ways in which the division of the island is represented have a seat at the table during these talks. We often assume maps are objective sources of truth, and final products not to be changed; however, under the circumstances of the Green Line in which the nuances of mapping become contested geopolitical grounds, the maps themselves become subjective documentation of the world we want to see. 
 
 ![sign](/conflict_urbanism_sp2023/images/Cyprus/northern cyprus.jpeg)
-<sub>*Northern Cyprus: Land Unseen.* Source: Jack Mac.</sub>
+
+*Northern Cyprus: Lands Unseen for 50 Years.* Source: Jack Mac.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
