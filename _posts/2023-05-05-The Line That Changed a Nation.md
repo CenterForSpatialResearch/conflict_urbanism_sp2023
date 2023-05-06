@@ -18,7 +18,7 @@ Nicosia, Cyprus is the world's last divided capital city. The decades-long stale
 
 ![explanatory graffiti](/conflict_urbanism_sp2023/images/Cyprus/unity in peace.jpg)
 
-<sub>*Unity in Peace.* Source: Neos Kosmos.</sub>
+*Unity in Peace.* Source: Neos Kosmos.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -37,7 +37,7 @@ The nuances of Cyprus's history and political control by the Ottoman Empire, Gre
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/independence.jpg)
 
-<sub>*Celebration of Cypriot Independence.* Source: Military Histories: The Green Line in Cyprus.</sub>
+*Celebration of Cypriot Independence.* Source: Military Histories: The Green Line in Cyprus.
 
 **Drawing the Green Line**  
 
@@ -46,7 +46,7 @@ Fighting escalated to a point at which Cypriot forces accepted putting troops un
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/green line.jpg)
 
-<sub>*The original Green Line is drawn.* Source: Military Histories: The Green Line in Cyprus.</sub>
+*The original Green Line is drawn.* Source: Military Histories: The Green Line in Cyprus.
 
 **The Invasion of 1974**  
 
@@ -54,7 +54,7 @@ Continued violence between the two sides following the events of 1964
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/invasion.png)
 
-<sub>*Turkish forces storm the streets during the 1974 invasion.* Source: T-Vine.</sub>
+*Turkish forces storm the streets during the 1974 invasion.* Source: T-Vine.
 
 
 **The Aftermath**  
@@ -63,7 +63,7 @@ Over 200,000 Cypriots were displaced from their own homes and became refugees in
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/loss.jpg)
 
-<sub>*Greek Cypriots cry over the loss of their homes.* Source: Neos Kosmos.</sub>
+*Greek Cypriots cry over the loss of their homes.* Source: Neos Kosmos.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
