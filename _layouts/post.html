@@ -5,11 +5,12 @@ layout: default
   .enlarged {
     cursor: pointer;
     max-width: 100%;
-    transition: all 0.3s;
+    transition: transform 0.3s;
+    transform-origin: center;
   }
 
   .enlarged.zoomed {
-    max-width: 200%;
+    transform: scale(2);
   }
 </style>
 
