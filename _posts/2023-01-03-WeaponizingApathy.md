@@ -14,7 +14,7 @@ author: "Iza Khan"
 
 
 
-This project aims to understand systems of apathy generated through mistrust and alienation of a singular community. During the floods that hit Pakistan President Biden stated;  “Pakistan is one of the most dangerous nations" in the world with "nuclear weapons without any cohesion"  This statement holds a certain level of irresponsibility towards a nation going through a dire humanitarian crisis which killed 1,739 people, and destroyed 1.7 million homes. These floods stemmed from unprecedented rainfall. These floods were a direct result of global climate change. Statistically, Pakistan accounts for around 0.6% of the world's greenhouse gas emissions, even though it makes up nearly 2.7% of the global population. China is the world's biggest emitter, at 32.5%, and while the US is second, accounting for 12.6%, it has historically been the biggest emitter globally. Yet, the global narrative surrounding these floods was one of indifference built through a vague understanding of isolated media reports. 
+This project aims to understand systems of apathy generated through mistrust and alienation of a community. During the floods that hit Pakistan President Biden stated;  “Pakistan is one of the most dangerous nations" in the world with "nuclear weapons without any cohesion". This statement holds a certain level of irresponsibility towards a nation going through a dire humanitarian crisis which killed 1,739 people, and destroyed 1.7 million homes. These floods stemmed from unprecedented rainfall, which were a direct result of global climate change. Statistically, Pakistan accounts for around 0.6% of the world's greenhouse gas emissions, even though it makes up nearly 2.7% of the global population. China is the world's biggest emitter, at 32.5%, and while the US is second, accounting for 12.6%, it has historically been the biggest emitter globally. Yet, the global narrative surrounding these floods was one of indifference built through a vague understanding of isolated media reports. 
 
 
 
@@ -119,7 +119,7 @@ These methodologies are essential in understanding due reparations to the people
 
 ###### https://www.bbc.com/news/world-asia-62469448
 
-https://www.cnn.com/2022/08/29/asia/pakistan-flood-damage-imf-bailout-intl-hnk/index.html
+###### https://www.cnn.com/2022/08/29/asia/pakistan-flood-damage-imf-bailout-intl-hnk/index.html
 
 
 ##### Data Sources
