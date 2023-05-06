@@ -7,19 +7,28 @@ author: "Iza Khan"
 ---
 #### **How do we begin to unravel the multiscalar spatial traumas that the global south goes through?**  
 
-This project aims to understand systems of apathy generated through mistrust and alienation of a singular community. During the floods that hit Pakistan President Biden stated;  “Pakistan is one of the most dangerous nations" in the world with "nuclear weapons without any cohesion"  This statement holds a certain level of irresponsibility towards a nation going through a dire humanitarian crisis which killed 1,739 people, and destroyed 1.7 million homes. These floods stemmed from unprecedented rainfall. These floods were a direct result of global climate change. Statistically, Pakistan accounts for around 0.6% of the world's greenhouse gas emissions, even though it makes up nearly 2.7% of the global population. China is the world's biggest emitter, at 32.5%, and while the US is second, accounting for 12.6%, it has historically been the biggest emitter globally. Yet, the global narrative surrounding these floods was one of indifference built through a vague understanding of isolated media reports. 
 
 ![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeaponizingApathy/PakFloods1.jpg)
-*Pakistan Flood, by Iza Khan*
+*Pakistan Flood*
 
-## The damage caused by the floods was estimated to be around 30 Billion dollars by the UN. Can this cost estimation be stated as humanitarian aid? Or should it be claimed as climate reparations to the people of Pakistan. A developing nation subjugated to years of conflict and constructed climate disasters. 
+
+This project aims to understand systems of apathy generated through mistrust and alienation of a singular community. During the floods that hit Pakistan President Biden stated;  “Pakistan is one of the most dangerous nations" in the world with "nuclear weapons without any cohesion"  This statement holds a certain level of irresponsibility towards a nation going through a dire humanitarian crisis which killed 1,739 people, and destroyed 1.7 million homes. These floods stemmed from unprecedented rainfall. These floods were a direct result of global climate change. Statistically, Pakistan accounts for around 0.6% of the world's greenhouse gas emissions, even though it makes up nearly 2.7% of the global population. China is the world's biggest emitter, at 32.5%, and while the US is second, accounting for 12.6%, it has historically been the biggest emitter globally. Yet, the global narrative surrounding these floods was one of indifference built through a vague understanding of isolated media reports. 
+
+
+
+The damage caused by the floods was estimated to be around 30 Billion dollars by the UN. Can this cost estimation be stated as humanitarian aid? Or should it be claimed as climate reparations to the people of Pakistan. A developing nation subjugated to years of conflict and constructed climate disasters. 
 
 ![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeaponizingApathy/Flood.jpeg)
 *Map of Flood Extent, by Iza Khan*
 
+
+
 #### **ABSTRACT**
 
+
+
 Before the United States military departed from Afghanistan Donal Trump stated in his Presidency the following: 
+
 
 ![From Vox](/conflict_urbanism_sp2023/images/WeaponizingApathy/DonaldTrump.png)
 *Why Trump cut millions in military aid to Pakistan*
@@ -39,25 +48,33 @@ Along with these Pakistan has also been continuously under insurgent terrorist a
 
 ![Bomb Blast in Peshawar](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism1.jpg)
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1d098056-ebaa-11ed-b5bd-6595d9b17862"></iframe>
 
 
-#### Consolidating 
+<iframe frameborder="0" class="juxtapose" width="100%" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1d098056-ebaa-11ed-b5bd-6595d9b17862"></iframe>
 
-This particular project builds on two key spatial traumas and overlays the data to find points of global isolation. 
+
+
+
+
+
 
 ![Mapping Out Collective Conflict](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism+Flood.jpeg)
+*Map by Iza Khan*
 
-Specifically, for the two cities who have been living at the frontlines of both these issues. 
 
-## Swat District
+
+## This particular project builds on two key spatial traumas and overlays the data to find points of global isolation. Specifically, for the two cities who have been living at the frontlines of both these issues. 
+
+
+#### Swat District
 
 ![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/SwatNews.png)
 
 The Swat valley faced a huge loss in infrastructural damages that included bridges and mosques, the roads between Bahrain and Kalam which was built in 2018 for Rs10 billion cost, were washed away due to the intense floods. Swat has also been on the frontlines of the terrorism conflict throughout the years and is seeing a rise in terrorist activities due to the growing threat of TTP (Tehreek-e-Taliban Pakistan)
 
 
-## Jacoabad
+
+#### Jacoabad
 
 ![Jacoabad Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/jacobabad2.jpeg)
 
@@ -66,9 +83,14 @@ Jacobabad is Pakistan’s hottest cities and during the floods it faced great sc
 
 
 
-#### CONCLUSION
+## CONCLUSION
 
 These methodologies are essential in understanding due reparations to the people of Pakistan. The scars of Western imperialism need to be mapped thoroughly to evaluate the number of people displaced, homes damaged and lives lost. The areas most vulnerable to climate change are the ones most neglected by the global community. They have for years gone through irreversible damages imposed through political conflicts, therefore many of these people have witnessed multiple humanitarian crises in their lifetimes. These communities have faced structured apathy through years of conditioning by the western media. The threat of climate change has also gained equal level of indifference and denial because the incidents of damage seem isolated. The day we start thinking of these communities as equal citizens of the global community, the day we start empathizing with the spatial traumas they face is the day we'll take the imminent threat of climate change seriously.  
+
+
+
+
+
 
 
 
