@@ -12,8 +12,9 @@ author: "Katerina Gregoriou"
 
 ### INTRODUCTION  
 
-Project overview and importance.
+Nicosia, Cyprus is the world's last divided capital city. The decades-long stalemate between Greek-Cypriots and Turkish-Cypriots over the UN-controlled Green Line—also known as the Buffer Zone, Neutral Zone, Dead Zone, and No Man's Land—has resulted in politically and socially charged mappings of the island. A simple search for "map of Cyprus" yields dozens of interpretations of ethnic and geopolitical divisions at the scale of the country, with additional nuances coming to light at the scale of the Green Line. This project provides a brief overview of the events that led to the drawing of the Green Line, the perspectives from which the country and the Green Line are mapped, and the implications of these cartographic representations.   
 
+![explanatory graffiti](/conflict_urbanism_sp2023/images/Cyprus/unity in peace.jpg)
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -140,9 +141,19 @@ Peace talks and the future of the Green Line.
 
 ### Bibliography
 
+https://unficyp.unmissions.org/about#:~:text=UNFICYP%20is%20one%20of%20the,a%20return%20to%20normal%20conditions
+
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
 #### Image Credits  
+
+https://www.tiggerbird.com/green-line-cyprus/
+above is for your wall cannot divide us
+
+
+https://neoskosmos.com/en/2019/07/11/news/cyprus/graffiti-in-cyprus-paints-a-rich-and-complex-picture-of-this-divided-society/
+unity in peace graffiti
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
