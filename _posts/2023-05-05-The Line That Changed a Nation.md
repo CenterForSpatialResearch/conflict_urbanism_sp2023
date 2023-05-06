@@ -18,7 +18,7 @@ Nicosia, Cyprus is the world's last divided capital city. The decades-long stale
 
 ![explanatory graffiti](/conflict_urbanism_sp2023/images/Cyprus/unity in peace.jpg)
 
-*Unity in Peace.* Source: Neos Kosmos.
+*Unity in Peace.* Street art in Cyprus depicting repercussions of the country's divide. Source: Neos Kosmos.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -27,34 +27,44 @@ Nicosia, Cyprus is the world's last divided capital city. The decades-long stale
 
 The events that led to the 1974 Turkish invasion of Cyprus are complex, span decades of conflict, and involve atrocities and conflict spurred both by Greek- and Turkish-Cypriots. The scope of this project focuses on the spatial and representational consequences of the events of the summer of 1974.
 
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
 **The Island of Cyprus** 
 
-Cyprus is a small island in the Mediterranean Sea located south of Turkey and west of Israel and is home to both Greek- and Turkish-Cypriots. Ethnically, Greek-Cypriots compose the majority of the population—before the war, Turkish-Cypriots lived throughout the island, generally clustered together with other Turkish-Cypriots. Importantly, both ethnic groups lived together throughout the entirety of the island before the first conflict began. 
+Cyprus is a small island in the Mediterranean Sea located south of Turkey and west of Syria that is home to both Greek- and Turkish-Cypriots; ethnically, however, Greek-Cypriots compose the majority of the population. Before the war the two ethnic groups both lived throughout the island, although Turkish-Cypriots tended to live among other Turkish-Cypriots in smaller communities. Post-conflict, the island was split into the Turkish north and the Greek south. 
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 **Independence and a Brief Period of Peace**
 
-The nuances of Cyprus's history and political control by the Ottoman Empire, Greece, and England go beyond the scope of this project—for the sake of brevity and to keep the focus on the aftermath of the invasion, this summary will begin in 1960 when Cyprus became an independent republic, free of British rule (although two large British bases remain on the island to this day). Cyprus's new constitution allocated separate control to Greek- and Turkish-Cypriot municipalities in an attempt to satisfy both communities and prevent conflict; however, just four years later these concessions proved unsuccessful. By 1964, armed conflict between Greeks and Turks rose to a level of alarm that required the UN to intervene by sending peacekeeping forces to the island. To this day, the UN remains in Cyprus in one of its longest-ever peacekeeping missions. 
+The nuances of Cyprus's history and political control by the Ottoman Empire, Greece, and England go beyond the scope of this project—for the sake of brevity and maintain focus on the aftermath of the invasion, this summary will begin in 1960 when Cyprus became an independent republic, free of British rule (although two large British bases remain on the island to this day). Cyprus's new constitution allocated separate control to Greek- and Turkish-Cypriot municipalities in an attempt to satisfy both communities and prevent conflict; however, just four years later, these concessions proved unsuccessful. By 1964, armed conflict between Greeks and Turks rose to a level of alarm that required UN intervention by sending peacekeeping forces to the island. To this day, the UN remains in Cyprus in one of its longest-ever peacekeeping missions. 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/independence.jpg)
 
 *Celebration of Cypriot Independence.* Source: Military Histories: The Green Line in Cyprus.
 
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
 **Drawing the Green Line**  
 
-Fighting escalated to a point at which Cypriot forces accepted putting troops under British control. British Major General Young embarked on a set of discussions and concessions with Greek and Turkish National Contingents. Attempting to appease both sides, he began drawing a line on one of his maps of Cyprus to separate the Greek south from the Turkish north. General Young's selection of a green pencil was no random choice—blue and red were out of the question given that they were associated both with the British flag (the former enemy) and with the Greek and Turkish flags. Green was associated with military fortifications and was the most 'neutral' color choice. General Young went back and forth with Greek and Turkish representatives, erasing and re-drawing the line until both sides were in agreement. And just like that, the Green Line was born, and a country divided. Although the Green Line was meant to be a temporary step to restore peace between the two sides, it became a permanent and impassable part of the island after the Turkish Invasion of 1974. 
+Fighting escalated to a point at which Cypriot forces accepted the British taking control of local troops. British Major General Young embarked on a set of discussions and concessions with Greek and Turkish National Contingents. Attempting to appease both sides, he began drawing a line on one of his maps of Cyprus to separate the Greek south from the Turkish north. General Young's selection of a green pencil was no random choice—blue and red were out of the question given that they were associated both with the British flag (the former enemy) and with the Greek and Turkish flags. Green was associated with military fortifications and was the most 'neutral' color choice. General Young went back and forth with Greek and Turkish representatives, erasing and re-drawing the line until both sides were in agreement. And just like that, the Green Line was born, and a country divided. Although the Green Line was meant to be a temporary step to restore peace between the two sides, it became a permanent and impassable part of the island after the Turkish Invasion of 1974. 
 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/green line.jpg)
 
 *The original Green Line is drawn.* Source: Military Histories: The Green Line in Cyprus.
 
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
 **The Invasion of 1974**  
 
-Continued violence between the two sides following the events of 1964 
+Continued violence between the two sides following the events of 1964 up until 1974 when the conflict came to a turning point. Greek nationalists attempted a military coup, which Turkey took as a threat and subsequently sent forces to invade the island in what they called a "peacekeeping mission." Turkey took control of the northern half of the island, and all Greek-Cypriots living in the north were immediately forced from their homes, and Turkish-Cypriots in the south part of the island were relocated to the north. To this day, no country (nor the UN) other than Turkey recognizes the so-called 'Northern Republic of Cyprus.' 
 
 ![loss](/conflict_urbanism_sp2023/images/Cyprus/invasion.png)
 
 *Turkish forces storm the streets during the 1974 invasion.* Source: T-Vine.
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
 **The Aftermath**  
@@ -68,39 +78,78 @@ Over 200,000 Cypriots were displaced from their own homes and became refugees in
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
-### THEN AND NOW  
+### INSIDE THE GREEN LINE: THEN AND NOW 
 
-**Before the 1974 Invasion**
+The drawing of the Green Line not only affected the forced migration of people on either side of the line, but it also deeply affected Cypriot symbols of culture within the Green Line that were essentially 'neutralized' due to their location within the buffer zone. Furthermore, the way in which the Green Line is drawn in maps today—usually greyed out—underscores the implication that artifacts of culture within the Buffer Zone are disregarded and 'neutralized' themselves. This section calls out two of the most pertinent examples of 'neutralized' culture.
 
+**The Nicosia International Airport**
 
+The first example is Nicosia's airport: it was set to become a travel hub for the Mediterranean and Middle East, brining in tourists from around the world and exhibiting all that Cyprus has to offer. Now, it sits abandoned and in disrepair—untouched since it was deserted in 1974.  
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
+![airport](/conflict_urbanism_sp2023/images/Cyprus/airport before.png)
 
-**Today**
+*The Nicosia International Airport* Then. Source: World Abandoned.
 
-Land divided, land untouched. Much of the territory within the Green Line has been left completely untouched since 1974. Nicosia's airport was set to become a travel hub for the Mediterranean and Middle East, yet now sits abandoned and in decay.
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
-![sign](/conflict_urbanism_sp2023/images/Cyprus/no mans land.jpg)
+![airport](/conflict_urbanism_sp2023/images/Cyprus/airport after.png)
 
-*The Buffer Zone.* Source: Tiggerbird's Travels.
+*The Nicosia International Airport* Now. Source: Dimitris Sideridis.
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
+![airport](/conflict_urbanism_sp2023/images/Cyprus/airport after2.png)
+
+*The Nicosia International Airport* Now. Source: Dimitris Sideridis.
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+  
+
+**Ledra Palace Hotel**
+
+Second is Ledra Palace: once one of Nicosia's most upscale hotels that was home to celebrations for upper-class Cypriots and a symbol of the city and country's prosperity from its opening in 1949. After the first conflicts broke out in 1964, the UN's peacekeeping forces have set up shop within the once-glitzy hotel walls, and its common areas converted to spaces for peacekeeping talks between Greek and Turkish politicians. As of 2004, it became the site of an official crossing point between the north and the south.
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
+![airport](/conflict_urbanism_sp2023/images/Cyprus/ledra before.jpg)
+
+*Ledra Palace Hotel* Then. Source: ARTos Foundation/MAPS.
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
+![airport](/conflict_urbanism_sp2023/images/Cyprus/ledra palace battle.png)
+
+*Ledra Palace Hotel during the invasion* 1974. Source: Dimitris Sideridis.
+
+![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
+
+![airport](/conflict_urbanism_sp2023/images/Cyprus/ledra after.png)
+
+*Ledra Palace Hotel as UN Peacekeeping Forces HQ* Now. Source: AP News.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 
 ### MAPPING AS...  
 
-Analysis of interpretation and representation of currenting mappings of Cyprus and the Green Line.
 
 **...Counter Cartography**
+
+
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 **...Political Power Play**
 
+
+
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
 **...Social Construct**
+
+
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -175,7 +224,7 @@ Nearly 50 years have passed since the invasion and subsequent fracture of the is
 
 ![sign](/conflict_urbanism_sp2023/images/Cyprus/northern cyprus.jpeg)
 
-*Northern Cyprus: Lands Unseen for 50 Years.* Source: Jack Mac.
+*Northern Cyprus: Lands Unseen for 50 Years.* Images of a view that may never be seen again by many Greek-Cypriots. Source: Jack Mac.
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
 
@@ -210,5 +259,20 @@ northern cyprus
 
 https://www.t-vine.com/hubris-nemesis-and-lies-cyprus-and-the-downfall-of-the-greek-cypriots-in-1974/
 invasion
+
+https://www.worldabandoned.com/nicosia-airport
+airport before and after
+
+https://nonument.org/nonuments/the-ledra-palace-hotel/
+ledra before ARTos Foundation/MAPS
+
+https://apnews.com/article/nicosia-international-news-europe-cyprus-travel-199a790bddca4ab5a2faef84822070a4
+ledra after
+
+https://mosaic.gr/ledrapalace/
+ledra palace battle
+
+https://www.cnn.com/travel/article/nicosia-airport-abandoned-cyprus/index.html
+airport after
 
 ![break](/conflict_urbanism_sp2023/images/Cyprus/spacer.jpg)
