@@ -46,7 +46,7 @@ Drone strikes were an inhumane and inaccurate system of determining who a milita
 
 Along with these Pakistan has also been continuously under insurgent terrorist attacks which saw a rise post 2001. It has been consistently in the top 10 of the countries most impacted by global terrorism.
 
-![Bomb Blast in Peshawar](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism1.jpg)
+
 
 
 
