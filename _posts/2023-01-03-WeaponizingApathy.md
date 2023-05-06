@@ -5,11 +5,13 @@ image: "/conflict_urbanism_sp2023/images/WeaponizingApathy/Cover.jpg"
 title:  "Weapopnizing Apathy, Pakistan"
 author: "Iza Khan"
 ---
-#### **How do we begin to unravel the multiscalar spatial traumas that the global south goes through?**  
-
 
 ![From UNOSAT Flood Data](/conflict_urbanism_sp2023/images/WeaponizingApathy/PakFloods1.jpg)
 *Pakistan Flood*
+
+
+#### **How do we begin to unravel the multiscalar spatial traumas that the global south goes through?**  
+
 
 
 This project aims to understand systems of apathy generated through mistrust and alienation of a singular community. During the floods that hit Pakistan President Biden stated;  “Pakistan is one of the most dangerous nations" in the world with "nuclear weapons without any cohesion"  This statement holds a certain level of irresponsibility towards a nation going through a dire humanitarian crisis which killed 1,739 people, and destroyed 1.7 million homes. These floods stemmed from unprecedented rainfall. These floods were a direct result of global climate change. Statistically, Pakistan accounts for around 0.6% of the world's greenhouse gas emissions, even though it makes up nearly 2.7% of the global population. China is the world's biggest emitter, at 32.5%, and while the US is second, accounting for 12.6%, it has historically been the biggest emitter globally. Yet, the global narrative surrounding these floods was one of indifference built through a vague understanding of isolated media reports. 
@@ -52,7 +54,7 @@ Along with these Pakistan has also been continuously under insurgent terrorist a
 
 
 
-## This particular project builds on two key spatial traumas and overlays the data to find points of global isolation. Specifically, for the two cities who have been living at the frontlines of both these issues. 
+### This particular project builds on two key spatial traumas and overlays the data to find points of global isolation. Specifically, for the two cities who have been living at the frontlines of both these issues. 
 
 
 ![Mapping Out Collective Conflict](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism+Flood.jpeg)
@@ -63,6 +65,7 @@ Along with these Pakistan has also been continuously under insurgent terrorist a
 #### Swat District
 
 ![Swat Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/SwatNews.png)
+*Map by Iza Khan*
 
 The Swat valley faced a huge loss in infrastructural damages that included bridges and mosques, the roads between Bahrain and Kalam which was built in 2018 for Rs10 billion cost, were washed away due to the intense floods. Swat has also been on the frontlines of the terrorism conflict throughout the years and is seeing a rise in terrorist activities due to the growing threat of TTP (Tehreek-e-Taliban Pakistan)
 
@@ -71,6 +74,7 @@ The Swat valley faced a huge loss in infrastructural damages that included bridg
 #### Jacoabad
 
 ![Jacoabad Overlaying](/conflict_urbanism_sp2023/images/WeaponizingApathy/jacobabad2.jpeg)
+*Map by Iza Khan*
 
 Jacobabad is Pakistan’s hottest cities and during the floods it faced great scales of devastation, more than 156,000 homes were damaged or destroyed three main canals were breached, the flood encompassing the region had left more than 3,700 villages under water. Leaving more than 37,000 of the homeless and camping in 107 temporary sites. Jacobabad has also previously been at loss from terrorist attacks.
 
