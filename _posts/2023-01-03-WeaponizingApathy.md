@@ -54,7 +54,7 @@ Along with these Pakistan has also been continuously under insurgent terrorist a
 
 
 
-### This particular project builds on two key spatial traumas and overlays the data to find points of global isolation. Specifically, for the two cities who have been living at the frontlines of both these issues. 
+#### **This particular project builds on two key spatial traumas and overlays the data to find points of global isolation. Specifically, for the two cities who have been living at the frontlines of both these issues.**
 
 
 ![Mapping Out Collective Conflict](/conflict_urbanism_sp2023/images/WeaponizingApathy/Terrorism+Flood.jpeg)
