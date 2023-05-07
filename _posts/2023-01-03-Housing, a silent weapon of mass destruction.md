@@ -21,7 +21,7 @@ On February 6, 2023, a severe earthquake with a Richter scale reading of 7.7 dev
 **The number of fatalities and property losses from this earthquake has eclipsed all previous records, exposing the cause of this immense catastrophe - HOUSING.**
 
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f9b6ab2-eadd-11ed-b5bd-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="45" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=3f9b6ab2-eadd-11ed-b5bd-6595d9b17862"></iframe>
 <sub> **Figure 1: Deadliest earthquakes in the world**</sub>
 
 <sub> Maps made by Heer Shah, Reya Singhi</sub>
@@ -62,7 +62,7 @@ earthquake-prone zones due to massive unreinforced apertures. These areas are ty
 ### AHMEDABAD, GUJARAT 
 
 
-<iframe src="https://player.vimeo.com/video/823153430?h=132df09630&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/823153430?h=132df09630&autoplay=1&loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="1" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 
