@@ -42,12 +42,12 @@ As the country still grieves for such tremendous loss of life in the South, the 
 The aftermath of the recent quakes has alarmed Istanbul Metropolitan Municipality, which has launched various action plans to ensure the safety of the city’s existing building stock by conducting free on-site structural tests, expediting urban renewal projects, and offering financial support and temporary housing for those who live in risky buildings. However, the newly-elected mayor Ekrem Imamoglu states that the increased demand to structural tests and other programs have exhausted the city’s limits.
 
 ![Map Showing Percentage of the Amount of Buildings Tested in Every Administrative Region](/conflict_urbanism_sp2023/images/At the Fault Lines/istanbul-test-map.png)
-**Map published by IMM Directorate of Earthquake and Ground Research**  
+*Map published by IMM Directorate of Earthquake and Ground Research*  
 
 The above map shows that only a small percentage of the city have been able to be tested since 2019, pointing out to a need for an alternative, faster approach. Another significant challenge dates back to 1940s when the country encouraged rural-to-urban migration to solve the increasingly pressing working shortage as Istanbul became an important global production center. Due to the lack of resources and interest in expanding the city for planned low-income housing neighborhoods, the governments have allowed workers to build their own housing on various parts of the city. The term "gecekondu" (which literally means 'built overnight') is used today to define the present urban patches and neighborhoods that got swallowed by the fast-sprawling city. 
 
 ![Spatial inequality](/conflict_urbanism_sp2023/images/At the Fault Lines/Earthquake-realestate.gif)
-**Satellite images retrieved by using Google Maps API. Real estate data is retrieved from Zingat.com**  
+*Satellite images retrieved by using Google Maps API. Real estate data is retrieved from Zingat.com*  
 
 The above collection of satellite imagery aims to show the stark difference in the amount "open space" and average price of monthly rent in various neighborhoods across the city. As the income inequality increases, it also renders people living in "low-income" areas significantly more vulnerable against disasters such as the expected Istanbul Earthquake. Many planned "high-income" neighborhoods and the mentioned "gecekondu" areas are located side-to-side, often only separated by highways, hills, or high-rise buildings that are built as part of urban renewal programs. As pointed out by the mayor, most of AKP's promised urban renewal projects took place in middle to higher income neighborhoods where developers could achieve higher profit margins. Hence any risk assessment project should point their focus to these often overlooked low-income neighborhoods, where people are comparatively more vulnerable and under higher risk.
 
@@ -97,7 +97,7 @@ These "pancake collapses" are recognized as the primary cause of devastating con
     The 1999 Earthquake has shown that the usage of certain construction materials, such as “sea-sand mixed cement” or rebars with no ribs, can be a significant risk factor during a earthquake. Although most of these materials cannot be identified without a structural test, some easy-to-spot visual hints can offer useful information. Many locals are advised to look for sea shells on the surface of the concrete to identify whether the cement is mixed with sea-sand.
 
 
-#### METHODOLOGY
+#### **METHODOLOGY**
 
 ![Methodology Diagram](/conflict_urbanism_sp2023/images/At the Fault Lines/atfl_methodology.png)  
 
@@ -138,7 +138,7 @@ The above diagram illustrates the main framework of the methodology behind the a
     Once the ML model is able to accurately detect the aforementioned building features that may constitute structural failure risk, it may be further trained on Google StreetView images, and later be used to generate a city-wide risk assessment map. 
 
 
-**DATA SOURCES**
+#### **DATA SOURCES**
 
 ![Various different maps merged and cleaned up into one single GIS basemap](/conflict_urbanism_sp2023/images/At the Fault Lines/istanbul-maps.png)  
 
@@ -150,7 +150,15 @@ The above diagram illustrates the main framework of the methodology behind the a
     - **Microsoft Planetary Computer** **Building Footprint Dataset** is another alternative dataset that uses specialized ML models to generate building footprints from satellite imagery. This could be a valuable tool to obtain building shape data in certain neighborhoods where many buildings are purposefully not registered to the municipality’s system to avoid regulations.
 2. **Google StreetView API** will be used gather street images on which the trained ML model to make assessments.
 
-**BIBLIOGRAPHY**
+#### **CHALLENGES**
+This proposal envisions an alternative method to the current day traditional structural risk assessment practices that have various shortcomings in the case of Istanbul. Computationally generated, machine-learning based models have proven to be quite useful in detecting various risk identifiers, if a large-enough data set was used in training. However, the effectiveness of this method relies heavily crowdsourced data collection efforts, as well as data cleanup and various other factors.
+
+Furthermore, collected images and other data are subject to many points of failure - especially the consistency of the imagery, as well as the heavy presence of urban artifacts and people populating the front-facing facade images of the buildings. Even though these images could be further cleaned using photo-editing software such as Adobe Photoshop, the trained model will potentially run into a similar issue when processing the Google StreetView images, given many of them have trees, vehicles, people and other artifacts blocking the building facades. Such challenges may affect the results significantly.
+
+#### **CONCLUSION**
+Despite the challenges, this proposal has significant potential to become a widely-used tool in preventing such dire losses in the future. Although this method may not be as accurate as physical structural tests, it may play a key role in primary testing and detecting higher-risk areas and buildings on which the national and local authorities can focus their work efforts. Given the time constraints and the scale of the problem in the case of Istanbul, this method could be a highly useful asset in preparing against the upcoming Istanbul Earthquake.
+
+#### **BIBLIOGRAPHY**
 
 Andrew, Revkin. “Gauging Losses and Lessons in Turkey's Unfolding Earthquake Calamity,” *Sustain What (blog)*. February 6, 2023. https://revkin.substack.com/p/gauging-losses-and-lessons-in-turkeys
 
