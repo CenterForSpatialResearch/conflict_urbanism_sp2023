@@ -151,16 +151,29 @@ The above diagram illustrates the main framework of the methodology behind the a
 2. **Google StreetView API** will be used gather street images on which the trained ML model to make assessments.
 
 **BIBLIOGRAPHY**
+
 Andrew, Revkin. “Gauging Losses and Lessons in Turkey's Unfolding Earthquake Calamity,” *Sustain What (blog)*. February 6, 2023. https://revkin.substack.com/p/gauging-losses-and-lessons-in-turkeys
+
 Lydia, Polgreen. “‘The State Failed These People. They Didn’t Have to Die Like This.’“ *The New York Times.* March 10, 2023. https://www.nytimes.com/2023/03/10/opinion/erdogan-turkey-earthquake.html
+
 Hubbard, Ben, Elif Ince and Safak Timur. “Turkish Builders Come Under Intense Scrutiny Over Shoddy Construction.” *The New York Times*. February 23, 2023. https://www.nytimes.com/2023/02/23/world/middleeast/turkish-builders-come-under-intense-scrutiny-over-shoddy-construction.html
+
 Fountain, Henry. "Turkey’s Earthquake Zone is A Lot Like California’s. Here’s What That Means.” *The New York Times*. February 27, 2023. https://www.nytimes.com/2023/02/27/climate/turkey-syria-earthquakes-california.html?searchResultPosition=13
+
 Singhi, Anjali, Bedel Saget, K.K. Rebecca Lai, Yuliya Parshina-Kottas, Sergey Ponomarev and Jeremy White. "See One Historic Turkish Street Before and After the Earthquakes.” *The New York Times*. March 22, 2023. https://www.nytimes.com/interactive/2023/03/22/world/middleeast/turkey-earthquake-antakya.html?searchResultPosition=7
+
 Abraham, Leanne, Lauren Leatherby, Scott Reinhard, and Jeremy White. "Thousands of Buildings Collapsed in One Turkish City. Thousands More May Have to Come Down.” *The New York Times*. March 13, 2023. https://www.nytimes.com/interactive/2023/03/13/world/middleeast/antakya-damage-assessment.html?action=click&pgtype=Article&state=default&module=styln-turkey-earthquake&variant=show&region=MAIN_CONTENT_1&block=storyline_top_links_recirc
+
 Mark, Quigley. “Earthquake footage shows Turkey’s buildings collapsing like pancakes. An expert explains why.” *The Conversation*. February 6, 2023. https://theconversation.com/earthquake-footage-shows-turkeys-buildings-collapsing-like-pancakes-an-expert-explains-why-199389
+
 Horton, Jake, and William Armstrong. “Turkey earthquake: Why did so many buildings collapse?” *BBC*. February 9, 2023. https://www.bbc.com/news/64568826
+
 “Istanbul Mayor warns about risk of 90,000 buildings collapsing in expected major quake.” Duvar English. February 13, 2023. https://www.duvarenglish.com/istanbul-mayor-imamoglu-warns-about-risk-of-90000-buildings-collapsing-in-expected-major-quake-news-61848
+
 “2019 video of Erdoğan praising zoning amnesty in quake-hit province goes viral.” *Duvar English*. February 12, 2023. https://www.duvarenglish.com/2019-video-of-erdogan-praising-zoning-amnesty-in-quake-hit-province-goes-viral-video-61831
+
 Vox. “How these buildings made Turkey-Syria’s earthquake so deadly,” *YouTube video*, 6:15. February 14, 2023. https://www.youtube.com/watch?v=TnlCRoBAcuw 
+
 Elijah, Chiland. “Will your building hold up in a major earthquake?” *Curbed*. May 9, 2018. https://la.curbed.com/2018/5/9/17329450/los-angeles-earthquake-damage-building-collapse
+
 Saatcioglu, Murat & Mitchell, Denis & Tinawi, René & Gardner, N. (Noel) & Gillies, Anthony & Ghobarah, Ahmed & Anderson, Donald & Lau, David. (2001). The August 17, 1999, Kocaeli (Turkey) earthquake - Damage to structures. *Canadian Journal of Civil Engineering* - CAN J CIVIL ENG. 28. 715-737. 10.1139/cjce-28-4-715.
